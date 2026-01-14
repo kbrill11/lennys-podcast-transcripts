@@ -1,0 +1,90 @@
+{
+  "episode_id": "casey-winters",
+  "guest": "Casey Winters",
+  "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+  "youtube_url": "https://www.youtube.com/watch?v=WlRfyEpAKxw",
+  "duration": "1:39",
+  "duration_seconds": 99.0,
+  "view_count": 2212,
+  "themes": [
+    "product management leadership",
+    "growth strategies",
+    "executive communication",
+    "product complexity management",
+    "team development",
+    "startup scaling",
+    "operations efficiency",
+    "strategic thinking"
+  ],
+  "key_insights": [
+    "Most product managers under-communicate upward and fail to provide proper context to executives when presenting",
+    "Executives need stories that start with chapter one (company strategy, metrics, assumptions) rather than jumping to implementation details",
+    "Operations roles should aim to eliminate themselves by building processes and automation rather than becoming permanent functions",
+    "Product-market fit is not permanent - user expectations and competition continuously raise the bar requiring ongoing investment",
+    "The biggest career bottleneck for PMs is developing strategic thinking skills rather than just execution abilities",
+    "Data network effects are underappreciated as a growth strategy, especially with platform changes reducing reliance on external data",
+    "Product managers exist on a spectrum from innovators (lots of ideas, poor execution) to executors (great at delivery, limited strategy)"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at Eventbrite",
+    "expertise_areas": [
+      "product management",
+      "growth strategy",
+      "consumer products",
+      "startup scaling"
+    ],
+    "notable_companies": [
+      "Pinterest",
+      "GrubHub",
+      "Greylock Partners",
+      "Airbnb",
+      "Tinder",
+      "Canva",
+      "Thumbtack"
+    ]
+  },
+  "topics_discussed": [
+    "Executive communication and upward reporting",
+    "Trade-off decision making and transparency",
+    "Managing product complexity while maintaining simplicity",
+    "Justifying non-sexy product investments (performance, stability)",
+    "Product operations efficiency vs empire building",
+    "CPO role responsibilities and career path",
+    "PM skill development spectrum (innovator vs executor)",
+    "Growth strategy evolution and new trends",
+    "Product-led sales integration",
+    "Data network effects as competitive advantage",
+    "When to focus on growth vs product-market fit",
+    "Kindle vs fire growth strategies",
+    "Building growth loops into early products",
+    "Team training and strategic thinking development"
+  ],
+  "memorable_quotes": [
+    "The goal of your Kindle strategies, these like non-scalable hacks, they only exist to unlock the fire strategies, to unlock the things that could take you to millions of users.",
+    "Having marketing ops means you suck at marketing.",
+    "If you're not an executive, whatever you're working on, you're basically writing and telling a story. And when you talk to an exec about that story, you have to start with chapter one."
+  ],
+  "frameworks_mentioned": [
+    "Product life cycle (Scott Belsky's simple product → complex → users flee model)",
+    "Progressive disclosure design pattern",
+    "Perceived simplicity concept",
+    "Kindle vs Fire growth strategies",
+    "Product-led sales methodology",
+    "Data network effects",
+    "PM spectrum (innovator to executor)",
+    "Chapter-based communication framework"
+  ],
+  "recommended_for": [
+    "Product managers seeking leadership roles",
+    "Aspiring CPOs and product executives",
+    "Growth professionals",
+    "Startup founders scaling their teams",
+    "Product leaders managing complex products",
+    "Anyone struggling with executive communication"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Casey Winters shares hard-won insights on product leadership, from mastering executive communication to building scalable growth strategies. The episode provides tactical frameworks for managing product complexity, developing strategic thinking, and advancing from IC to executive roles.",
+  "analyzed_at": "2026-01-14T15:40:24.079353+00:00",
+  "analyzer_version": "1.0.0"
+}

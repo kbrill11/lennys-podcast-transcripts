@@ -1,0 +1,88 @@
+{
+  "episode_id": "crystal-w",
+  "guest": "Crystal W",
+  "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+  "youtube_url": "https://www.youtube.com/watch?v=kvkL18Ue0dE",
+  "duration": "1:13:13",
+  "duration_seconds": 4393.0,
+  "view_count": 33904,
+  "themes": [
+    "growth strategies",
+    "consumer product growth",
+    "Southeast Asian startup ecosystem",
+    "data analytics and instrumentation",
+    "growth team building",
+    "product-market fit",
+    "super app development",
+    "experimentation and testing",
+    "STEM education advocacy"
+  ],
+  "key_insights": [
+    "Run experiments with as few as 30 users - the data trends remain consistent even with small sample sizes, though precision improves with scale",
+    "For free products, aim for 60% week-1 retention that flattens after 2-3 weeks; paid products should target 20-30%",
+    "Focus on solving trust and friction issues before optimizing for conversion - address the step before users make decisions",
+    "Do things that don't scale initially - rent stadiums, use WhatsApp groups, create Wizard of Oz experiences to validate hypotheses",
+    "Most analytics efforts fail because teams track measurements instead of insights - instrument properties into events to understand the 'why' behind user behavior",
+    "Copy optimization can be the biggest lever for early-stage products - tie unfamiliar products to familiar concepts",
+    "Add pause/snooze features instead of just cancel options to reduce churn for subscription products",
+    "Growth teams should focus on filling obvious gaps rather than trying to figure out growth strategy from scratch"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at Kumu",
+    "expertise_areas": [
+      "consumer growth",
+      "product management",
+      "data analytics",
+      "Southeast Asian markets",
+      "super app development"
+    ],
+    "notable_companies": [
+      "Gojek",
+      "Kumu",
+      "Generation Girl (founder)"
+    ]
+  },
+  "topics_discussed": [
+    "Career transition from investment banking to Southeast Asian startups",
+    "Gojek's growth from 4,000 to millions of daily orders",
+    "Why super apps work in Southeast Asia but not the US",
+    "Scrappy growth tactics and doing things that don't scale",
+    "Running experiments with small sample sizes",
+    "Retention benchmarks for free vs. paid products",
+    "Growth model frameworks and understanding product physics",
+    "Leveraging existing assets (drivers) for cross-selling",
+    "Copy optimization for unfamiliar product concepts",
+    "Analytics instrumentation best practices",
+    "Setting up and structuring growth teams",
+    "Hiring criteria for growth roles",
+    "Generation Girl nonprofit for STEM education",
+    "Recommended technology stack for startups",
+    "Cultural differences in startup approaches between Asia and US"
+  ],
+  "memorable_quotes": [
+    "If someone told you in the US that they were going to rent out a stadium, pre-load a bunch of mobile devices... some people would say 'No. That's crazy.' But this concept of doing things that are somewhat crazy, but validate a point, doing stuff that don't scale, is really the bread and butter of what we did at Gojek.",
+    "Do not treat metric gathering as entertainment. Real news is information that changes what you do in the real world. If you don't change what you're doing, what you are doing is just getting entertainment.",
+    "Everyone wants to go on retention... but they don't realize that users make decisions based on succeeding events. So what's one step before the user makes that decision?"
+  ],
+  "frameworks_mentioned": [
+    "Growth model physics framework (market, product, model, channels)",
+    "User psychology funnel optimization",
+    "Made to Stick mental model for specificity",
+    "Wizard of Oz testing methodology",
+    "Event tracking instrumentation with properties",
+    "Cohort retention analysis"
+  ],
+  "recommended_for": [
+    "growth product managers",
+    "startup founders focusing on consumer products",
+    "data analysts and growth marketers",
+    "product managers in emerging markets",
+    "early-stage startup employees",
+    "anyone interested in Southeast Asian startup ecosystem"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Crystal Widjaja shares tactical growth strategies from scaling Gojek into Southeast Asia's largest super app, covering everything from scrappy experimentation with small sample sizes to proper analytics instrumentation and growth team building. The episode provides concrete frameworks and actionable insights for consumer product growth, particularly valuable for startup founders and growth practitioners.",
+  "analyzed_at": "2026-01-14T15:44:50.912609+00:00",
+  "analyzer_version": "1.0.0"
+}

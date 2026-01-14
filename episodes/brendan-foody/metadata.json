@@ -1,0 +1,85 @@
+{
+  "episode_id": "brendan-foody",
+  "guest": "Brendan Foody",
+  "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+  "youtube_url": "https://www.youtube.com/watch?v=ja6fWTDPQl4",
+  "duration": "1:07:08",
+  "duration_seconds": 4028.0,
+  "view_count": 28965,
+  "themes": [
+    "AI evaluation and training",
+    "Labor marketplaces and talent sourcing",
+    "Hyper-growth company building",
+    "Product-market fit discovery",
+    "Future of work and AI displacement",
+    "Reinforcement learning and model training",
+    "High-performance culture building",
+    "Expert knowledge integration"
+  ],
+  "key_insights": [
+    "Evals are becoming the new product requirement documents - if the model is the product, evals define what success looks like",
+    "The fastest growth comes from finding leading indicators in rapidly changing markets where wealthy customers pay whatever it takes",
+    "Focus on elastic demand industries (software, product management) where 10x productivity increases create 100x more demand rather than displacement",
+    "Success requires being stubborn about your thesis of how the world will change but flexible about the exact form it takes",
+    "High-performing companies need three pillars: can-do attitude (ambitious goals), high standards (exceptional talent), and intensity (output-focused culture)",
+    "The shift from crowdsourced low-skill labor to expert professionals represents a fundamental change in how AI models are trained",
+    "Market pull is more valuable than forced product-market fit - look for customers that are surprisingly easy to sell to",
+    "Learning to leverage AI tools effectively is becoming as important as domain expertise itself"
+  ],
+  "guest_background": {
+    "current_role": "CEO and Co-founder of Mercor",
+    "expertise_areas": [
+      "AI training and evaluation",
+      "labor marketplaces",
+      "hyper-growth scaling",
+      "talent sourcing"
+    ],
+    "notable_companies": [
+      "Mercor",
+      "xAI (customer)",
+      "OpenAI (customer)"
+    ]
+  },
+  "topics_discussed": [
+    "AI evaluation systems and their importance",
+    "Transition from crowdsourced to expert-driven AI training",
+    "Mercor's growth from $1M to $400M revenue in 16 months",
+    "Post-training vs pre-training in AI model development",
+    "Expert marketplace dynamics and pricing ($95-500/hour)",
+    "Reinforcement learning from AI feedback (RLAIF)",
+    "Company culture and hiring practices",
+    "Future of labor markets and job displacement",
+    "Skills and careers that will remain valuable",
+    "Scaling challenges and team building",
+    "Product-market fit discovery process",
+    "Working with major AI labs (6 of Magnificent 7)",
+    "Competition landscape in data labeling industry",
+    "AI scaling laws and superintelligence timelines",
+    "Personal entrepreneurship journey from age 14"
+  ],
+  "memorable_quotes": [
+    "If the model is the product, then the eval is the product requirement document",
+    "Models are only as good as their evals",
+    "If you really think about it, we were put on Earth to create reinforcement learning training data for labs"
+  ],
+  "frameworks_mentioned": [
+    "Leading indicators in fast-moving markets",
+    "Elastic vs inelastic demand industries",
+    "Three pillars of high performance (can-do attitude, high standards, intensity)",
+    "Post-training data optimization",
+    "Reinforcement learning from AI feedback (RLAIF)"
+  ],
+  "recommended_for": [
+    "AI/ML professionals and researchers",
+    "Startup founders and entrepreneurs",
+    "Product managers in tech companies",
+    "People interested in future of work",
+    "Investors in AI and marketplace companies",
+    "Anyone building or working with AI systems"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Brendan Foody, CEO of the fastest-growing company in history (Mercor), explains how the AI industry is entering the 'era of evals' where expert humans are essential for training advanced models. He shares tactical insights on building hyper-growth companies, discovering product-market fit, and preparing for the future of work in an AI-driven economy.",
+  "analyzed_at": "2026-01-14T15:36:22.813555+00:00",
+  "analyzer_version": "1.0.0"
+}

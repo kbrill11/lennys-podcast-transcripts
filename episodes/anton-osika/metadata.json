@@ -1,0 +1,83 @@
+{
+  "episode_id": "anton-osika",
+  "guest": "Anton Osika",
+  "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+  "youtube_url": "https://www.youtube.com/watch?v=DZtGxNs9AVg",
+  "duration": "1:09:48",
+  "duration_seconds": 4188.0,
+  "view_count": 56547,
+  "themes": [
+    "AI-powered software development",
+    "Product-market fit and rapid scaling",
+    "Building lean high-performance teams",
+    "Future of programming and engineering roles",
+    "European startup ecosystem",
+    "Hiring and team culture",
+    "Product prioritization and development",
+    "Entrepreneurship enablement through AI"
+  ],
+  "key_insights": [
+    "Spend a full week using AI tools to solve a real problem to reach top 1% proficiency globally",
+    "Hire generalists with deep expertise in one area plus obsessive care about the product and team",
+    "Being extremely specific in AI prompts is more critical than with human communication",
+    "Product-market fit can drive 1M+ ARR growth per week with minimal team size (18 people)",
+    "The biggest bottleneck shifts from engineering to understanding what users actually want",
+    "Work trials (1 day to 1 week) are essential for vetting candidates in high-growth environments",
+    "Building in-office with shared lunches enables high-bandwidth communication and faster iteration"
+  ],
+  "guest_background": {
+    "current_role": "CEO and co-founder of Lovable",
+    "expertise_areas": [
+      "AI software engineering",
+      "product development",
+      "startup scaling"
+    ],
+    "notable_companies": [
+      "Lovable",
+      "Summer Labs",
+      "YC startup (as CTO)"
+    ]
+  },
+  "topics_discussed": [
+    "Live demo of building an Airbnb clone in minutes",
+    "Scaling from 4M to 10M ARR in 60 days with 15 people",
+    "AI agent getting 'stuck' and technical solutions",
+    "Comparison with competitors (Bolt, Replit, Cursor)",
+    "Hiring 'cracked engineers' and team composition",
+    "European vs Silicon Valley startup culture",
+    "Weekly planning and roadmap management",
+    "Using Linear and FigJam for operations",
+    "Future of engineering roles and required skills",
+    "Building products for non-technical users",
+    "GitHub integration and collaborative development",
+    "Importance of being specific with AI prompts",
+    "Origin story from GPT Engineer open source project",
+    "Supporting entrepreneurs after initial product build",
+    "Product prioritization and engineering-led decisions"
+  ],
+  "memorable_quotes": [
+    "We're building the last piece of software",
+    "People love the product. That's the driver of the growth.",
+    "Being a generalist, I think much more important than it used to be. If I'm putting together a product team today, I would really obsess about getting as many skill sets as possible for each person I hire."
+  ],
+  "frameworks_mentioned": [
+    "Minimum Lovable Product (MLP) instead of MVP",
+    "Weekly planning with demo cadence",
+    "Engineering-led product development",
+    "Work simulation trials for hiring",
+    "Scaling laws for AI system improvement"
+  ],
+  "recommended_for": [
+    "Product managers exploring AI tools",
+    "Startup founders and entrepreneurs",
+    "Engineering leaders building AI products",
+    "Investors in AI/developer tools space",
+    "Anyone interested in the future of software development",
+    "European startup ecosystem participants"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Anton Osika shares how Lovable became Europe's fastest-growing startup by enabling non-technical users to build software through AI, reaching 10M ARR in 60 days with just 15 people. The conversation covers practical insights on AI tool mastery, hiring exceptional talent, and the fundamental shift from engineering as the bottleneck to product discovery and user understanding.",
+  "analyzed_at": "2026-01-14T15:29:28.673383+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,90 @@
+{
+  "episode_id": "andy-raskin",
+  "guest": "Andy Raskin",
+  "title": "The power of strategic narrative | Andy Raskin",
+  "youtube_url": "https://www.youtube.com/watch?v=dkVJnaxDlXE",
+  "duration": "1:02:49",
+  "duration_seconds": 3769.0,
+  "view_count": 18530,
+  "themes": [
+    "strategic narrative development",
+    "storytelling for business",
+    "pitch optimization",
+    "movement creation vs problem-solving",
+    "enterprise sales strategy",
+    "product positioning",
+    "category design alternatives",
+    "organizational alignment",
+    "B2B marketing strategy"
+  ],
+  "key_insights": [
+    "Replace the 'arrogant doctor' pitch structure (problem-solution) with movement-based storytelling that starts with world shifts",
+    "Name both the old game and new game concisely to create powerful contrast (e.g., 'software vs cloud', 'opinions vs reality')",
+    "Show winners already playing the new game to establish credibility and urgency",
+    "Frame your product as a tool to help customers join a movement, not just solve a problem",
+    "Use strategic narrative as a filter for product roadmap decisions - features must support the movement",
+    "Make slide titles the takeaway, not just labels, to reduce cognitive load for viewers",
+    "Strategic narrative works best for B2B enterprise technology companies with complex sales cycles",
+    "The second working session in narrative development is always painful but necessary for breakthrough"
+  ],
+  "guest_background": {
+    "current_role": "Strategic narrative consultant for CEOs",
+    "expertise_areas": [
+      "strategic storytelling",
+      "pitch optimization",
+      "movement creation",
+      "enterprise sales"
+    ],
+    "notable_companies": [
+      "Gong",
+      "Dropbox",
+      "Uber",
+      "Salesforce",
+      "Square",
+      "IBM",
+      "Zuora"
+    ]
+  },
+  "topics_discussed": [
+    "The five-step strategic narrative framework",
+    "Old game vs new game positioning",
+    "Movement creation versus category creation",
+    "The arrogant doctor pitch problem",
+    "Naming the stakes and showing winners/losers",
+    "Object of the new game identification",
+    "Obstacle identification and magic gifts",
+    "Salesforce cloud transformation story",
+    "Zuora subscription economy narrative",
+    "Gong opinions to reality positioning",
+    "360Learning upskill from within strategy",
+    "Hero's journey vs business storytelling",
+    "Product roadmap alignment with narrative",
+    "Enterprise vs consumer application differences",
+    "Strategic narrative team formation and process"
+  ],
+  "memorable_quotes": [
+    "This structure really is about defining a movement, and that's very different from, 'Hey, I'm going to solve your problem.'",
+    "We get a lot of requests for features and a lot of them are basically about opinions, some way to record opinions. We're not going to do those.",
+    "Make the title the takeaway of the slide so that the person looking at it has to do zero work to take away."
+  ],
+  "frameworks_mentioned": [
+    "Strategic narrative five-step framework",
+    "Old game to new game structure",
+    "The arrogant doctor pitch model",
+    "Hero's journey (referenced but not recommended)",
+    "Movement creation methodology"
+  ],
+  "recommended_for": [
+    "CEOs and founders of B2B enterprise companies",
+    "Sales leaders struggling with differentiation",
+    "Product managers working on positioning",
+    "Marketing leaders developing messaging strategy",
+    "Startup founders preparing for fundraising",
+    "Business leaders in complex technology sales"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Andy Raskin shares his strategic narrative framework that helps B2B companies shift from problem-solution pitches to movement-based storytelling. The approach focuses on defining old game vs new game transitions, showing stakes through winners/losers, and positioning products as tools to help customers join winning movements rather than just solve problems.",
+  "analyzed_at": "2026-01-14T15:28:03.068331+00:00",
+  "analyzer_version": "1.0.0"
+}

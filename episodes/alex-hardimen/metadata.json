@@ -1,0 +1,86 @@
+{
+  "episode_id": "alex-hardimen",
+  "guest": "Alex Hardimen",
+  "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+  "youtube_url": "https://www.youtube.com/watch?v=y3-cwoHMwQs",
+  "duration": "1:07:21",
+  "duration_seconds": 4041.0,
+  "view_count": 6759,
+  "themes": [
+    "product management in media/journalism",
+    "mission-driven product development",
+    "crisis product management",
+    "subscription business strategy",
+    "cross-functional collaboration with editorial teams",
+    "company culture and burnout prevention",
+    "product acquisitions and integration",
+    "content personalization and algorithms",
+    "digital transformation in traditional industries"
+  ],
+  "key_insights": [
+    "Product managers at news organizations must blend art and science, valuing expert editorial judgment alongside traditional KPIs and data",
+    "Algorithms can be trained on editorial importance scores from journalists, not just engagement metrics, creating higher quality content curation",
+    "Crisis situations require 'wartime product management' - blowing up roadmaps and rallying teams around urgent, mission-critical work",
+    "Building a subscription bundle requires three pillars: best-in-class core product (news), adjacent products serving life needs, and connected product family",
+    "Product teams should include editors when working on journalism-related features to maintain editorial independence while improving user experience",
+    "Successful acquisitions require careful integration planning, especially when users have emotional connections to the acquired product",
+    "Focus and saying no to non-essential work is crucial for preventing team burnout during high-stress periods",
+    "Impact at mission-driven companies encompasses both business metrics and real-world outcomes like policy changes or public safety"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at The New York Times",
+    "expertise_areas": [
+      "digital journalism",
+      "subscription products",
+      "crisis product management",
+      "media transformation"
+    ],
+    "notable_companies": [
+      "The New York Times",
+      "Facebook",
+      "The Atlantic"
+    ]
+  },
+  "topics_discussed": [
+    "Career path from journalism to product management",
+    "Leading Facebook's news product post-2016 election",
+    "Product team structure with embedded editors",
+    "Building subscription bundle strategy",
+    "COVID-19 crisis response and product pivots",
+    "Wordle acquisition and integration challenges",
+    "The Athletic acquisition for sports content",
+    "Interactive storytelling and data visualization",
+    "Algorithm design with editorial judgment",
+    "Remote work and hybrid office policies",
+    "Preventing burnout during crisis periods",
+    "Product metrics vs. mission impact",
+    "Comparison with Substack and creator economy",
+    "Future vision for essential subscription bundle",
+    "Working with 2000+ journalists and newsroom"
+  ],
+  "memorable_quotes": [
+    "Our impact and our business goals are in service of our mission, which is to seek the truth and help people understand the world, not the other way around.",
+    "When you're a product manager, you're involved in driving specific metrics like engagement or subscribers, but you're also trying to help stories find their real audience in ways that trigger just this whole different side of mission and purpose driven impact.",
+    "Product managers thrive in chaotic conditions - being able to take all of these crazy inputs, trying to create a very structured model to figure out what is true, where do we have conviction, and how do you get a team rallied around a shared context."
+  ],
+  "frameworks_mentioned": [
+    "Solar system product strategy (news as the sun, other products as planets)",
+    "Cross-functional mission structure (consumer, monetization, platform)",
+    "Wartime vs. peacetime product management",
+    "Art and science blend for editorial products",
+    "Essential subscription bundle framework"
+  ],
+  "recommended_for": [
+    "Product managers in media and content companies",
+    "Leaders managing crisis situations",
+    "PMs interested in mission-driven product work",
+    "Professionals considering career moves from tech to traditional industries",
+    "Product leaders building subscription businesses",
+    "Anyone interested in digital transformation of traditional companies"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Alex Hardiman shares insights on leading product at The New York Times, covering unique challenges of working with journalists, crisis product management during major news events, and building a subscription bundle strategy. The conversation offers valuable perspectives on mission-driven product development and the differences between traditional tech companies and media organizations.",
+  "analyzed_at": "2026-01-14T15:25:28.471683+00:00",
+  "analyzer_version": "1.0.0"
+}

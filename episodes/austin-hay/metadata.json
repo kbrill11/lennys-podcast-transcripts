@@ -1,0 +1,89 @@
+{
+  "episode_id": "austin-hay",
+  "guest": "Austin Hay",
+  "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+  "youtube_url": "https://www.youtube.com/watch?v=B79p85DHLkU",
+  "duration": "1:24:37",
+  "duration_seconds": 5077.0,
+  "view_count": 15343,
+  "themes": [
+    "marketing technology (MarTech)",
+    "growth infrastructure and systems",
+    "data architecture and attribution",
+    "tool selection and vendor management",
+    "cross-functional collaboration",
+    "organizational structure and hiring",
+    "B2B vs B2C growth strategies",
+    "future-proofing technology stacks"
+  ],
+  "key_insights": [
+    "Tools are meant to solve problems - don't pick tools based on familiarity, focus on the specific problem you're solving",
+    "Think 'build AND buy' instead of 'build vs buy' - combine third-party tools with custom solutions for optimal results",
+    "Set up attribution infrastructure from day one by collecting first and last touch UTM parameters, even if you start with simple attribution models",
+    "MarTech becomes necessary around 100-150 employees when village-style tool management no longer scales",
+    "Use the PPS framework: Problem, People, System - understand the problem and people involved before jumping to system solutions",
+    "Design systems with 1-2 year future state in mind to avoid costly migrations later",
+    "Probabilistic attribution is becoming essential as deterministic matching becomes harder with iOS 14+ and cookie restrictions"
+  ],
+  "guest_background": {
+    "current_role": "Head of Marketing Technology at Ramp",
+    "expertise_areas": [
+      "marketing technology",
+      "growth operations",
+      "data architecture",
+      "attribution modeling"
+    ],
+    "notable_companies": [
+      "Ramp",
+      "Runway",
+      "mParticle",
+      "Branch Metrics",
+      "Notion",
+      "Airbnb",
+      "Postmates"
+    ]
+  },
+  "topics_discussed": [
+    "Definition and role of marketing technology",
+    "When to hire a MarTech person vs relying on growth team",
+    "Organizational placement of MarTech roles",
+    "B2C vs B2B technology stack differences",
+    "Customer Data Platforms (CDPs) and reverse ETLs",
+    "Multi-touch attribution setup and best practices",
+    "Impact of iOS 14 and privacy changes on attribution",
+    "Tool procurement and contract negotiation",
+    "Interview questions and hiring criteria for MarTech roles",
+    "Recommended technology stacks for different business types",
+    "Emerging platforms like Threads and Reddit advertising",
+    "Data warehouse architecture with Snowflake",
+    "Email marketing tool evolution (Customer.io to Braze)",
+    "Attribution tools (AppsFlyer, Branch)",
+    "Cross-functional collaboration with product, engineering, and growth teams"
+  ],
+  "memorable_quotes": [
+    "Tools are just meant to solve problems",
+    "From 2010 to 2020, we had the golden years of deterministic matching where it was very easy to run an ad and understand with precision who installed the app. You can't do that anymore.",
+    "Think gray - don't decide for as long as you possibly can before you have to decide"
+  ],
+  "frameworks_mentioned": [
+    "PPS Framework (Problem, People, System)",
+    "Build AND Buy (not Build vs Buy)",
+    "First/Last Touch Attribution Setup",
+    "Thinking Gray (delaying decisions until necessary)",
+    "Multi-touch Attribution (MTA) vs Mixed Media Modeling (MMM)"
+  ],
+  "recommended_for": [
+    "growth product managers",
+    "heads of growth",
+    "marketing operations professionals",
+    "startup founders scaling growth teams",
+    "B2B and B2C marketing leaders",
+    "data and analytics professionals",
+    "anyone managing marketing technology stacks"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Austin Hay provides a comprehensive guide to marketing technology (MarTech), covering when to hire MarTech professionals, how to structure growth technology stacks, and tactical advice for attribution, tool selection, and cross-functional collaboration. The episode is packed with specific recommendations for B2B vs B2C companies and practical frameworks for making better technology decisions.",
+  "analyzed_at": "2026-01-14T15:31:47.578278+00:00",
+  "analyzer_version": "1.0.0"
+}

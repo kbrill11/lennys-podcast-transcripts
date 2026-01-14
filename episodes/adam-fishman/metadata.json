@@ -1,0 +1,88 @@
+{
+  "episode_id": "adam-fishman",
+  "guest": "Adam Fishman",
+  "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+  "youtube_url": "https://www.youtube.com/watch?v=wP8YyWH524A",
+  "duration": "1:05:46",
+  "duration_seconds": 3946.0,
+  "view_count": 5411,
+  "themes": [
+    "growth team building",
+    "hiring and evaluation frameworks",
+    "onboarding optimization",
+    "career decision making",
+    "product-market fit for candidates",
+    "growth strategy execution",
+    "customer psychology",
+    "team leadership",
+    "startup growth tactics",
+    "competency modeling"
+  ],
+  "key_insights": [
+    "Onboarding is the only product experience 100% of users touch and represents the first chance to deliver on brand promises",
+    "When hiring growth people, focus on customer knowledge and execution skills for junior hires rather than looking for unicorns",
+    "Internal hires often outperform external ones for growth roles due to existing customer knowledge and cultural fit",
+    "Onboarding improvements can shift retention curves by 10-20 percentage points by focusing on habit formation",
+    "Use proxy metrics instead of waiting 90 days to measure onboarding success - look for early velocity indicators",
+    "The PMF framework (People, Mission, Financials) helps evaluate companies as thoroughly as you'd evaluate investment opportunities",
+    "Back-channel references and observing team dynamics are crucial for assessing cultural fit before joining",
+    "Growth execution and customer knowledge are foundational competencies that are harder to teach than strategy"
+  ],
+  "guest_background": {
+    "current_role": "EIR at Reforge, Growth Advisor, Newsletter Writer",
+    "expertise_areas": [
+      "growth strategy",
+      "product management",
+      "team building",
+      "onboarding optimization"
+    ],
+    "notable_companies": [
+      "Lyft",
+      "Patreon",
+      "Imperfect Foods",
+      "Wyzant"
+    ]
+  },
+  "topics_discussed": [
+    "Growth Competency Model framework with four main components",
+    "Hiring junior vs senior growth talent strategies",
+    "Internal vs external hiring for growth roles",
+    "Onboarding as retention lever vs conversion optimization",
+    "Patreon creator onboarding and human intervention strategies",
+    "Opinionated defaults and smart defaults in product design",
+    "Proxy metrics for measuring long-term retention impact",
+    "PMF framework for candidate company evaluation",
+    "Back-channel reference checking techniques",
+    "Common mistakes founders make when hiring growth people",
+    "Channel fluency and experimentation skills",
+    "User psychology and emotional frameworks",
+    "Growth loop modeling and capital allocation",
+    "Communication and influence in growth roles",
+    "Career transition stories from marketing to growth"
+  ],
+  "memorable_quotes": [
+    "Onboarding is the only part of your product experience that a hundred percent of people are ever going to touch. Good luck getting a hundred percent feature adoption of anything else in your product.",
+    "When you're interviewing at a company, you are actually investing an even more scarce resource. You're investing your time. There is no way to get more time.",
+    "I like to think of your brand is the promise that you're making and your product experience is your delivery of that promise. And those two things have to be in lockstep with each other."
+  ],
+  "frameworks_mentioned": [
+    "Growth Competency Model (4 components: Growth Execution, Customer Knowledge, Growth Strategy, Communication & Influence)",
+    "PMF for Candidates (People, Mission, Financials)",
+    "Opinionated Defaults product principle",
+    "Painter vs Architect vs Surgeon hiring archetypes",
+    "Proxy metrics for retention measurement"
+  ],
+  "recommended_for": [
+    "startup founders hiring growth teams",
+    "growth practitioners evaluating career moves",
+    "product managers working on onboarding flows",
+    "early-stage employees considering growth roles",
+    "hiring managers building cross-functional teams",
+    "advisors helping with growth strategy"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Adam Fishman shares his Growth Competency Model for hiring and evaluating growth talent, deep dives into onboarding optimization strategies that can improve retention by 10-20%, and introduces his PMF framework for candidates to evaluate companies as rigorously as investment opportunities.",
+  "analyzed_at": "2026-01-14T15:02:39.759408+00:00",
+  "analyzer_version": "1.0.0"
+}

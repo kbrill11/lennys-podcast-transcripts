@@ -1,0 +1,87 @@
+{
+  "episode_id": "dan-shipper",
+  "guest": "Dan Shipper",
+  "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+  "youtube_url": "https://www.youtube.com/watch?v=crMrVozp_h8",
+  "duration": "1:34:57",
+  "duration_seconds": 5697.0,
+  "view_count": 81826,
+  "themes": [
+    "AI-first company operations",
+    "AI tool adoption and implementation",
+    "Future of work and coding",
+    "Product development with AI",
+    "Generalists vs specialists",
+    "Entrepreneurship and funding strategies",
+    "AI consulting and organizational change",
+    "Content creation and media businesses",
+    "Management in the AI era"
+  ],
+  "key_insights": [
+    "Hire a dedicated AI operations person to help teams automate repetitive tasks without disrupting their workflow",
+    "Claude Code is underutilized by non-technical people for processing large amounts of text and documents",
+    "The key predictor of successful AI adoption in companies is whether the CEO actively uses ChatGPT daily",
+    "Compounding engineering: make each unit of work easier for the next iteration by building reusable prompts and automations",
+    "100% AI-written code is achievable now, but engineers still need to understand code for effective management",
+    "Weekly meetings sharing AI prompts and usage stats drive organizational adoption",
+    "Generalists become more valuable as AI handles specialized tasks, enabling smaller teams to do more",
+    "AGI can be defined as when it becomes profitable to run agents indefinitely without human intervention"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of Every",
+    "expertise_areas": [
+      "AI implementation",
+      "content creation",
+      "product development",
+      "AI consulting"
+    ],
+    "notable_companies": [
+      "Every",
+      "Lex (spun out)"
+    ]
+  },
+  "topics_discussed": [
+    "AI-native startup operations with 15 employees",
+    "Claude Code for non-technical users",
+    "Zero manual coding development workflow",
+    "AI operations role and responsibilities",
+    "Product incubation strategy (Cora, Sparkle, Spiral)",
+    "Compounding engineering methodology",
+    "AI consulting business model",
+    "CEO AI usage as adoption predictor",
+    "Allocation economy vs knowledge economy",
+    "Generalist vs specialist future",
+    "Sip seed funding approach",
+    "AI tool stack (Claude, ChatGPT, etc.)",
+    "Weekly AI sharing meetings",
+    "Content automation workflows",
+    "Managing AI agents like human employees"
+  ],
+  "memorable_quotes": [
+    "No one is manually coding anymore. Organizations like ours, people who are playing at the edge, we're doing things that, in three years, everybody else is going to be doing.",
+    "I hate the headlines that are like, 'Entry-level jobs are taken away by AI.' Whenever I see a kid with ChatGPT, I'm like, 'Holy shit, they're going to go so much faster than any other person that I've worked with.'",
+    "A good definition of AGI is when does it become economically profitable for people to run agents indefinitely?"
+  ],
+  "frameworks_mentioned": [
+    "Compounding engineering methodology",
+    "Allocation economy theory",
+    "Context engineering",
+    "AI operations framework",
+    "Sip seed funding model",
+    "CEO AI usage predictor",
+    "Witness deeply, build bravely philosophy"
+  ],
+  "recommended_for": [
+    "CEOs and executives exploring AI adoption",
+    "Product managers and engineers",
+    "Startup founders and entrepreneurs",
+    "AI consultants and implementation specialists",
+    "Content creators and media professionals",
+    "Anyone interested in AI-first business operations"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Dan Shipper shares how Every operates as a bleeding-edge AI-first company with 15 employees running multiple products, a daily newsletter, and consulting arm - all with zero manual coding. He provides tactical insights on AI adoption, organizational change, and predictions for the future allocation economy where management skills become universally valuable.",
+  "analyzed_at": "2026-01-14T15:45:57.666666+00:00",
+  "analyzer_version": "1.0.0"
+}

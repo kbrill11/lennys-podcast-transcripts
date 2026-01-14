@@ -1,0 +1,85 @@
+{
+  "episode_id": "hamilton-helmer",
+  "guest": "Hamilton Helmer",
+  "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+  "youtube_url": "https://www.youtube.com/watch?v=oB-BjEjxHNw",
+  "duration": "1:03:42",
+  "duration_seconds": 3822.0,
+  "view_count": 4752,
+  "themes": [
+    "competitive strategy",
+    "business moats",
+    "startup power dynamics",
+    "product market fit",
+    "strategic thinking",
+    "business defensibility",
+    "operational excellence",
+    "network effects",
+    "scale economies",
+    "entrepreneurship"
+  ],
+  "key_insights": [
+    "Power requires both a benefit (cost or price advantage) and a barrier (durability against competitors)",
+    "Only four of the seven powers are typically available to early stage startups: counter positioning, scale economies, switching costs, and network economies",
+    "Operational excellence is critical for achieving competitive position but rarely constitutes actual power since it can be mimicked",
+    "Network effects are common but network economies (material impact on pricing power) are rare",
+    "Founders should think about power from day one, not just after achieving product market fit",
+    "Business value is driven by only three things: power, market size, and operational excellence",
+    "Counter positioning is usually the starting power for most successful startups",
+    "Many companies confuse having network effects with having network economies as a source of power"
+  ],
+  "guest_background": {
+    "current_role": "Author of 7 Powers and strategy consultant",
+    "expertise_areas": [
+      "competitive strategy",
+      "business power dynamics",
+      "strategic planning"
+    ],
+    "notable_companies": [
+      "Netflix",
+      "various Silicon Valley startups"
+    ]
+  },
+  "topics_discussed": [
+    "The seven powers framework for competitive advantage",
+    "When founders should start thinking about strategic power",
+    "Difference between strategy, power, and moats",
+    "Counter positioning as the primary early stage power",
+    "Why operational excellence is not power",
+    "Network effects versus network economies",
+    "Uber and Lyft competitive dynamics",
+    "Netflix's strategic evolution and sources of power",
+    "Common misconceptions about business defensibility",
+    "How AI might impact the seven powers framework",
+    "Power progression across business lifecycle stages",
+    "The role of product managers in strategic thinking",
+    "Economic concerns about debt trajectories",
+    "Capitalism versus democracy tensions",
+    "Importance of action over theorizing in business"
+  ],
+  "memorable_quotes": [
+    "Power requires a benefit and a barrier - you have to have a pretty good understanding of why it's a castle and not a shack",
+    "You're on a treadmill and if you stop running on that treadmill, you get creamed, but it's not power",
+    "Action is the first principle of business. You do stuff and my book is very oriented towards that"
+  ],
+  "frameworks_mentioned": [
+    "seven powers framework",
+    "power progression model",
+    "benefit and barrier analysis",
+    "three phases of business (origination, takeoff, stability)",
+    "counter positioning strategy"
+  ],
+  "recommended_for": [
+    "startup founders",
+    "product managers",
+    "strategy professionals",
+    "business development leaders",
+    "venture capitalists",
+    "anyone building defensible businesses"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Strategy expert Hamilton Helmer breaks down his famous seven powers framework, explaining how startups can build sustainable competitive advantages and when different types of power become available throughout a company's lifecycle. He emphasizes that true power requires both a benefit and a barrier, and that most early stage companies should focus on counter positioning as their primary source of defensibility.",
+  "analyzed_at": "2026-01-14T16:32:02.922383+00:00",
+  "analyzer_version": "1.0.0"
+}

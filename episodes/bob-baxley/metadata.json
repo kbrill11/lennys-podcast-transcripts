@@ -1,0 +1,86 @@
+{
+  "episode_id": "bob-baxley",
+  "guest": "Bob Baxley",
+  "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+  "youtube_url": "https://www.youtube.com/watch?v=X-83gvgVaWc",
+  "duration": "1:41:59",
+  "duration_seconds": 6119.0,
+  "view_count": 46540,
+  "themes": [
+    "product design philosophy",
+    "software as a medium",
+    "design leadership and culture",
+    "team collaboration and structure",
+    "moral obligation in product building",
+    "design thinking and decision-making",
+    "career transitions and culture fit",
+    "Apollo program lessons for product teams"
+  ],
+  "key_insights": [
+    "Design should report to engineering to ensure better integration and implementation, treating design as phase zero of the engineering process",
+    "Wait as long as possible to draw pictures or create prototypes to avoid the 'primal mark' problem where teams gravitate toward the first visual solution",
+    "Design tenets (decision-making tools) are more valuable than design principles (platitudes) - they should help resolve recurring debates",
+    "Software is a medium that elicits emotional responses, and builders have a moral obligation to put positive emotional energy into people's lives",
+    "Company culture around design must exist from the founding DNA - it cannot be grafted on later",
+    "Give designers clear constraints and context (like a detailed AI prompt) to enable faster, more focused work",
+    "Small teams (4-24 people) are optimal for creating breakthrough products - larger teams struggle with scenius and coherent vision",
+    "When changing companies, hold onto values but adapt behaviors to fit the new culture"
+  ],
+  "guest_background": {
+    "current_role": "Design advisor and mentor (recently at ThoughtSpot)",
+    "expertise_areas": [
+      "product design",
+      "design leadership",
+      "user experience",
+      "design strategy"
+    ],
+    "notable_companies": [
+      "Apple",
+      "Pinterest",
+      "Yahoo",
+      "ThoughtSpot",
+      "Disney"
+    ]
+  },
+  "topics_discussed": [
+    "Steve Jobs' perspective on Apple as his greatest product",
+    "Why Apple alumni often struggle at other companies",
+    "Bob's unsuccessful experience at Pinterest and lessons learned",
+    "Design reporting structure and organizational dynamics",
+    "Software as an emotional medium vs. just a tool",
+    "Design principles vs. design tenets for decision-making",
+    "The moral obligation to build great products",
+    "Apollo program and John Houbolt's lunar orbit rendezvous story",
+    "Why you should delay creating high-fidelity prototypes",
+    "Company vision and its impact on design efficiency",
+    "The importance of small teams for breakthrough innovation",
+    "Using AI as a life coach and reflection tool",
+    "Typography and its role in designer thinking",
+    "Space exploration lessons for product development"
+  ],
+  "memorable_quotes": [
+    "Design is trying to imagine the future you want to live in and then take the steps to make it real.",
+    "We have an obligation as product people to put that emotional energy back into people's lives.",
+    "Saying a company is design-led does not mean it's designer-led."
+  ],
+  "frameworks_mentioned": [
+    "Design tenets vs. design principles",
+    "Block brain diagrams for low-fidelity ideation",
+    "Lunar Orbit Rendezvous as a metaphor for elegant solutions",
+    "The Beatles team size principle (4-24 people optimal)",
+    "Software as medium framework",
+    "Vision-mission-tenets-strategy hierarchy"
+  ],
+  "recommended_for": [
+    "design leaders and managers",
+    "product managers working with design teams",
+    "founders building design-centric companies",
+    "senior designers transitioning to leadership roles",
+    "anyone interested in product philosophy and ethics"
+  ],
+  "sentiment": "reflective",
+  "difficulty_level": "advanced",
+  "summary": "Bob Baxley shares 35 years of product design wisdom from Apple, Pinterest, and other top companies, covering everything from organizational structure and team dynamics to the moral obligation of building great software. He provides counterintuitive insights on design leadership, including why design should report to engineering and why you should delay creating prototypes, while emphasizing that software is a powerful emotional medium that requires thoughtful stewardship.",
+  "analyzed_at": "2026-01-14T15:34:57.247433+00:00",
+  "analyzer_version": "1.0.0"
+}

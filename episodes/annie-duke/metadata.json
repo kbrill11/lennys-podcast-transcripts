@@ -1,0 +1,85 @@
+{
+  "episode_id": "annie-duke",
+  "guest": "Annie Duke",
+  "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+  "youtube_url": "https://www.youtube.com/watch?v=svQMODvIGAE",
+  "duration": "1:21:01",
+  "duration_seconds": 4861.0,
+  "view_count": 24134,
+  "themes": [
+    "decision-making frameworks",
+    "organizational behavior",
+    "venture capital and investing",
+    "cognitive biases and psychology",
+    "leadership and management",
+    "quitting and pivoting strategies",
+    "parenting and life lessons",
+    "structured thinking processes"
+  ],
+  "key_insights": [
+    "Discover opinions independently before group discussions to avoid conformity bias and groupthink",
+    "Make implicit decision-making criteria explicit to improve decision quality and enable feedback loops",
+    "There are no truly long feedback loops - you can choose to shorten them by tracking leading indicators",
+    "Pre-mortems are only effective when paired with pre-committed kill criteria and specific actions",
+    "Alignment is unrealistic - focus on having people feel heard rather than achieving agreement",
+    "By the time you're thinking about quitting, you've likely already waited too long",
+    "Structure meetings for discussion only - discovery and decision-making should happen separately",
+    "Mental time travel helps provide perspective on current problems and their long-term significance"
+  ],
+  "guest_background": {
+    "current_role": "Special Partner at First Round Capital, Decision-making consultant",
+    "expertise_areas": [
+      "decision science",
+      "behavioral psychology",
+      "poker strategy",
+      "organizational consulting"
+    ],
+    "notable_companies": [
+      "First Round Capital",
+      "Renegade Partners",
+      "World Series of Poker"
+    ]
+  },
+  "topics_discussed": [
+    "Daniel Kahneman's influence and lessons on humility and curiosity",
+    "Discover-Discuss-Decide framework for better meetings",
+    "Independent opinion gathering vs group brainstorming",
+    "Shortening feedback loops in venture capital investing",
+    "First Round Capital's structured decision-making process",
+    "Pre-mortems and kill criteria for product development",
+    "Parenting frameworks and decision-making with children",
+    "The psychology of quitting and sunk cost fallacy",
+    "Stewart Butterfield's decision to shut down Glitch and create Slack",
+    "Making implicit knowledge explicit in hiring and evaluation",
+    "The problems with seeking alignment in team decisions",
+    "Mental time travel as a decision-making tool",
+    "Nominal group techniques for better collaboration"
+  ],
+  "memorable_quotes": [
+    "There is no such thing as a long feedback loop. You can make a decision about how long the feedback loop is.",
+    "It's so incredibly necessary in improving decision quality to take what's implicit and make it explicit.",
+    "Nothing is as important as it seems when you're thinking about it."
+  ],
+  "frameworks_mentioned": [
+    "Discover-Discuss-Decide meeting framework",
+    "Nominal group technique",
+    "Pre-mortems with kill criteria",
+    "Mental time travel",
+    "70% rule (Bezos)",
+    "Adversarial collaboration",
+    "Nevertheless framework for leadership"
+  ],
+  "recommended_for": [
+    "product managers",
+    "startup founders",
+    "venture capitalists and investors",
+    "executives and team leaders",
+    "consultants and decision-makers",
+    "anyone interested in behavioral psychology"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Annie Duke shares actionable frameworks for better decision-making, including how to structure meetings, shorten feedback loops, and make implicit judgments explicit. The conversation covers practical applications from parenting to venture capital, with a focus on overcoming cognitive biases through structured processes.",
+  "analyzed_at": "2026-01-14T15:28:42.520896+00:00",
+  "analyzer_version": "1.0.0"
+}

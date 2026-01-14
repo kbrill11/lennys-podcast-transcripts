@@ -1,0 +1,87 @@
+{
+  "episode_id": "elizabeth-stone",
+  "guest": "Elizabeth Stone",
+  "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+  "youtube_url": "https://www.youtube.com/watch?v=2XgU6T4DalY",
+  "duration": "1:13:44",
+  "duration_seconds": 4424.0,
+  "view_count": 220414,
+  "themes": [
+    "Netflix culture and organizational design",
+    "High talent density and performance standards",
+    "Leadership development and career growth",
+    "Economics background in tech leadership",
+    "Data organization structure",
+    "Candor and feedback culture",
+    "Freedom and responsibility",
+    "Technical leadership transition"
+  ],
+  "key_insights": [
+    "Dedication to work means holding yourself to high standards and being reliable, not necessarily working long hours",
+    "High talent density is a prerequisite for candor, freedom, and responsibility - other cultural elements can't exist without it",
+    "The 'keeper test' mental model helps managers regularly assess team performance: would you fight to keep someone if they said they were leaving?",
+    "Centralized data teams that work across business functions maintain objectivity and can be 'truth tellers' rather than just confirming what stakeholders want to hear",
+    "Translating between technical and non-technical stakeholders is a key skill for advancing in leadership roles",
+    "Setting clear expectations, giving specific feedback, and helping people fill gaps is more effective than just demanding excellence",
+    "Economics training provides valuable perspective on incentives, unintended consequences, and systems thinking in business contexts"
+  ],
+  "guest_background": {
+    "current_role": "CTO at Netflix",
+    "expertise_areas": [
+      "economics",
+      "data science",
+      "organizational leadership",
+      "technology strategy"
+    ],
+    "notable_companies": [
+      "Netflix",
+      "Lyft",
+      "Nuna",
+      "Merrill Lynch",
+      "Analysis Group"
+    ]
+  },
+  "topics_discussed": [
+    "Transition from VP of Data to CTO role",
+    "Economics background in tech leadership",
+    "Rapid career advancement strategies",
+    "Netflix's high talent density culture",
+    "The keeper test for performance management",
+    "Candor and feedback practices",
+    "Freedom and responsibility without traditional processes",
+    "Data and insights team structure",
+    "Live content technical challenges",
+    "Chaos engineering evolution",
+    "IC levels implementation at Netflix",
+    "Staying connected with individual contributors",
+    "Interview techniques for high-bar hiring",
+    "Work-life balance and personal practices",
+    "Endurance sports and mental resilience"
+  ],
+  "memorable_quotes": [
+    "We can't really have any of the other aspects of the culture, including candor, learning, seeking excellence in improvement, freedom and responsibility if you don't start with high talent density.",
+    "The last 5% is the 5% that really mattered - the extra effort you put into something to make it world-class or to make it excellent.",
+    "I really try to avoid setting the expectation that it's okay for other people to wait on me - other people are relying on me and I want to show up for them."
+  ],
+  "frameworks_mentioned": [
+    "The Keeper Test",
+    "High Talent Density model",
+    "Freedom and Responsibility framework",
+    "Context not Control principle",
+    "360 feedback without performance reviews",
+    "Personal top of market compensation philosophy"
+  ],
+  "recommended_for": [
+    "Senior technology leaders and CTOs",
+    "Data science and analytics leaders",
+    "People managers in high-growth companies",
+    "Economics graduates entering tech",
+    "Anyone interested in Netflix's culture",
+    "Leaders working on organizational culture transformation"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Netflix CTO Elizabeth Stone shares how her economics background shaped her rapid rise in tech, diving deep into Netflix's unique culture of high talent density, radical candor, and freedom with responsibility. She provides practical frameworks for maintaining excellence, building high-performing teams, and structuring data organizations for maximum impact.",
+  "analyzed_at": "2026-01-14T15:51:55.433603+00:00",
+  "analyzer_version": "1.0.0"
+}

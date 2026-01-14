@@ -1,0 +1,90 @@
+{
+  "episode_id": "elena-verna-40",
+  "guest": "Elena Verna 4.0",
+  "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+  "youtube_url": "https://www.youtube.com/watch?v=IHwS2By9UKM",
+  "duration": "1:35:10",
+  "duration_seconds": 5710.0,
+  "view_count": 94594,
+  "themes": [
+    "AI company growth strategies",
+    "Product-market fit in AI era",
+    "Minimum lovable product development",
+    "Building in public and social marketing",
+    "Team building and hiring in AI startups",
+    "Women in tech and AI adoption",
+    "Product-led growth acceleration",
+    "Rapid feature development and shipping"
+  ],
+  "key_insights": [
+    "Traditional growth optimization matters less than innovation and new feature development in AI companies",
+    "Product-market fit must be recaptured every 3 months in AI due to rapid technology and consumer expectation changes",
+    "Giving away AI product for free as a marketing strategy can be more effective than paid advertising",
+    "Building in public through founder and employee social media creates powerful word-of-mouth loops",
+    "Activation optimization is less important when the core product team is obsessed with first-user experience",
+    "Hire passionate, AI-native talent with high agency rather than traditional corporate experience",
+    "Focus on creating 'minimum lovable products' rather than minimum viable products",
+    "Community building and influencer marketing outperform traditional B2B marketing channels"
+  ],
+  "guest_background": {
+    "current_role": "Head of Growth at Lovable",
+    "expertise_areas": [
+      "growth strategy",
+      "product-led growth",
+      "AI company scaling",
+      "product-market fit"
+    ],
+    "notable_companies": [
+      "Lovable",
+      "Amplitude",
+      "Miro",
+      "Dropbox",
+      "SurveyMonkey",
+      "Netlify"
+    ]
+  },
+  "topics_discussed": [
+    "Lovable's unprecedented growth to $200M ARR in under one year",
+    "Why traditional growth playbooks don't work for AI companies",
+    "The shift from growth optimization to growth innovation",
+    "Building in public as a core growth strategy",
+    "Community building and Discord management",
+    "Influencer marketing vs paid social advertising",
+    "Product-market fit as a continuous 3-month cycle",
+    "Hiring strategies for AI companies",
+    "The role of vibe coders as a new job category",
+    "Women's adoption challenges in AI technology",
+    "Work-life balance in hyper-growth AI startups",
+    "Using AI tools internally for productivity",
+    "Minimum lovable product philosophy",
+    "Free product distribution as marketing strategy",
+    "Stockholm startup culture and relocation"
+  ],
+  "memorable_quotes": [
+    "I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here because we just need to invest in such bigger bets, and innovate, and create new growth loops here",
+    "The only way to create a word of mouth loop is just to blow their socks off",
+    "It shouldn't be minimal viable product anymore. Viability is left back in 2010s. Now it's minimal lovable product. That's the only thing that matters."
+  ],
+  "frameworks_mentioned": [
+    "Minimum Lovable Product (MLP)",
+    "Product-Market Fit Treadmill",
+    "Adjacent User Theory",
+    "Net Dollar Retention (NDR)",
+    "Building in Public Strategy",
+    "Growth Innovation vs Growth Optimization",
+    "AI-Native Workforce Development"
+  ],
+  "recommended_for": [
+    "Growth professionals at AI startups",
+    "Founders building AI products",
+    "Product managers in early-stage companies",
+    "Marketing leaders in tech startups",
+    "Anyone interested in AI company operations",
+    "Professionals considering joining AI companies"
+  ],
+  "sentiment": "inspiring/tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Elena Verna shares how traditional growth strategies must be reinvented for AI companies, using Lovable's record-breaking growth to $200M ARR as a case study. The conversation reveals why innovation trumps optimization, how building in public drives viral growth, and why product-market fit has become a continuous 3-month cycle in the AI era.",
+  "analyzed_at": "2026-01-14T15:51:08.893842+00:00",
+  "analyzer_version": "1.0.0"
+}

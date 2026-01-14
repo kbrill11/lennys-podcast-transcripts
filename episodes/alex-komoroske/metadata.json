@@ -1,0 +1,89 @@
+{
+  "episode_id": "alex-komoroske",
+  "guest": "Alex Komoroske",
+  "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+  "youtube_url": "https://www.youtube.com/watch?v=PoWRYBWSqpU",
+  "duration": "1:24:38",
+  "duration_seconds": 5078.0,
+  "view_count": 11775,
+  "themes": [
+    "AI and LLMs impact on product development",
+    "Gardening vs building mindset",
+    "Organizational dynamics and kayfabe",
+    "Systems thinking and emergence",
+    "Product strategy and navigation",
+    "Personal productivity and reflection",
+    "Community building and strategy salons",
+    "The adjacent possible and incremental progress",
+    "Taste and differentiation in the AI era"
+  ],
+  "key_insights": [
+    "LLMs are 'magical duct tape' that makes writing software cheaper but running it more expensive, fundamentally changing cost structures",
+    "Think like a gardener not a builder - plant seeds that can grow on their own rather than trying to control every outcome",
+    "Organizational kayfabe (things everyone knows are fake but acts like they're real) emerges naturally and compounds up organizational layers",
+    "The adjacent possible is smaller than we think - focus on actions within arm's reach that definitely work, then iterate",
+    "Taste becomes the key differentiator when AI can produce most content - stand out by having a perspective different from what an LLM would generate",
+    "Create 'strategy salons' or nerd clubs with 'yes, and' energy to generate emergent insights in low-stakes environments",
+    "Always rules are better than sometimes rules for self-control and building sustainable habits",
+    "Do things that give you energy AND that you're proud of - this combination creates sustainable high performance"
+  ],
+  "guest_background": {
+    "current_role": "Startup founder reimagining the web for the AI era",
+    "expertise_areas": [
+      "product strategy",
+      "systems thinking",
+      "AI/LLMs",
+      "organizational dynamics",
+      "open web platforms"
+    ],
+    "notable_companies": [
+      "Google",
+      "Stripe"
+    ]
+  },
+  "topics_discussed": [
+    "How LLMs will change product development economics",
+    "The gardening vs building mindset for product strategy",
+    "Organizational kayfabe and how it emerges in companies",
+    "The slime mold model of organizational structure",
+    "Strategy salons and building internal communities",
+    "The adjacent possible framework for strategic planning",
+    "Bits and Bobs reflection practice and note-taking systems",
+    "WebSim as an example of AI-native products",
+    "The importance of taste in the AI era",
+    "Productivity systems and time management",
+    "Creating emergence vs top-down control",
+    "The Compendium tool for knowledge management",
+    "Community building tactics and momentum",
+    "Happiness equation: reality minus expectations",
+    "The role of aggregators vs open ecosystems"
+  ],
+  "memorable_quotes": [
+    "LLMs are magical duct tape. They're formed principally by the distilled intuition of all of society into a thing that operates between a cost structure between human and plain old computing.",
+    "So much of the way that we tackle problems and build products is this builder mindset... What I look for instead are things that can be gardened, things that can grow on their own.",
+    "A community with zero people speaking is dead and a community with one person speaking doesn't yet realize it's dead."
+  ],
+  "frameworks_mentioned": [
+    "Gardening vs Building mindset",
+    "The Adjacent Possible",
+    "Organizational Kayfabe",
+    "Slime Mold organizational model",
+    "Strategy Salons/Nerd Clubs",
+    "Always rules vs Sometimes rules",
+    "70/30 rule (70% proven value, 30% experimental)",
+    "Happiness = Reality - Expectations",
+    "Bits and Bobs reflection system"
+  ],
+  "recommended_for": [
+    "Product managers transitioning to AI-first thinking",
+    "Senior leaders dealing with organizational complexity",
+    "Strategy professionals interested in systems thinking",
+    "Founders building in the AI era",
+    "Anyone interested in emergence-based approaches to innovation"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "advanced",
+  "summary": "Alex Komoroske shares his unique systems-thinking approach to product strategy, explaining how AI will fundamentally change product development and why leaders should adopt a 'gardening' mindset focused on emergence rather than top-down control. The conversation covers organizational dynamics, strategic frameworks, and practical tactics for navigating complexity in the AI era.",
+  "analyzed_at": "2026-01-14T15:25:53.971359+00:00",
+  "analyzer_version": "1.0.0"
+}

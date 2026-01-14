@@ -1,0 +1,88 @@
+{
+  "episode_id": "camille-ricketts",
+  "guest": "Camille Ricketts",
+  "title": "How Notion leveraged community to build a $10B business | Camille Ricketts",
+  "youtube_url": "https://www.youtube.com/watch?v=bY5KC9Gguz8",
+  "duration": "1:07:36",
+  "duration_seconds": 4056.0,
+  "view_count": 12661,
+  "themes": [
+    "community led growth",
+    "content marketing",
+    "startup marketing strategies",
+    "product market fit",
+    "brand building",
+    "ambassador programs",
+    "influencer marketing",
+    "enterprise vs consumer growth",
+    "startup culture and operations"
+  ],
+  "key_insights": [
+    "Community led growth works best for freemium products with 'atomic units of sharing' - things users create and want to show off",
+    "Content marketing requires 'content market fit' - understanding your audience's pain points as deeply as product market fit",
+    "Ambassador programs should start small (20 people) and grow slowly to maintain intimacy and engagement",
+    "Net new website visitors is a key metric for measuring brand awareness and discovery efforts",
+    "Don't focus on ROI metrics too early for community building - organic fervor is more important initially",
+    "High-quality content takes significant time investment - approximately 8-10 hours per piece",
+    "Community members should be able to monetize their expertise to create stronger evangelism",
+    "Founder belief in community value is essential - it's hard to convince skeptical leadership"
+  ],
+  "guest_background": {
+    "current_role": "Recently departed from Notion (first marketing hire), currently on sabbatical",
+    "expertise_areas": [
+      "community building",
+      "content marketing",
+      "startup marketing",
+      "brand strategy"
+    ],
+    "notable_companies": [
+      "Notion",
+      "First Round Capital",
+      "Tesla",
+      "Wall Street Journal"
+    ]
+  },
+  "topics_discussed": [
+    "Community led growth definition and implementation",
+    "Notion's ambassador program structure",
+    "Template ecosystem and creator monetization",
+    "Champions vs ambassadors community models",
+    "Content market fit framework",
+    "First Round Review creation and strategy",
+    "Influencer marketing programs",
+    "International community scaling",
+    "Product Hunt launch strategies",
+    "Press and PR vs direct communication",
+    "Two-by-two matrix for community strategies",
+    "Event hosting and in-person community building",
+    "Slack as community platform choice",
+    "Enterprise vs prosumer growth strategies",
+    "Measuring community impact and ROI"
+  ],
+  "memorable_quotes": [
+    "The way that you think about product market fit, you have to think about content market fit.",
+    "True discovery is when you have intent to find out more. You've heard about it so many times or you've been intrigued by something that someone has told you to the extent that you're actually going to take the step of now learning about it.",
+    "One of the worst things you can do is say, let's cut this off at the knees if it's not generating ROI when you're seeing organic fervor."
+  ],
+  "frameworks_mentioned": [
+    "Content market fit framework",
+    "Two-by-two matrix for community strategy (product market fit vs enterprise/consumer)",
+    "Community commandments",
+    "Atomic unit of sharing concept",
+    "Jobs to be done for content (make money, entertain, improve work/life, inform)",
+    "Vitamin vs painkiller content approach"
+  ],
+  "recommended_for": [
+    "startup founders considering community strategies",
+    "marketing leaders at product-led growth companies",
+    "community managers and builders",
+    "content marketers",
+    "B2B SaaS marketing professionals",
+    "freemium product managers"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Camille Ricketts, Notion's first marketing hire, shares tactical insights on building community-led growth and content marketing strategies that helped scale Notion to a $10B valuation. The conversation covers practical frameworks for when to invest in community, how to structure ambassador programs, and the principles behind successful content marketing.",
+  "analyzed_at": "2026-01-14T15:39:18.648059+00:00",
+  "analyzer_version": "1.0.0"
+}

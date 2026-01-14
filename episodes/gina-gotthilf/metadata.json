@@ -1,0 +1,83 @@
+{
+  "episode_id": "gina-gotthilf",
+  "guest": "Gina Gotthilf",
+  "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf",
+  "youtube_url": "https://www.youtube.com/watch?v=sWClFYdbkRA",
+  "duration": "1:36:49",
+  "duration_seconds": 5809.0,
+  "view_count": 15988,
+  "themes": [
+    "Organic growth strategies",
+    "Consumer subscription business models",
+    "International market expansion",
+    "Brand building and PR",
+    "Latin American tech ecosystem",
+    "Career resilience and failure",
+    "Product-led growth",
+    "AB testing and data-driven decisions"
+  ],
+  "key_insights": [
+    "Consumer subscription apps succeed through mission obsession, extreme leanness, and retention focus over paid acquisition",
+    "Organic growth requires building a lovable brand with unique voice that makes people feel something",
+    "International expansion works better by treating markets similarly rather than over-customizing for each country",
+    "Dogfooding your own products is crucial - test experiments yourself before running them",
+    "Communication is about making the listener receive, understand, and remember your message",
+    "Every career has A-sides (highlights) and B-sides (failures) - both are normal and necessary",
+    "Product-led growth through AB testing is a form of organic growth when done without paid spend"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and COO of Latitud",
+    "expertise_areas": [
+      "growth marketing",
+      "international expansion",
+      "consumer products",
+      "Latin American markets"
+    ],
+    "notable_companies": [
+      "Duolingo",
+      "Tumblr",
+      "Bloomberg Presidential Campaign"
+    ]
+  },
+  "topics_discussed": [
+    "Duolingo's growth from 3M to 200M users organically",
+    "Why consumer subscription apps typically fail",
+    "Building unique brand voice and personality",
+    "International market expansion mistakes and learnings",
+    "AB testing methodologies and culture",
+    "Latin American startup ecosystem opportunities",
+    "Political campaign digital advertising at scale",
+    "Career resilience through multiple failures",
+    "The importance of mission-driven companies",
+    "Retention vs acquisition focus for startups",
+    "Landing page optimization tactics",
+    "Social media growth strategies",
+    "Building lovable brands through storytelling",
+    "Latitud's operating system for Latin American startups"
+  ],
+  "memorable_quotes": [
+    "Communication isn't about being able to convey a message, it's about being able to convey a message in a way that the listener receives it, and understands it, and remembers it.",
+    "Either it's actually providing real value or it's not. If it's providing real value, people stick around. It's as simple as that.",
+    "We are very encouraged in our lives, especially professionally, to talk about our A-sides all the time... but most of us have a lot of B-moments every day, every week, every month."
+  ],
+  "frameworks_mentioned": [
+    "A-side/B-side life philosophy",
+    "CAC to LTV ratio evaluation",
+    "80/20 rule for international expansion",
+    "Organic vs paid growth strategies",
+    "Mission-driven brand building"
+  ],
+  "recommended_for": [
+    "Consumer product managers",
+    "Growth marketers",
+    "Startup founders building subscription businesses",
+    "International expansion professionals",
+    "Latin American entrepreneurs",
+    "Brand and communications professionals"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Gina Gotthilf shares tactical insights on scaling Duolingo organically from 3M to 200M users, the rare success factors for consumer subscription apps, and why Latin America represents a massive opportunity for tech entrepreneurs. The conversation balances practical growth tactics with career philosophy about embracing both successes and failures.",
+  "analyzed_at": "2026-01-14T15:59:36.033125+00:00",
+  "analyzer_version": "1.0.0"
+}

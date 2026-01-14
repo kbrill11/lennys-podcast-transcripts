@@ -1,0 +1,84 @@
+{
+  "episode_id": "dhanji-r-prasanna",
+  "guest": "Dhanji R. Prasanna",
+  "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+  "youtube_url": "https://www.youtube.com/watch?v=JMeXWVw0r3E",
+  "duration": "1:26:42",
+  "duration_seconds": 5202.0,
+  "view_count": 31288,
+  "themes": [
+    "AI transformation and adoption",
+    "Engineering productivity and automation",
+    "Organizational structure and Conway's Law",
+    "Open source strategy",
+    "Technology leadership",
+    "Product development philosophy",
+    "Company culture change",
+    "AI agents and tooling"
+  ],
+  "key_insights": [
+    "Moving from GM structure to functional organization was key to becoming more AI-native and tech-focused",
+    "AI tools are saving 20-25% of manual hours across all teams, with engineering teams reporting 8-10 hours saved per week",
+    "Non-technical teams using AI programming tools showed the most surprising productivity gains",
+    "Code quality has little correlation with product success - focus on solving real problems for users",
+    "Start small with everything rather than trying to 'boil the ocean' - successful products like Cash App and Goose began as small experiments",
+    "Leadership should use AI tools themselves daily to understand their capabilities and limitations before rolling out to teams",
+    "Conway's Law is powerful - you ship your org structure, so organizational design directly impacts outcomes"
+  ],
+  "guest_background": {
+    "current_role": "Chief Technology Officer at Block",
+    "expertise_areas": [
+      "AI transformation",
+      "engineering leadership",
+      "product development",
+      "open source"
+    ],
+    "notable_companies": [
+      "Block/Square",
+      "Google",
+      "Cash App"
+    ]
+  },
+  "topics_discussed": [
+    "AI manifesto written to Jack Dorsey",
+    "Organizational transformation from GM to functional structure",
+    "Goose AI agent development and capabilities",
+    "Model Context Protocol (MCP) implementation",
+    "Engineering productivity metrics and measurement",
+    "AI adoption across different skill levels",
+    "Open source strategy and philosophy",
+    "Conway's Law and organizational design",
+    "Code quality vs product success",
+    "Starting small and iterating",
+    "Future of engineering work with AI",
+    "Career lessons from product failures",
+    "Leadership philosophy and decision-making",
+    "Bitcoin product development",
+    "Google Wave and Google+ experiences"
+  ],
+  "memorable_quotes": [
+    "A lot of engineers think that code quality is important to building a successful product. The two have nothing to do with each other.",
+    "All these LLMs are sitting idle overnight and on weekends, while humans aren't there. There's no need for that. They should be working all the time.",
+    "If you're not waking up in the morning feeling energized about what you're going to do that day in your professional life, then change something, quit if that's what it comes down to."
+  ],
+  "frameworks_mentioned": [
+    "Conway's Law",
+    "Model Context Protocol (MCP)",
+    "Functional vs GM organizational structure",
+    "80/20 principle",
+    "Start small philosophy"
+  ],
+  "recommended_for": [
+    "Engineering leaders and CTOs",
+    "Product managers in tech companies",
+    "Teams implementing AI transformation",
+    "Startup founders and executives",
+    "Engineers interested in AI productivity tools",
+    "Technology strategy professionals"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Block's CTO Dhanji Prasanna shares how the company became one of the most AI-native enterprises through organizational restructuring, building the open-source Goose AI agent, and achieving 20-25% productivity gains. The conversation covers practical AI implementation strategies, leadership lessons, and the counterintuitive insight that code quality doesn't correlate with product success.",
+  "analyzed_at": "2026-01-14T15:47:20.010986+00:00",
+  "analyzer_version": "1.0.0"
+}

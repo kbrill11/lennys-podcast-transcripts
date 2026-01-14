@@ -1,0 +1,86 @@
+{
+  "episode_id": "boz",
+  "guest": "Boz",
+  "title": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+  "youtube_url": "https://www.youtube.com/watch?v=_XqDB2Upr3s",
+  "duration": "1:42:21",
+  "duration_seconds": 6141.0,
+  "view_count": 37528,
+  "themes": [
+    "Early-stage startup experiences",
+    "Communication and leadership",
+    "Product development and innovation",
+    "Organizational management",
+    "Career growth and learning",
+    "Technology and AR/VR",
+    "Meta's evolution and turnaround",
+    "Decision-making under uncertainty",
+    "Team dynamics and feedback"
+  ],
+  "key_insights": [
+    "Communication is the job - success depends entirely on how effectively you communicate your ideas and vision to others",
+    "Leverage your leaders more - ask for help early and often, most managers want you to succeed and can clear obstacles",
+    "Optimize for learning over short-term career advancement - variety of experience compounds over time",
+    "When facing identity threat, embrace curiosity instead of defensiveness - ask 'fascinating, tell me more'",
+    "You know more than external critics about your own company/work - don't blindly accept outside narratives",
+    "Focus on strengths over weaknesses when building teams and developing careers",
+    "Transparency at scale requires teaching people how to filter signal from noise",
+    "Early startup success requires extreme sacrifice but isn't as glamorous as portrayed in media"
+  ],
+  "guest_background": {
+    "current_role": "Chief Technology Officer at Meta",
+    "expertise_areas": [
+      "AI and machine learning",
+      "Product development",
+      "AR/VR technology",
+      "Advertising platforms",
+      "Engineering leadership"
+    ],
+    "notable_companies": [
+      "Meta/Facebook"
+    ]
+  },
+  "topics_discussed": [
+    "Early days at Facebook as 10th engineer",
+    "Building Facebook News Feed and its initial backlash",
+    "Development of Facebook's advertising platform",
+    "Meta's organizational transparency culture",
+    "Leadership communication strategies",
+    "Career advice and job transitions",
+    "Meta's recent turnaround and organizational changes",
+    "Apple Vision Pro vs Quest comparison",
+    "Ray-Ban Meta smart glasses",
+    "Managing identity threat and ego in professional settings",
+    "The importance of curiosity over defensiveness",
+    "Parenting lessons applied to management",
+    "Photography as artistic expression",
+    "Startup culture myths vs reality"
+  ],
+  "memorable_quotes": [
+    "Communication is the job. If you want to have an impact on the world around you, it is exclusively done through the creation of artifacts or verbalizations that affect other humans.",
+    "You're never as good as they say you are when you're winning, and you're never as bad as they say you are when you're losing.",
+    "Fascinating. You have to tell me more about why you think that. - The power of curiosity over defensiveness when facing disagreement"
+  ],
+  "frameworks_mentioned": [
+    "HPMs (Highlight, People, Me) - weekly update format",
+    "Eye of Sauron - metaphor for executive attention",
+    "Extreme ownership from military/SEAL methodology",
+    "Gell-Mann Amnesia - selective skepticism of media",
+    "Identity threat recognition and management",
+    "No response required - communication framework"
+  ],
+  "recommended_for": [
+    "Engineering leaders and CTOs",
+    "Product managers and founders",
+    "Early-stage startup employees",
+    "Technology professionals",
+    "People managers and executives",
+    "Career changers in tech",
+    "AR/VR industry professionals"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Meta CTO Andrew 'Boz' Bosworth shares hard-won lessons from 18 years at Facebook/Meta, covering everything from the intense early startup days to building breakthrough products like News Feed. The conversation provides tactical advice on communication, leadership, and career growth, emphasizing the importance of leveraging managers, embracing curiosity over defensiveness, and understanding that effective communication is the foundation of all professional success.",
+  "analyzed_at": "2026-01-14T15:35:42.278951+00:00",
+  "analyzer_version": "1.0.0"
+}

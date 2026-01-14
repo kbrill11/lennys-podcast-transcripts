@@ -1,0 +1,87 @@
+{
+  "episode_id": "gaurav-misra",
+  "guest": "Gaurav Misra",
+  "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+  "youtube_url": "https://www.youtube.com/watch?v=dLku0AiGPVA",
+  "duration": "1:04:21",
+  "duration_seconds": 3861.0,
+  "view_count": 18254,
+  "themes": [
+    "AI-powered product development",
+    "High-velocity shipping methodologies",
+    "Consumer social app strategy",
+    "Technical debt management",
+    "Product team structure and operations",
+    "Video AI and content creation",
+    "Snap's product culture and insights",
+    "Startup vs. big company advantages",
+    "Future of AI in marketing and media"
+  ],
+  "key_insights": [
+    "Every engineer should ship a marketable product/feature every week to maintain rapid innovation",
+    "Strategic technical debt can be leveraged like financial debt to move faster than larger competitors",
+    "Maintain two roadmaps: a 'public roadmap' based on user requests and a 'secret roadmap' for breakthrough innovations",
+    "Cut scope aggressively, not quality - remove features until the product would be useless if you cut more",
+    "Product managers should own all the way through to marketing and user acquisition, not just product development",
+    "Consumer social products benefit from singular vision and granular CEO control over every user-facing change",
+    "AI tools like Cursor and Devin are providing significant engineering productivity multipliers for startups",
+    "The easiest way to be the best is to be first - prioritize speed to market over perfection"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of Captions",
+    "expertise_areas": [
+      "AI video generation",
+      "consumer product development",
+      "design engineering",
+      "social apps"
+    ],
+    "notable_companies": [
+      "Snap",
+      "Microsoft",
+      "Captions"
+    ]
+  },
+  "topics_discussed": [
+    "Weekly shipping cadence for engineers",
+    "Strategic use of technical debt",
+    "Dual roadmap strategy (public vs. secret)",
+    "Snap's designer-led product culture",
+    "Design engineering as a hybrid role",
+    "AI video generation technology",
+    "Consumer vs. enterprise product development",
+    "Social network dynamics and virality",
+    "Internal company virality for alignment",
+    "Future of AI-generated content",
+    "Marketing channels and AI adoption",
+    "Product-market fit indicators",
+    "Prototyping and user feedback loops",
+    "Team structure and hiring philosophy",
+    "Video content categorization (documentation vs. storytelling)"
+  ],
+  "memorable_quotes": [
+    "There's rarely a time like this where so much is possible... everything you try just works.",
+    "The easiest way to be the best is to be the first.",
+    "As a startup your job is to take on technical debt because that is how you operate faster than a bigger company."
+  ],
+  "frameworks_mentioned": [
+    "Weekly marketable feature shipping framework",
+    "Technical debt as financial leverage analogy",
+    "Two-way door vs. one-way door decision making",
+    "Public roadmap vs. secret roadmap methodology",
+    "Documentation vs. storytelling content categorization",
+    "Design engineering hybrid role structure"
+  ],
+  "recommended_for": [
+    "Early-stage startup founders",
+    "Product managers in AI companies",
+    "Engineering leaders seeking high-velocity development",
+    "Consumer app builders",
+    "Design and product team leaders",
+    "Anyone building video or AI-powered products"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Gaurav Misra shares operational insights from building Captions and his experience at Snap, focusing on extreme shipping velocity (every engineer ships weekly), strategic technical debt management, and the unique product development approaches that enable small teams to outmaneuver larger competitors in the AI era.",
+  "analyzed_at": "2026-01-14T15:57:21.153502+00:00",
+  "analyzer_version": "1.0.0"
+}

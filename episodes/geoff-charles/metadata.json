@@ -1,0 +1,84 @@
+{
+  "episode_id": "geoff-charles",
+  "guest": "Geoff Charles",
+  "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+  "youtube_url": "https://www.youtube.com/watch?v=aNJDZ_RzTVk",
+  "duration": "1:16:57",
+  "duration_seconds": 4617.0,
+  "view_count": 54457,
+  "themes": [
+    "velocity and speed in product development",
+    "empowering product teams",
+    "hiring and building A-plus teams",
+    "first principles thinking",
+    "product strategy and planning",
+    "avoiding burnout in fast-paced environments",
+    "scaling product organizations",
+    "context over control management philosophy"
+  ],
+  "key_insights": [
+    "Velocity enables teams to reach impact through iteration - teams with high velocity can get to meaningful outcomes faster",
+    "Single-threaded teams with one clear goal, shielded from organizational chaos, can achieve extraordinary results with small headcounts",
+    "Context over control works when you align on goals, hypotheses, and data interpretation rather than prescribing solutions",
+    "Every support ticket should be viewed as a product failure - having support report to product creates accountability",
+    "A-plus engineers want to win in the market, understand the business, and proactively solve problems beyond their assigned scope",
+    "Planning should focus on high-value accuracy needs (like major market moments) while accepting chaos in lower-stakes areas",
+    "Writing forces first principles thinking - start with a clear question and think through the answer before researching solutions",
+    "Lofty goals work when backed by market comparables and inspiring design prototypes that motivate teams"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product at Ramp",
+    "expertise_areas": [
+      "product management",
+      "team scaling",
+      "fintech",
+      "B2B SaaS",
+      "organizational design"
+    ],
+    "notable_companies": [
+      "Ramp"
+    ]
+  },
+  "topics_discussed": [
+    "Ramp's record-breaking growth to $100M ARR",
+    "Building competitors to Amex, Expensify, and Bill.com with tiny teams",
+    "Single-threaded team organization and focus",
+    "Protecting core teams from organizational distractions",
+    "Context over control management philosophy",
+    "Avoiding traditional OKR processes in favor of roadmap contracts",
+    "First principles thinking in unique business models",
+    "Support team reporting structure and accountability",
+    "Product manager to engineer ratios and role distribution",
+    "Writing as a tool for deep thinking and problem solving",
+    "Task management and deep work practices",
+    "Hiring for impact orientation and deep thinking ability",
+    "Breaking into product management from adjacent roles",
+    "Quality control mechanisms in high-velocity environments",
+    "The relationship between velocity and product quality"
+  ],
+  "memorable_quotes": [
+    "Any second you spend planning is a second you don't spend doing",
+    "Every support ticket is a failure of our product",
+    "Velocity is everything at Ramp. It's how we design our product development process. It's how we incentivize teams, it's who we want to hire, it's who we want to promote"
+  ],
+  "frameworks_mentioned": [
+    "Single-threaded teams concept",
+    "Context over control management",
+    "Strategy document structure (goals, hypotheses, metrics, initiatives)",
+    "First principles thinking methodology",
+    "Getting Things Done task management principles",
+    "Product operations as PM leverage"
+  ],
+  "recommended_for": [
+    "Product managers seeking to increase team velocity",
+    "Engineering leaders building empowered teams",
+    "Startup founders scaling product organizations",
+    "Product leaders in high-growth companies",
+    "Anyone interested in B2B SaaS and fintech product development"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Geoff Charles shares how Ramp became the fastest-growing SaaS company in history through a culture of velocity, empowered teams, and first principles thinking. The episode reveals tactical approaches to building high-performing product organizations with minimal overhead and maximum impact.",
+  "analyzed_at": "2026-01-14T15:57:43.875548+00:00",
+  "analyzer_version": "1.0.0"
+}

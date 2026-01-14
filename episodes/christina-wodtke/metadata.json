@@ -1,0 +1,88 @@
+{
+  "episode_id": "christina-wodtke",
+  "guest": "Christina Wodtke",
+  "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+  "youtube_url": "https://www.youtube.com/watch?v=kvkL18Ue0dE",
+  "duration": "1:13:13",
+  "duration_seconds": 4393.0,
+  "view_count": 33904,
+  "themes": [
+    "OKRs (Objectives and Key Results)",
+    "Product management strategy",
+    "Business focus and alignment",
+    "Storytelling in business",
+    "Learning and iteration",
+    "Company culture and leadership",
+    "Product development processes",
+    "Visual communication"
+  ],
+  "key_insights": [
+    "OKRs are a vitamin, not medicine - they work best for companies that already have their fundamentals together",
+    "The atomic unit of OKRs is answering 'What am I doing this week to get closer to our goals?'",
+    "Start OKR implementation with your best performing team, not struggling teams",
+    "Keep OKR planning fast - ideally one week maximum, focus on execution over perfection",
+    "Use the 'how do we know?' question to derive key results from objectives",
+    "Weekly status emails with confidence levels create powerful learning cycles",
+    "Product managers must understand business fundamentals, not just user experience",
+    "Physical proximity and visual collaboration tools significantly improve team innovation"
+  ],
+  "guest_background": {
+    "current_role": "Lecturer at Stanford, Author, and Product Management Consultant",
+    "expertise_areas": [
+      "OKRs",
+      "product management",
+      "storytelling",
+      "visual communication",
+      "product strategy"
+    ],
+    "notable_companies": [
+      "LinkedIn",
+      "MySpace",
+      "Zynga",
+      "Yahoo"
+    ]
+  },
+  "topics_discussed": [
+    "OKR fundamentals and implementation",
+    "Common OKR mistakes and fixes",
+    "Mission, vision, and strategy alignment",
+    "Weekly status email systems",
+    "OKR grading and retrospectives",
+    "Product manager business education",
+    "Storytelling techniques for business",
+    "Visual communication and drawing",
+    "Company culture and psychological safety",
+    "Product development cadences",
+    "Team structure and physical workspace",
+    "Personal OKR applications",
+    "Product sense vs. business knowledge",
+    "Startup vs. enterprise OKR approaches",
+    "Learning theory in business contexts"
+  ],
+  "memorable_quotes": [
+    "OKRs are more of a vitamin, they're not a medicine. If you take OKRs and you're like, 'Oh, this will fix everything that's wrong with you.' No, that's not going to happen.",
+    "What am I doing this week to get closer to our goals? If you could answer that question, you could give up all the OKR stuff",
+    "Product sense is intuition, intuition is compressed experience, compressed experience comes from having lots of experience."
+  ],
+  "frameworks_mentioned": [
+    "OKRs (Objectives and Key Results)",
+    "Weekly status email system",
+    "Five Whys methodology",
+    "Product trio (business, UX, technology)",
+    "Temporal landmarks concept",
+    "Three-point approval process",
+    "Storytelling structure (beginning, middle, end)"
+  ],
+  "recommended_for": [
+    "Product managers",
+    "Startup founders",
+    "Engineering managers",
+    "Business leaders implementing OKRs",
+    "Anyone struggling with team focus and alignment"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Christina Wodtke, Stanford lecturer and OKR expert, provides a comprehensive guide to implementing effective OKR processes, emphasizing that OKRs work best as accelerators for already-functional teams rather than fixes for broken organizations. The episode offers practical frameworks for OKR implementation, common pitfalls to avoid, and insights on product management fundamentals.",
+  "analyzed_at": "2026-01-14T15:42:39.168293+00:00",
+  "analyzer_version": "1.0.0"
+}

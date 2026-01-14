@@ -1,0 +1,88 @@
+{
+  "episode_id": "albert-cheng",
+  "guest": "Albert Cheng",
+  "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+  "youtube_url": "https://www.youtube.com/watch?v=2BKmNmnEj9w",
+  "duration": "1:25:25",
+  "duration_seconds": 5125.0,
+  "view_count": 21773,
+  "themes": [
+    "growth strategy and optimization",
+    "consumer subscription products",
+    "experimentation and A/B testing",
+    "product-led growth",
+    "habit formation and user retention",
+    "team building and hiring",
+    "AI integration in product development",
+    "freemium business models",
+    "cross-functional collaboration"
+  ],
+  "key_insights": [
+    "Growth is about connecting users to the value of your product, not just metrics hacking",
+    "Use explore and exploit framework: find the right mountain to climb, then focus resources on climbing it effectively",
+    "When you find a winning experiment, share insights broadly across the company for 10X impact",
+    "For consumer subscription products, user retention is gold - without it, you're forced to monetize on day one",
+    "Hire for high agency, clock speed, and energy rather than just deep experience - sometimes experience can be a crutch",
+    "Make your free product reflect everything your paid product can offer to maximize conversion rates",
+    "Focus on positive reinforcement over negative feedback to drive engagement (80% of users review games after wins, not losses)",
+    "Aim for 30-40% D1 retention as a baseline for consumer apps to have mathematical chance of growth"
+  ],
+  "guest_background": {
+    "current_role": "Growth leader at Chess.com",
+    "expertise_areas": [
+      "consumer growth",
+      "experimentation",
+      "monetization",
+      "subscription products"
+    ],
+    "notable_companies": [
+      "Duolingo",
+      "Grammarly",
+      "Chess.com",
+      "YouTube",
+      "Google"
+    ]
+  },
+  "topics_discussed": [
+    "Explore vs exploit framework for finding growth opportunities",
+    "Biggest monetization win at Grammarly through sampling paid features",
+    "Game review positivity experiment at Chess.com (25% growth in reviews)",
+    "Building experimentation culture from 0 to 1000 experiments per year",
+    "Consumer subscription business model best practices",
+    "User retention benchmarks and strategies",
+    "Freemium vs trial pricing strategies",
+    "Screenshot tracking to identify viral moments at Duolingo",
+    "AI integration in growth work and product development",
+    "Company culture differences between Duolingo, Grammarly, and Chess.com",
+    "Habit formation and gamification patterns",
+    "Hiring for high agency over experience",
+    "Piano background and transition to growth career",
+    "Team building and cross-functional collaboration",
+    "Brand and marketing's role in product-led growth"
+  ],
+  "memorable_quotes": [
+    "Growth as the job is to connect users to the value of your product. Growth sometimes gets this reputation that it's just pure metrics hacking.",
+    "User retention is gold for consumer subscription companies. If you don't retain your users, then a lot of the onus is on getting them to pay on day one.",
+    "Sometimes experience could be a crutch, especially in this world where the grounds are shifting so fast with AI. A lot of your learned habits actually need to be intentionally discarded."
+  ],
+  "frameworks_mentioned": [
+    "Explore and Exploit Framework",
+    "Growth Model and User Journey Mapping",
+    "Gamification Three Pillars (Core Loop, Metagame, Profile)",
+    "Freemium Business Model Strategy",
+    "The Green Machine (Duolingo's product development playbook)"
+  ],
+  "recommended_for": [
+    "growth product managers",
+    "consumer subscription business leaders",
+    "experimentation specialists",
+    "startup founders building consumer products",
+    "product marketing managers",
+    "data-driven product teams"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Albert Cheng shares tactical frameworks and real examples from leading growth at Duolingo, Grammarly, and Chess.com, focusing on his explore/exploit methodology for finding growth opportunities and building experimentation culture. The conversation provides actionable insights on consumer subscription growth, user retention strategies, and scaling experimentation programs.",
+  "analyzed_at": "2026-01-14T15:25:04.420295+00:00",
+  "analyzer_version": "1.0.0"
+}

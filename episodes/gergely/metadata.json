@@ -1,0 +1,85 @@
+{
+  "episode_id": "gergely",
+  "guest": "Gergely",
+  "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+  "youtube_url": "https://www.youtube.com/watch?v=CtB0O0M7YS0",
+  "duration": "1:14:51",
+  "duration_seconds": 4491.0,
+  "view_count": 13365,
+  "themes": [
+    "newsletter business model",
+    "transitioning from tech to creator economy",
+    "entrepreneurship and self-employment",
+    "content creation strategies",
+    "work-life balance in solo businesses",
+    "building audience and expertise",
+    "monetizing knowledge",
+    "productivity and focus management"
+  ],
+  "key_insights": [
+    "Building expertise and reputation over years before starting a newsletter is crucial for credibility and initial traction",
+    "Paid newsletters can generate substantial income ($300K+) but require consistent weekly output and come with unique stresses",
+    "Creating artificial deadlines and constraints is essential for productivity when working independently",
+    "The transition from high-paying tech jobs to creator businesses involves trading job security for unlimited earning potential",
+    "Success in newsletter writing requires treating it as a business, not just a creative outlet",
+    "Having thousands of paying subscribers creates pressure similar to having thousands of micro-bosses",
+    "Building depth in a specific field before teaching others is more valuable than surface-level reporting",
+    "Consistent publishing cadence over years builds the foundation for newsletter success"
+  ],
+  "guest_background": {
+    "current_role": "Newsletter writer and creator at The Pragmatic Engineer",
+    "expertise_areas": [
+      "software engineering",
+      "engineering management",
+      "tech industry analysis",
+      "newsletter business"
+    ],
+    "notable_companies": [
+      "Uber",
+      "Skyscanner",
+      "Skype/Microsoft",
+      "JPMorgan"
+    ]
+  },
+  "topics_discussed": [
+    "Decision to leave high-paying tech job at Uber",
+    "Building The Pragmatic Engineer newsletter to 189k subscribers",
+    "Daily routine and workflow for newsletter creation",
+    "Productivity techniques for solo entrepreneurs",
+    "Pros and cons of newsletter business model",
+    "Income comparison between tech job and newsletter",
+    "Building expertise and credibility over 6+ years of blogging",
+    "Getting first 1000 newsletter subscribers",
+    "Managing unstructured time and avoiding distractions",
+    "Long-term sustainability of newsletter businesses",
+    "Requirements for newsletter success",
+    "Starting advice for aspiring newsletter writers",
+    "The lonely and stressful aspects of solo content creation",
+    "Creating accountability systems for consistent output",
+    "Importance of domain expertise before teaching others"
+  ],
+  "memorable_quotes": [
+    "In my best year at Uber, I made about 320 or $330,000 in total compensation... But now I am making more in compensation that I made at Uber.",
+    "Instead of one boss, I have thousands of micro bosses, and one of them can fire me and many do every day, but it feels safer than at a tech job where one person can decide.",
+    "If you start writing, and you do it regularly, two things will happen. First of all, you're going to get better at writing. If you're lucky or if you're right about stuff, you might start to attract people who think similarly."
+  ],
+  "frameworks_mentioned": [
+    "Jeff Atwood's blogging framework: write a blog post 3x per week for 2 years",
+    "Pomodoro technique for focused work sessions",
+    "Host file blocking method for eliminating distractions",
+    "Setting controllable vs. uncontrollable goals",
+    "Building recurring revenue vs. unpredictable book sales"
+  ],
+  "recommended_for": [
+    "software engineers considering career transitions",
+    "aspiring newsletter writers and content creators",
+    "tech professionals interested in the creator economy",
+    "entrepreneurs building solo businesses",
+    "anyone considering leaving corporate jobs for independent work"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Gergely Orosz shares his journey from earning $330K as an Uber engineering manager to building a successful newsletter business that generates even more income. He provides practical insights on the realities of newsletter entrepreneurship, productivity techniques for solo creators, and essential advice for anyone considering the transition from corporate tech to the creator economy.",
+  "analyzed_at": "2026-01-14T15:58:30.876233+00:00",
+  "analyzer_version": "1.0.0"
+}

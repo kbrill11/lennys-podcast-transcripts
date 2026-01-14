@@ -1,0 +1,88 @@
+{
+  "episode_id": "cam-adams",
+  "guest": "Cam Adams",
+  "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+  "youtube_url": "https://www.youtube.com/watch?v=wgrJNHlYUA8",
+  "duration": "1:03:09",
+  "duration_seconds": 3789.0,
+  "view_count": 25631,
+  "themes": [
+    "product management",
+    "startup growth strategies",
+    "company culture and coaching",
+    "freemium business models",
+    "AI integration",
+    "internationalization",
+    "SEO and content marketing",
+    "team scaling and leadership",
+    "MVP development",
+    "enterprise transformation"
+  ],
+  "key_insights": [
+    "Focus on creating joyful user experiences rather than rushing to launch an MVP - Canva spent a year building before launch to ensure user delight",
+    "Give away your Legos: embrace handing off responsibilities to scale personally and organizationally as the company grows",
+    "Use coaching instead of traditional management - Canva has 800+ internal coaches helping employees grow in their specialties",
+    "Internationalization can be a massive growth driver - Canva went from 5 to 100+ languages and now has top markets in Brazil, India, and Indonesia",
+    "SEO success requires end-to-end experience design from search query to magic moment, not just technical optimization",
+    "Freemium should align with mission, not just be a growth hack - Canva's free tier supports their goal of democratizing design",
+    "AI integration should enhance core value proposition rather than being technology for technology's sake",
+    "Visual communication in product development - teams should prototype and mock up ideas rather than just discuss them"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and Chief Product Officer at Canva",
+    "expertise_areas": [
+      "product management",
+      "design",
+      "startup scaling",
+      "team culture"
+    ],
+    "notable_companies": [
+      "Canva",
+      "Google"
+    ]
+  },
+  "topics_discussed": [
+    "Canva's massive scale and growth metrics",
+    "Working with married co-founders",
+    "MVP development philosophy and timing",
+    "Social media manager as initial target market",
+    "Onboarding optimization and user activation",
+    "SEO template strategy for growth",
+    "Internationalization as growth driver",
+    "Freemium model evolution",
+    "Internal coaching system vs traditional management",
+    "Giving away your Legos concept",
+    "Visual-first company culture",
+    "AI integration strategy and three-pillar approach",
+    "Enterprise product development",
+    "Product-focused board meetings",
+    "Hiring and culture fit challenges"
+  ],
+  "memorable_quotes": [
+    "We don't really have managers, but everyone at Canva has a coach. They're constantly working with you to look at your skills, but also when it might be time to move on to the next level.",
+    "I didn't know I could be a designer. And that was what we managed to do through several rounds of refinement on the onboarding process.",
+    "We view AI as the next way of democratizing design and empowering the world to design, helping more people design, helping more people design quicker, helping more people design quicker with better quality."
+  ],
+  "frameworks_mentioned": [
+    "Giving away your Legos (Molly Graham)",
+    "Jobs to be done framework",
+    "Three-pillar AI strategy (build own tech, partner with best, app ecosystem)",
+    "Learn and play feature introduction",
+    "360 feedback system",
+    "Visual communication methodology"
+  ],
+  "recommended_for": [
+    "startup founders and co-founders",
+    "product managers and CPOs",
+    "growth marketers",
+    "engineering and design leaders",
+    "HR and people operations professionals",
+    "entrepreneurs building consumer products",
+    "leaders scaling teams and culture"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Cameron Adams shares how Canva built a $2.3B ARR business through product obsession, unique cultural practices like internal coaching, and strategic decisions around MVP timing, freemium models, and AI integration. The episode provides tactical insights on scaling teams, growth strategies, and maintaining product focus at enterprise scale.",
+  "analyzed_at": "2026-01-14T15:38:13.627885+00:00",
+  "analyzer_version": "1.0.0"
+}

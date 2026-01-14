@@ -1,0 +1,86 @@
+{
+  "episode_id": "brandon-chu",
+  "guest": "Brandon Chu",
+  "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+  "youtube_url": "https://www.youtube.com/watch?v=sRukk520Fds",
+  "duration": "1:14:40",
+  "duration_seconds": 4480.0,
+  "view_count": 11209,
+  "themes": [
+    "product management career development",
+    "remote work culture",
+    "platform product management",
+    "decision making frameworks",
+    "writing for career growth",
+    "scaling product organizations",
+    "startup experience vs big tech",
+    "leadership and team building"
+  ],
+  "key_insights": [
+    "Writing crystallizes thinking - Brandon figured out his frameworks while writing, not before",
+    "Platform PM work has 5-10x longer feedback cycles requiring different psychological approach",
+    "Shopify's 'help teams ship the right thing at the right time in the right way' philosophy",
+    "Focus energy on truly important decisions, go with gut on less critical ones",
+    "Remote work enhanced by intentional in-person 'bursts' for high-velocity creative work",
+    "Side hustles and technical skills crucial for PM development and credibility",
+    "Writing externally can influence internally better than internal communication",
+    "Platform PMs must define clear principles about constituent prioritization"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product at Shopify (Product Acceleration team)",
+    "expertise_areas": [
+      "platform product management",
+      "developer ecosystems",
+      "product writing",
+      "remote team management"
+    ],
+    "notable_companies": [
+      "Shopify",
+      "FreshBooks",
+      "Tunezy",
+      "Kraft Foods"
+    ]
+  },
+  "topics_discussed": [
+    "Career journey from finance to product management",
+    "Shopify's product culture and decision-making processes",
+    "Remote work infrastructure and 'burst' system",
+    "Impact of COVID on product strategy pivot",
+    "Writing process and career benefits",
+    "Platform PM vs consumer PM differences",
+    "Decision prioritization frameworks",
+    "Technical skills for non-technical PMs",
+    "Angel investing experience",
+    "Founder mentality in product roles",
+    "Trust battery concept in organizations",
+    "API design and third-party integrations",
+    "Product planning cycles and roadmap flexibility",
+    "Team leadership through ambiguity",
+    "Side hustles for skill development"
+  ],
+  "memorable_quotes": [
+    "Your job is to help teams ship the right thing at the right time in the right way",
+    "Writing externally and getting momentum externally was a better way to influence internally",
+    "I figured out everything in those posts at the exact moment I wrote them. It was the writing process itself that actually allowed me to solidify those mental models"
+  ],
+  "frameworks_mentioned": [
+    "Decision importance prioritization matrix",
+    "Trust battery concept",
+    "Platform constituent stack ranking",
+    "Investment planning cycles",
+    "Shopify's burst system for remote teams"
+  ],
+  "recommended_for": [
+    "product managers seeking career advancement",
+    "platform product managers",
+    "remote team leaders",
+    "aspiring product writers",
+    "startup founders transitioning to larger companies",
+    "PMs interested in developer ecosystems"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Brandon Chu shares his journey from startup founder to Shopify VP, revealing how writing crystallized his product thinking and accelerated his career. The conversation covers platform PM strategies, remote work best practices, and practical frameworks for decision-making and team leadership.",
+  "analyzed_at": "2026-01-14T15:36:00.401282+00:00",
+  "analyzer_version": "1.0.0"
+}

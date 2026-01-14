@@ -1,0 +1,86 @@
+{
+  "episode_id": "alexander-embiricos",
+  "guest": "Alexander Embiricos",
+  "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+  "youtube_url": "https://www.youtube.com/watch?v=xZifSLGOrrw",
+  "duration": "1:16:34",
+  "duration_seconds": 4594.0,
+  "view_count": 13919,
+  "themes": [
+    "AI coding agents",
+    "Product development at OpenAI",
+    "Developer productivity",
+    "Agent-human collaboration",
+    "Future of software engineering",
+    "Building AI products",
+    "Startup acceleration with AI",
+    "Product management in AI companies"
+  ],
+  "key_insights": [
+    "OpenAI operates with extreme bottom-up autonomy, but this only works with exceptionally high talent caliber",
+    "The key to Codex's success was starting with IDE integration rather than jumping to fully autonomous cloud-based agents",
+    "Code review and validation, not code writing, is becoming the primary bottleneck for AI-accelerated development",
+    "The best coding agents should be given the hardest problems, not easy tasks, to demonstrate their value",
+    "Human typing speed and review capacity are currently the limiting factors for AGI productivity gains",
+    "Successful AI products require tight integration between product, research, and model training teams",
+    "The future of agents likely involves them writing code to interact with computers rather than using GUI automation",
+    "Early retention metrics and Reddit feedback are more valuable than internal dogfooding for AI product development"
+  ],
+  "guest_background": {
+    "current_role": "Product Lead for Codex at OpenAI",
+    "expertise_areas": [
+      "AI coding agents",
+      "product management",
+      "developer tools",
+      "startup building"
+    ],
+    "notable_companies": [
+      "OpenAI",
+      "Dropbox",
+      "Previous screen-sharing startup"
+    ]
+  },
+  "topics_discussed": [
+    "OpenAI's organizational structure and speed",
+    "Codex's 20x growth and development approach",
+    "The evolution from Codex Cloud to IDE integration",
+    "Building the Sora Android app in 28 days with Codex",
+    "Atlas browser development and vision",
+    "Code review vs code writing as productivity bottlenecks",
+    "Training models specifically for coding tasks",
+    "Context window management and compaction features",
+    "Non-engineer use cases for Codex",
+    "The future of software engineering careers",
+    "AGI timelines and limiting factors",
+    "Mixed-initiative AI system design",
+    "Proactive AI agents and contextual assistance",
+    "Team hiring and scaling at OpenAI",
+    "The importance of user feedback and social media monitoring"
+  ],
+  "memorable_quotes": [
+    "Codex is a bit like this really smart intern that refuses to read Slack, doesn't check Datadog unless you ask it to.",
+    "The current underappreciated limiting factor is literally human typing speed or human multitasking speed.",
+    "If you want to build any agent, maybe you should be building a coding agent."
+  ],
+  "frameworks_mentioned": [
+    "Ready, fire, aim approach for AI product development",
+    "Bottom-up organizational structure",
+    "Mixed-initiative system design",
+    "Compaction for context window management",
+    "Spec-driven development",
+    "Chatter-driven development"
+  ],
+  "recommended_for": [
+    "Software engineers interested in AI coding tools",
+    "Product managers building AI products",
+    "Startup founders leveraging AI for acceleration",
+    "Engineering leaders planning AI adoption",
+    "Developers curious about the future of programming",
+    "Anyone interested in OpenAI's product development approach"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Alexander Embiricos shares how OpenAI built Codex into a 20x growing coding agent, revealing insights about AI product development, the future of software engineering, and how teams can dramatically accelerate productivity with AI coding tools. The conversation provides a rare inside look at OpenAI's bottom-up culture and practical advice for leveraging AI agents effectively.",
+  "analyzed_at": "2026-01-14T15:26:15.681858+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,86 @@
+{
+  "episode_id": "camille-fournier",
+  "guest": "Camille Fournier",
+  "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+  "youtube_url": "https://www.youtube.com/watch?v=hZSh0rs20uI",
+  "duration": "1:23:15",
+  "duration_seconds": 4995.0,
+  "view_count": 15738,
+  "themes": [
+    "product management and engineering relationships",
+    "engineering leadership and management transitions",
+    "platform engineering and internal tooling",
+    "work-life balance and productivity optimization",
+    "technical decision making and system rewrites",
+    "team culture and stakeholder management",
+    "career development in tech",
+    "delegation and focus strategies"
+  ],
+  "key_insights": [
+    "PMs should avoid hoarding credit, playing telephone between stakeholders, and dismissing technical details to maintain good relationships with engineers",
+    "Engineers need creative outlets in product decisions, or they'll find them in unnecessary technical rewrites and over-engineering",
+    "Major system rewrites are often traps that underestimate migration complexity and hidden business logic in legacy systems",
+    "Engineering managers should achieve technical mastery (around 10 years) before transitioning to management to maintain credibility",
+    "Platform teams need software engineers, product managers, and outcome-based metrics - not just DevOps/SRE roles",
+    "Working fewer focused hours with regular audits of priorities often produces better results than long work weeks",
+    "Effective delegation requires upfront teaching investment but creates scalability and team empowerment",
+    "One-on-ones should be reserved for direct reports and managers, not used as default stakeholder management"
+  ],
+  "guest_background": {
+    "current_role": "Technology executive and author",
+    "expertise_areas": [
+      "engineering management",
+      "platform engineering",
+      "technical leadership",
+      "team culture"
+    ],
+    "notable_companies": [
+      "Rent The Runway",
+      "Goldman Sachs",
+      "JP Morgan Chase",
+      "Two Sigma"
+    ]
+  },
+  "topics_discussed": [
+    "Common PM behaviors that annoy engineers",
+    "Credit sharing and inclusive leadership practices",
+    "The dangers of major system rewrites",
+    "Finding balance between technical depth and leadership altitude",
+    "Transition timing from IC to engineering management",
+    "Building effective work cultures without overwork",
+    "Delegation strategies and time management",
+    "One-on-one meeting optimization",
+    "Platform team structure and incentives",
+    "Product management for internal platforms",
+    "Stakeholder management for platform teams",
+    "AI tools for writing and productivity",
+    "Technical framework evaluation (GraphQL example)",
+    "Migration complexity in platform projects",
+    "Focus techniques and productivity rituals"
+  ],
+  "memorable_quotes": [
+    "If you don't challenge yourself, if you don't take risks, you'll never grow",
+    "Management really is a service job. You are serving the team, you are serving the company",
+    "Overwork kind of lets you just sidestep doing the hard work of figuring out what's important in the first place"
+  ],
+  "frameworks_mentioned": [
+    "DORA framework (mentioned by sponsor)",
+    "SPACE framework (mentioned by sponsor)",
+    "OKR/goal-setting methodologies",
+    "Agile project management principles",
+    "Servant leadership concepts"
+  ],
+  "recommended_for": [
+    "Product managers working with engineering teams",
+    "Engineering managers and technical leaders",
+    "Platform engineering teams and leaders",
+    "Senior engineers considering management transitions",
+    "Startup founders building technical teams",
+    "Anyone involved in PM-engineering collaboration"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Camille Fournier shares hard-won wisdom on PM-engineering relationships, the realities of engineering leadership, and building effective platform teams. The conversation offers specific tactics for avoiding common pitfalls while emphasizing the importance of focus, delegation, and servant leadership in technical organizations.",
+  "analyzed_at": "2026-01-14T15:38:35.032621+00:00",
+  "analyzer_version": "1.0.0"
+}

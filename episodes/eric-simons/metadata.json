@@ -1,0 +1,84 @@
+{
+  "episode_id": "eric-simons",
+  "guest": "Eric Simons",
+  "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+  "youtube_url": "https://www.youtube.com/watch?v=L22DtAHLmzs",
+  "duration": "1:28:51",
+  "duration_seconds": 5331.0,
+  "view_count": 25333,
+  "themes": [
+    "AI-powered software development",
+    "Rapid startup growth and scaling",
+    "Product-market fit discovery",
+    "Team building and organizational structure",
+    "Technology-first product development",
+    "Future of work and coding",
+    "Startup survival and persistence",
+    "AI tools and productivity"
+  ],
+  "key_insights": [
+    "Building deep technology first can pay off massively if you survive long enough to find the right use case",
+    "AI coding tools work best when compute runs locally in the browser rather than on cloud servers for speed and reliability",
+    "Non-technical product managers are often more successful with AI coding tools than developers because they excel at articulating requirements",
+    "Small, long-tenured teams with high context can scale much faster than large teams with frequent turnover",
+    "The deterministic nature of code makes it ideal for AI training compared to other domains like law",
+    "Daily all-hands meetings for the entire company can be effective during periods of extreme growth to minimize communication loss",
+    "Anthropic's Claude Sonnet was the breakthrough model that made reliable AI code generation possible",
+    "AI coding represents a fundamental shift from human-first to AI-first development with human assistance"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of StackBlitz",
+    "expertise_areas": [
+      "AI-powered development tools",
+      "browser-based operating systems",
+      "startup growth",
+      "WebAssembly technology"
+    ],
+    "notable_companies": [
+      "StackBlitz",
+      "Bolt"
+    ]
+  },
+  "topics_discussed": [
+    "Bolt's explosive growth from 0 to 40M ARR in 5 months",
+    "WebContainer technology and browser-based operating systems",
+    "Seven-year journey building StackBlitz before Bolt launch",
+    "AI coding capabilities enabled by Anthropic's Claude Sonnet",
+    "Product management skills in the AI era",
+    "Organizational changes needed for AI-first development",
+    "Future of software engineering roles",
+    "Building mobile apps with AI through Expo integration",
+    "Figma to code conversion capabilities",
+    "Slack bot integration for team collaboration",
+    "Scaling challenges with million+ users and small team",
+    "Pricing strategy for AI inference costs",
+    "Living at AOL headquarters as a broke entrepreneur",
+    "Remote team building and hiring practices",
+    "Product prioritization during hypergrowth"
+  ],
+  "memorable_quotes": [
+    "It was kind of like, Bolt's this overnight success, seven years in the making.",
+    "The company was on the verge of going under when we launched Bolt, and what ended up happening is, in the first two months it went from zero to 20 million of ARR.",
+    "Most importantly, it's been the people. It's rare to find startups where you have the core group of five, six, seven people that have been there for five years plus."
+  ],
+  "frameworks_mentioned": [
+    "PRD (Product Requirements Document) methodology",
+    "Linear project management",
+    "Daily all-hands meeting structure",
+    "WebContainer architecture",
+    "AI-first development workflow"
+  ],
+  "recommended_for": [
+    "Product managers transitioning to AI tools",
+    "Startup founders building technical products",
+    "Software engineers curious about AI coding",
+    "Entrepreneurs interested in hypergrowth scaling",
+    "Technical leaders planning AI integration",
+    "Investors evaluating AI coding startups"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Eric Simons shares how StackBlitz's seven-year journey building browser-based development tools culminated in Bolt, an AI coding platform that grew from 0 to 40M ARR in five months. The conversation explores the technical breakthroughs, organizational strategies, and future implications of AI-first software development.",
+  "analyzed_at": "2026-01-14T15:53:51.715331+00:00",
+  "analyzer_version": "1.0.0"
+}

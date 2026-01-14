@@ -1,0 +1,86 @@
+{
+  "episode_id": "camille-hearst",
+  "guest": "Camille Hearst",
+  "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+  "youtube_url": "https://www.youtube.com/watch?v=oB-BjEjxHNw",
+  "duration": "1:03:42",
+  "duration_seconds": 3822.0,
+  "view_count": 4752,
+  "themes": [
+    "creator economy",
+    "marketplace dynamics",
+    "product management",
+    "startup acquisition",
+    "supply-side optimization",
+    "artist monetization",
+    "product marketing",
+    "entrepreneurship"
+  ],
+  "key_insights": [
+    "In marketplaces, supply is almost always the critical constraint - you can't have a business without inventory on the shelves",
+    "Consistency and predictability of content creation is crucial for creator success, along with collaboration with other creators",
+    "Musicians often struggle with the 'starving artist ethos' and shy away from monetization more than other creators",
+    "Start building relationships with potential acquirers from day one, not when you're ready to sell",
+    "Treat company acquisition like a managed process similar to fundraising - it rarely just happens organically",
+    "Focus on de-risking your biggest, most innovative ideas first rather than always choosing safe, predictable wins",
+    "Creators need two fundamental things: audience growth and monetization - audience growth often enables monetization opportunities",
+    "The creator economy prediction largely came true, but platforms won due to network effects and aggregation advantages"
+  ],
+  "guest_background": {
+    "current_role": "Head of Fan Monetization at Spotify",
+    "expertise_areas": [
+      "creator economy",
+      "marketplace product management",
+      "artist monetization",
+      "product marketing"
+    ],
+    "notable_companies": [
+      "Spotify",
+      "Patreon",
+      "YouTube",
+      "Apple",
+      "Hailo"
+    ]
+  },
+  "topics_discussed": [
+    "Fan monetization strategies at Spotify",
+    "Working with musical artists and creators",
+    "Creator economy evolution and future",
+    "Supply-side marketplace management",
+    "Startup acquisition process and lessons",
+    "Apple's product management approach vs traditional PM roles",
+    "Steve Jobs interaction and Apple culture",
+    "iTunes early days as second PM",
+    "Patreon creator platform experience",
+    "Kit startup journey and exit",
+    "Dual-track agile and product discovery",
+    "Creator success factors and challenges",
+    "Platform aggregation effects",
+    "Music industry monetization",
+    "Product frameworks and methodologies"
+  ],
+  "memorable_quotes": [
+    "I think they're two-sided and you start with the supply and at the end of the day, you can optimize for the demand side or choose who you're going to prioritize in terms of if there's a conflict, we're going to pick this side or the other.",
+    "The best time to plant a tree was 20 years ago, the second best time is now.",
+    "We call it internally the hamster wheel of content creation. You get on because you love it and then how do you get off."
+  ],
+  "frameworks_mentioned": [
+    "Dual-track agile (discovery and delivery)",
+    "Impact vs effort 2x2 matrix",
+    "De-risking assumptions methodology",
+    "Marty Cagan's product discovery approach"
+  ],
+  "recommended_for": [
+    "product managers working on marketplaces",
+    "creator economy professionals",
+    "startup founders considering acquisition",
+    "product marketing managers",
+    "music industry professionals",
+    "supply-side marketplace operators"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Camille Hearst shares insights from her extensive creator economy experience, covering marketplace dynamics, creator monetization strategies, and practical lessons from building and selling a startup. The conversation provides valuable frameworks for product management and deep insights into the supply-side challenges of creator platforms.",
+  "analyzed_at": "2026-01-14T15:38:55.905370+00:00",
+  "analyzer_version": "1.0.0"
+}

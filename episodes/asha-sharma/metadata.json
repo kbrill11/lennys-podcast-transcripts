@@ -1,0 +1,86 @@
+{
+  "episode_id": "asha-sharma",
+  "guest": "Asha Sharma",
+  "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+  "youtube_url": "https://www.youtube.com/watch?v=J9UWaltU-7Q",
+  "duration": "57:11",
+  "duration_seconds": 3431.0,
+  "view_count": 29562,
+  "themes": [
+    "AI transformation and product development",
+    "Agentic society and organizational change",
+    "Product as organism vs artifact",
+    "Post-training and model fine-tuning",
+    "Future of work and team structures",
+    "AI platform development",
+    "Leadership in AI era",
+    "Product management evolution"
+  ],
+  "key_insights": [
+    "Products are evolving from static artifacts to living organisms that learn and improve through data feedback loops",
+    "Post-training is becoming more economically viable than pre-training once models hit 30 billion parameters",
+    "Organizations will shift from org charts to work charts as agents handle more tasks",
+    "Full-stack builders are having a renaissance as AI enables individuals to span multiple disciplines",
+    "Planning should focus on 'seasons' defined by secular changes rather than fixed timeframes",
+    "GUIs are shifting toward code-native interfaces as text streams connect better with LLMs",
+    "Successful AI companies embrace AI fluency across the organization before applying it to specific processes"
+  ],
+  "guest_background": {
+    "current_role": "Chief Vice President of Product for Microsoft's AI platform",
+    "expertise_areas": [
+      "AI infrastructure",
+      "product management",
+      "platform development",
+      "messaging products"
+    ],
+    "notable_companies": [
+      "Microsoft",
+      "Instacart",
+      "Meta",
+      "Home Depot (board)",
+      "Coupang (board)"
+    ]
+  },
+  "topics_discussed": [
+    "Product as organism concept and metabolic product development",
+    "Agentic society and future organizational structures",
+    "Post-training vs pre-training economics and strategy",
+    "Code-native interfaces replacing traditional GUIs",
+    "Planning strategies in rapidly changing AI landscape",
+    "15,000 customers building millions of agents on Azure",
+    "Full-stack builder emergence and role evolution",
+    "Reinforcement learning as critical product technique",
+    "Model systems vs single model approaches",
+    "AI adoption patterns in enterprises",
+    "Leadership lessons from working with Satya Nadella",
+    "Personal motivation and impact of AI on healthcare",
+    "Season-based planning methodology",
+    "Platform development principles from messaging and marketplaces"
+  ],
+  "memorable_quotes": [
+    "We're approaching this world in which the marginal cost of the good output is approaching zero. We're going to see exponential demand for productivity and outputs.",
+    "All of a sudden, these are these living organisms that just get better with the more interactions that happen. I think this is the new IP of every single company products that think and live and learn.",
+    "I think it's all about the loop, not the lane here."
+  ],
+  "frameworks_mentioned": [
+    "Product as organism vs artifact framework",
+    "Season-based planning methodology",
+    "Loop vs lane thinking",
+    "Minimize regret vs maximize option value",
+    "Model systems approach",
+    "Post-training optimization loop"
+  ],
+  "recommended_for": [
+    "AI product managers",
+    "Platform developers",
+    "Engineering leaders building AI products",
+    "Startup founders in AI space",
+    "Enterprise executives implementing AI",
+    "Product strategy professionals"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "advanced",
+  "summary": "Asha Sharma shares unique insights on AI's transformation of product development, from static artifacts to living organisms, and predicts the emergence of an agentic society that will reshape organizational structures. She provides tactical guidance on post-training strategies, planning methodologies, and the evolution toward code-native interfaces while drawing from her experience overseeing Microsoft's AI platform serving 15,000 customers.",
+  "analyzed_at": "2026-01-14T15:31:24.416994+00:00",
+  "analyzer_version": "1.0.0"
+}

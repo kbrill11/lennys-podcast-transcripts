@@ -1,0 +1,84 @@
+{
+  "episode_id": "barbra-gago",
+  "guest": "Barbra Gago",
+  "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+  "youtube_url": "https://www.youtube.com/watch?v=gCEaUfZUuI0",
+  "duration": "55:48",
+  "duration_seconds": 3348.0,
+  "view_count": 3496,
+  "themes": [
+    "category creation",
+    "brand building and rebranding",
+    "go-to-market strategy",
+    "opinionated software design",
+    "B2B SaaS marketing",
+    "performance management",
+    "product positioning",
+    "startup scaling"
+  ],
+  "key_insights": [
+    "Category creation requires significant investment in content marketing, thought leadership, and analyst relationships - only pursue when existing categories are too small or constraining",
+    "When creating categories, you need both budget validation and customer language alignment - if customers consistently use different terms, abandon the new category",
+    "Successful rebranding should happen early in scale mode, before too much brand equity is built, and must involve the entire company in a structured process",
+    "Brand systems should integrate company values into visual elements and behaviors, making the brand inseparable from company culture",
+    "Opinionated software works best when either codifying existing best practices or solving systematic problems that require behavioral change",
+    "Category creation often happens in waves during technological inflection points rather than as isolated company decisions",
+    "The middle ground between new and existing categories can work - sell into existing budgets while building long-term category vision"
+  ],
+  "guest_background": {
+    "current_role": "Founder/CEO at Pando (employee progression platform)",
+    "expertise_areas": [
+      "B2B marketing",
+      "category creation",
+      "brand strategy",
+      "go-to-market"
+    ],
+    "notable_companies": [
+      "Miro",
+      "Greenhouse",
+      "CultureAmp"
+    ]
+  },
+  "topics_discussed": [
+    "Visual collaboration category creation at Miro",
+    "Failed recruiting optimization category at Greenhouse",
+    "RealtimeBoard to Miro rebrand process",
+    "Brand system design and company values integration",
+    "Category creation vs existing category optimization",
+    "Analyst and directory site relationships",
+    "Content marketing for category building",
+    "Opinionated software philosophy",
+    "Performance review system problems",
+    "Employee progression platform vision",
+    "Brand vs product importance balance",
+    "Company values development process",
+    "Market inflection points and category waves",
+    "Customer language and budget alignment",
+    "Structured recruiting best practices"
+  ],
+  "memorable_quotes": [
+    "When you're building a category, you need to make sure that there is a category that's validated by analysts and directory sites and things like that. But also, you want to have a lot of traction in terms of thought leadership",
+    "It's not officially actually a category until there's more companies that do that. And that was a big learning for me in this whole process of category creation",
+    "The product and the brand are the main things that will get customers and keep them and also keep them loyal and engaged. So I think you have to have both"
+  ],
+  "frameworks_mentioned": [
+    "Jobs to be done framework",
+    "Brand system design",
+    "Sprint-based rebranding process",
+    "Structured recruiting methodology",
+    "Category validation through analysts and directories",
+    "Voice of customer research for positioning"
+  ],
+  "recommended_for": [
+    "startup founders considering category creation",
+    "marketing leaders planning rebrands",
+    "product managers building opinionated software",
+    "B2B SaaS executives developing go-to-market strategy",
+    "brand strategists and marketing directors"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Barbra Gago shares tactical insights from creating the visual collaboration category at Miro and leading major rebrands, covering when to create new categories versus compete in existing ones, plus practical frameworks for brand building and opinionated software design. The episode provides actionable guidance for B2B marketing leaders navigating positioning, branding, and go-to-market decisions.",
+  "analyzed_at": "2026-01-14T15:33:01.395649+00:00",
+  "analyzer_version": "1.0.0"
+}

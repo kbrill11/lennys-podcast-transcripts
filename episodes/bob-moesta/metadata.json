@@ -1,0 +1,88 @@
+{
+  "episode_id": "bob-moesta",
+  "guest": "Bob Moesta",
+  "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+  "youtube_url": "https://www.youtube.com/watch?v=2wypVv9wZtI",
+  "duration": "1:24:56",
+  "duration_seconds": 5096.0,
+  "view_count": 19224,
+  "themes": [
+    "Jobs-to-be-Done framework",
+    "Customer research methodology",
+    "Product development strategy",
+    "Innovation and entrepreneurship",
+    "User behavior analysis",
+    "Demand-side thinking",
+    "Struggling moments identification",
+    "Context-driven decision making"
+  ],
+  "key_insights": [
+    "People hire products to make progress, they don't buy them - focus on the struggling moments that push customers to seek solutions",
+    "Context matters more than pain points - understanding the full situation makes seemingly irrational customer behavior rational",
+    "Study people who recently made a change rather than those who just want to - actual behavior reveals true motivations",
+    "Products typically serve 3-5 different jobs that often conflict with each other - identify and separate these pathways",
+    "Interview 10-12 customers maximum in 2 rounds rather than doing massive statistical studies - patterns emerge around 7-8 interviews",
+    "Reduce friction (F3 anxiety + F4 habits) rather than just adding features - sometimes raising prices while removing barriers increases sales",
+    "Sales processes should match how customers want to buy, not how companies want to sell - meet customers where they are in their journey",
+    "Choose what to suck at deliberately - your product trade-offs must align with customer trade-offs"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of The Rewired Group",
+    "expertise_areas": [
+      "Jobs-to-be-Done methodology",
+      "Product innovation",
+      "Customer research",
+      "Startup mentoring"
+    ],
+    "notable_companies": [
+      "Ford Motor Company",
+      "Basecamp",
+      "Intercom",
+      "Southern New Hampshire University"
+    ]
+  },
+  "topics_discussed": [
+    "Jobs-to-be-Done framework fundamentals",
+    "Customer interview techniques and best practices",
+    "Forces of progress model (push, pull, anxiety, habits)",
+    "Struggling moments as innovation opportunities",
+    "Context vs. pain-and-gain thinking",
+    "Snickers vs. Milky Way competitive analysis example",
+    "Zero-to-one product development using JTBD",
+    "Sales process design based on customer buying journey",
+    "Common misconceptions about Jobs-to-be-Done",
+    "Differences between various JTBD approaches (Moesta vs. Christensen vs. Ulwick)",
+    "When Jobs-to-be-Done framework doesn't apply",
+    "Customer churn analysis through JTBD lens",
+    "Autobooks and Intercom case studies",
+    "Home building and dining room table story",
+    "Career switching patterns and job mobility research"
+  ],
+  "memorable_quotes": [
+    "People hire products, they don't buy them, they hire them to make progress in their life",
+    "Bitchin' ain't switchin' - just because people complain about something doesn't mean they're going to do anything about it",
+    "A kick-ass half is better than a half-ass whole"
+  ],
+  "frameworks_mentioned": [
+    "Jobs-to-be-Done framework",
+    "Forces of Progress model (F1-F4)",
+    "Six phases of customer journey (first thought, passive looking, active looking, deciding, first use, ongoing use)",
+    "Hire and fire criteria analysis",
+    "Design experiments methodology",
+    "Demand-side vs. supply-side thinking"
+  ],
+  "recommended_for": [
+    "Product managers and product leaders",
+    "Startup founders and entrepreneurs",
+    "Customer research professionals",
+    "Sales and marketing teams",
+    "Innovation consultants",
+    "Business strategists",
+    "UX researchers and designers"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Bob Moesta, co-creator of the Jobs-to-be-Done framework, shares practical methodologies for understanding customer behavior through struggling moments rather than traditional market research. The episode provides tactical guidance on customer interviewing, product development, and sales process design based on how customers actually make progress in their lives.",
+  "analyzed_at": "2026-01-14T15:35:19.546420+00:00",
+  "analyzer_version": "1.0.0"
+}

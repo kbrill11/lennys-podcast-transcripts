@@ -1,0 +1,92 @@
+{
+  "episode_id": "anuj-rathi",
+  "guest": "Anuj Rathi",
+  "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+  "youtube_url": "https://www.youtube.com/watch?v=1sClhfuCxP0",
+  "duration": "1:12:29",
+  "duration_seconds": 4349.0,
+  "view_count": 25289,
+  "themes": [
+    "product management in India",
+    "full-stack product management",
+    "user experience for new users",
+    "working backwards methodology",
+    "marketplace dynamics",
+    "product strategy frameworks",
+    "leadership and influence",
+    "contrarian product thinking",
+    "organizational design"
+  ],
+  "key_insights": [
+    "Users are lazy, vain, and selfish - design onboarding experiences with this mindset",
+    "Product managers should be full-stack influencers, thinking beyond features to entire user journeys",
+    "Always explore three divergent strategic options before committing to one direction",
+    "Focus on new/marginal users rather than existing users when optimizing experiences",
+    "Most experiments should be thought experiments - many will obviously fail with proper analysis",
+    "In marketplaces, traditional OKRs fail because goals across user types are inherently conflicting",
+    "Excellence over speed when forced to choose - think more and ship better",
+    "Product managers need three core skills: raw smarts, drive/grit, and influence"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product and Marketing Officer at Jupiter Money",
+    "expertise_areas": [
+      "product management",
+      "marketplace strategy",
+      "fintech",
+      "growth",
+      "user experience"
+    ],
+    "notable_companies": [
+      "Jupiter Money",
+      "Swiggy",
+      "Flipkart",
+      "Snapdeal",
+      "Walmart Labs"
+    ]
+  },
+  "topics_discussed": [
+    "Product management evolution in India since 2010",
+    "Building for diverse Indian market with multiple languages and price sensitivities",
+    "Lazy, vain, selfish user framework for onboarding design",
+    "Show don't tell methodology for product planning",
+    "Working backwards process with three alternative PR FAQs",
+    "Four BB framework: Brilliant Basics, Bread and Butter, Big Bets, Breaking Bad",
+    "Full-stack product management approach",
+    "Rule of three for strategic alternatives",
+    "Marketplace complexity and three-way user dynamics",
+    "Can't do, won't do, not set up to do leadership framework",
+    "Product manager skill assessment and career fit",
+    "AI integration with human intelligence (HI)",
+    "OKRs failing in marketplace environments",
+    "Speed vs excellence decision-making framework",
+    "Influence as core PM competency"
+  ],
+  "memorable_quotes": [
+    "There are only three reasons why things do not happen the way you want them to happen as a leader. You can look at a person, and you would say either that person can't do, which is a capability issue, or they won't do, which is a motivation or an alignment issue, or they were not set up to do, which is really your problem.",
+    "Users are lazy, they are vain, and they're selfish. So lazy meaning, 'I don't have time for this, so blow my mind away. Otherwise, I'm not going to pay attention.'",
+    "You are the reason for your own misery. Stop externalizing."
+  ],
+  "frameworks_mentioned": [
+    "Lazy, vain, selfish user framework",
+    "Working backwards with PR FAQ methodology",
+    "Four BB framework (Brilliant Basics, Bread and Butter, Big Bets, Breaking Bad)",
+    "Show don't tell product planning",
+    "Rule of three for strategic alternatives",
+    "Can't do, won't do, not set up to do leadership assessment",
+    "Full-stack product management approach",
+    "Person vs personas for user research"
+  ],
+  "recommended_for": [
+    "Product managers seeking strategic frameworks",
+    "Product leaders building marketplaces",
+    "Professionals interested in Indian market dynamics",
+    "PMs working on user onboarding and activation",
+    "Product strategists and heads of product",
+    "Leaders managing complex multi-sided platforms"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Anuj Rathi shares battle-tested frameworks from building successful Indian marketplaces like Swiggy and Flipkart, emphasizing full-stack product management, user-centric design for 'lazy, vain, selfish' users, and strategic thinking through multiple alternatives. The conversation provides concrete methodologies for product strategy, marketplace dynamics, and leadership in complex product environments.",
+  "analyzed_at": "2026-01-14T15:29:54.210137+00:00",
+  "analyzer_version": "1.0.0"
+}

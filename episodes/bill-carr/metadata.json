@@ -1,0 +1,98 @@
+{
+  "episode_id": "bill-carr",
+  "guest": "Bill Carr",
+  "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+  "youtube_url": "https://www.youtube.com/watch?v=S9WHQa_AJQo",
+  "duration": "1:33:28",
+  "duration_seconds": 5608.0,
+  "view_count": 27591,
+  "themes": [
+    "Amazon's ways of working",
+    "Process innovation at scale",
+    "Working backwards methodology",
+    "Single-threaded leadership",
+    "Decision-making frameworks",
+    "Product development processes",
+    "Organizational design",
+    "Input vs output metrics",
+    "Company culture and leadership principles",
+    "Hiring and talent management"
+  ],
+  "key_insights": [
+    "Amazon's innovation period (2003-2007) created both product and process innovations when transitioning from hypergrowth to complex operations",
+    "Single-threaded leadership with dedicated resources creates ownership, speed, and agility by eliminating resource contention",
+    "The PR/FAQ process forces teams to start with customer problems before solutions, using press releases as internal planning documents",
+    "Input metrics (measuring customer experience factors) are more actionable than output metrics (revenue, growth) for driving long-term success",
+    "Disagree and commit requires voicing concerns until leadership demonstrates understanding, then fully committing to the decision",
+    "Bar Raisers in hiring prevent new employees from hiring based on previous company standards rather than current company culture",
+    "Compensation based on long-term stock performance rather than short-term bonuses enables risk-taking and innovation",
+    "Functional excellence must be maintained through countermeasures when moving to autonomous team structures"
+  ],
+  "guest_background": {
+    "current_role": "Founder of Working Backwards, LLC consulting firm",
+    "expertise_areas": [
+      "digital media",
+      "product management",
+      "organizational design",
+      "Amazon processes"
+    ],
+    "notable_companies": [
+      "Amazon",
+      "OfferUp",
+      "Maveron"
+    ]
+  },
+  "topics_discussed": [
+    "Amazon's unique contributions to business practices",
+    "The 2003-2007 innovation period at Amazon",
+    "Single-threaded leadership model vs traditional project management",
+    "API architecture enabling autonomous teams",
+    "Functional countermeasures for decentralized teams",
+    "Working backwards methodology and customer obsession",
+    "PR/FAQ process for product development",
+    "Concentric circle review process",
+    "Product funnel vs product tunnel approach",
+    "Input and output metrics framework",
+    "Amazon's growth flywheel",
+    "Disagree and commit leadership principle",
+    "Leaders are right a lot principle",
+    "Fire Phone failure analysis",
+    "Innovation and failure tolerance",
+    "Compensation structure enabling risk-taking",
+    "Bar Raiser hiring process",
+    "Implementation advice for other companies"
+  ],
+  "memorable_quotes": [
+    "We took it as an article of faith. If we served customers well, if we prioritized customers and delivered for them, things like sales, things like revenue and active customers and things like the share price and free cash flow would follow.",
+    "Slow is smooth and smooth is fast. Most people confuse speed with velocity, and the difference between the two is that velocity has both speed and a vector to it.",
+    "You want to create a product funnel, not a product tunnel. With a funnel, meaning lots of things at the top, fewer things at the bottom."
+  ],
+  "frameworks_mentioned": [
+    "Working Backwards methodology",
+    "PR/FAQ process",
+    "Single-threaded leadership",
+    "Input vs Output metrics",
+    "Disagree and commit",
+    "Bar Raiser hiring",
+    "Leadership principles",
+    "DMAIC (Six Sigma)",
+    "Good to Great flywheel concept",
+    "Behavioral interviewing",
+    "STAR method"
+  ],
+  "recommended_for": [
+    "Product managers",
+    "Engineering leaders",
+    "C-level executives",
+    "Startup founders scaling operations",
+    "Operations managers",
+    "HR leaders implementing hiring processes",
+    "Business strategy professionals",
+    "Anyone interested in Amazon's operational excellence"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Bill Carr, former Amazon VP and co-author of 'Working Backwards,' shares detailed insights into Amazon's revolutionary business processes including single-threaded leadership, PR/FAQ product development, and input metrics. He provides tactical advice for implementing these practices at other companies while explaining the organizational design principles that enabled Amazon's sustained innovation and scale.",
+  "analyzed_at": "2026-01-14T15:34:32.942577+00:00",
+  "analyzer_version": "1.0.0"
+}

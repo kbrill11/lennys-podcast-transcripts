@@ -1,0 +1,88 @@
+{
+  "episode_id": "ben-horowitz",
+  "guest": "Ben Horowitz",
+  "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+  "youtube_url": "https://www.youtube.com/watch?v=KPxTekxQjzc",
+  "duration": "1:38:00",
+  "duration_seconds": 5880.0,
+  "view_count": 119415,
+  "themes": [
+    "venture capital and investing",
+    "CEO leadership and decision-making",
+    "startup struggles and failure",
+    "product management philosophy",
+    "AI industry and opportunities",
+    "company culture and management",
+    "running toward fear and difficult decisions",
+    "founder vs professional CEO dynamics",
+    "building confidence as a leader"
+  ],
+  "key_insights": [
+    "Success comes from a series of small, hard decisions that compound over time, not from single breakthrough moments",
+    "The worst thing a leader can do is hesitate when both options seem horrible - action on the slightly better choice is always preferable",
+    "You don't make people great as a CEO - you find people that make you and the company great",
+    "CEOs should judge people on their strengths and what they can do, not their weaknesses or past failures",
+    "Product management is fundamentally a leadership job where you must influence without authority",
+    "Confidence is the key differentiator between successful and failed founders - loss of confidence leads to hesitation and political dysfunction",
+    "In AI, application layer companies need to build specialized models and proprietary data to create real moats, not just thin wrappers",
+    "Life isn't fair - expecting fairness will defeat you, focus on 'what should I do now' instead"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and General Partner at Andreessen Horowitz (a16z)",
+    "expertise_areas": [
+      "venture capital",
+      "CEO coaching",
+      "product management",
+      "company building",
+      "AI investing"
+    ],
+    "notable_companies": [
+      "Netscape",
+      "LoudCloud",
+      "Opsware",
+      "Andreessen Horowitz"
+    ]
+  },
+  "topics_discussed": [
+    "Decision-making under pressure and running toward fear",
+    "The psychological challenges of being a CEO",
+    "When to replace vs develop founders as CEOs",
+    "Good Product Manager, Bad Product Manager document origins",
+    "AI industry bubble vs real opportunity analysis",
+    "Infrastructure vs application layer investing in AI",
+    "Adam Neumann and WeWork investment philosophy",
+    "Building confidence in early-stage CEOs",
+    "Managerial leverage and hiring senior talent",
+    "US leadership in AI and its global importance",
+    "Paid in Full Foundation for hip-hop pioneers",
+    "Prison gang management lessons for corporate culture",
+    "Databricks early funding and thinking bigger",
+    "The importance of judging people on strengths not weaknesses",
+    "Life lessons from aviation accidents and decision chains"
+  ],
+  "memorable_quotes": [
+    "The only value you ever add is when you make a decision that most people don't like",
+    "Life isn't fair. As soon as you get that idea out of your mind, then you can just deal with it",
+    "You don't make people great. You find people that make you great, that make the company great, that you learn from, not the other way around"
+  ],
+  "frameworks_mentioned": [
+    "Good Product Manager, Bad Product Manager framework",
+    "Managerial leverage concept",
+    "Running toward fear vs away from fear",
+    "Judge people on strengths not weaknesses",
+    "Founder mode vs professional management balance"
+  ],
+  "recommended_for": [
+    "startup founders and CEOs",
+    "product managers",
+    "venture capitalists and investors",
+    "senior executives and leaders",
+    "entrepreneurs considering starting companies",
+    "anyone interested in AI industry insights"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "advanced",
+  "summary": "Ben Horowitz shares hard-won lessons about CEO leadership, decision-making under pressure, and building successful companies. He covers everything from his famous product management philosophy to AI investing strategies, emphasizing that success comes from making tough decisions quickly and running toward rather than away from difficult challenges.",
+  "analyzed_at": "2026-01-14T15:33:22.796875+00:00",
+  "analyzer_version": "1.0.0"
+}

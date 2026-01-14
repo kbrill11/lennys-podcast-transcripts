@@ -1,0 +1,89 @@
+{
+  "episode_id": "grant-lee",
+  "guest": "Grant Lee",
+  "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)",
+  "youtube_url": "https://www.youtube.com/watch?v=3H0ngGU5pbM",
+  "duration": "1:53:54",
+  "duration_seconds": 6834.0,
+  "view_count": 41679,
+  "themes": [
+    "product market fit",
+    "growth strategies",
+    "influencer marketing",
+    "founder led marketing",
+    "AI startup scaling",
+    "team building",
+    "pricing strategy",
+    "user research",
+    "brand building",
+    "product development"
+  ],
+  "key_insights": [
+    "Product market fit is achieved when organic word of mouth growth takes off without paid marketing efforts",
+    "Invest heavily in making the first 30 seconds of product experience magical before scaling marketing",
+    "Successful influencer marketing requires working with thousands of micro influencers rather than a few large ones",
+    "Testing prototypes with real users daily using platforms like Voicepanel can save months of building wrong features",
+    "Hiring generalists who can wear multiple hats is more effective than specialists in early stage companies",
+    "Brand investment should come before heavy performance marketing to avoid creative limitations",
+    "Revenue per employee and profitability should be monitored from day one, especially for AI companies with inference costs",
+    "Word of mouth should represent over 50% of new user acquisition before heavily investing in paid channels"
+  ],
+  "guest_background": {
+    "current_role": "CEO and co-founder of Gamma",
+    "expertise_areas": [
+      "AI product development",
+      "growth marketing",
+      "team building",
+      "pricing strategy"
+    ],
+    "notable_companies": [
+      "Gamma",
+      "Optimizely"
+    ]
+  },
+  "topics_discussed": [
+    "Finding product market fit through organic growth signals",
+    "Rebuilding onboarding experience for magical first 30 seconds",
+    "Scaling influencer marketing with micro influencers",
+    "Founder led marketing strategies and content creation",
+    "Daily prototype testing with real users",
+    "Pricing strategy using Van Westendorp surveys",
+    "Building profitable AI business from early stage",
+    "Team structure with player coach management model",
+    "Brand development and creative asset scaling",
+    "Performance marketing timing and constraints",
+    "Using 20 plus AI models for different workflows",
+    "Creating echo chambers in niche communities",
+    "Revenue per employee optimization",
+    "Hiring generalists versus specialists",
+    "Maintaining team continuity and low churn"
+  ],
+  "memorable_quotes": [
+    "That has to be the worst pitch, worst idea I have ever heard. Not only are you trying to go against incumbents, you're going against incumbents that have massive distribution. You are never going to succeed.",
+    "Your mindset should almost be like you're trying to create a word of mouth machine. If you can get that part right, everything else becomes significantly easier.",
+    "You want to be able to have them tell your story but in their voice. You can't really fake that. You really need to spend the time doing that."
+  ],
+  "frameworks_mentioned": [
+    "Van Westendorp pricing survey",
+    "conjoint analysis",
+    "jobs to be done",
+    "Dunbar's number",
+    "strong opinions weakly held",
+    "first mile onboarding",
+    "power law distribution",
+    "player coach management model"
+  ],
+  "recommended_for": [
+    "AI startup founders",
+    "growth marketers",
+    "product managers",
+    "early stage entrepreneurs",
+    "marketing leaders",
+    "startup executives"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Grant Lee shares how Gamma grew from a rejected idea to $100M ARR in just over two years, focusing on organic growth through exceptional user experience, strategic influencer marketing, and maintaining a lean but highly effective team. The conversation provides tactical insights on finding product market fit, scaling growth channels, and building sustainable AI businesses.",
+  "analyzed_at": "2026-01-14T16:30:32.247936+00:00",
+  "analyzer_version": "1.0.0"
+}
