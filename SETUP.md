@@ -238,6 +238,85 @@ Always activate your virtual environment before running:
 source .venv/bin/activate
 ```
 
+## Visualization Script
+
+A separate script `visualize_themes.py` provides advanced word cloud generation capabilities.
+
+### Basic Visualization Usage
+
+```bash
+# Generate default combined word cloud
+python visualize_themes.py
+
+# Generate themes-only word cloud
+python visualize_themes.py --style themes
+
+# Multi-panel visualization (4 word clouds in one image)
+python visualize_themes.py --style multi
+```
+
+### Visualization Styles
+
+| Style | Description |
+|-------|-------------|
+| `themes` | High-level episode themes |
+| `topics` | Specific topics discussed |
+| `frameworks` | Frameworks and methodologies mentioned |
+| `expertise` | Guest expertise areas |
+| `insights` | Key words from insights |
+| `combined` | Weighted combination (default) |
+| `all` | Everything combined equally |
+| `multi` | Multi-panel with 4 word clouds |
+| `comparison` | Side-by-side themes vs topics |
+| `circular` | Circular word cloud shape |
+
+### Customization Options
+
+```bash
+# Change color scheme
+python visualize_themes.py --colormap plasma
+python visualize_themes.py --colormap tech  # custom palette
+
+# Change dimensions
+python visualize_themes.py --width 2400 --height 1200
+
+# Different output formats
+python visualize_themes.py --format svg
+python visualize_themes.py --format pdf
+
+# Custom output filename
+python visualize_themes.py --output my_wordcloud.png
+
+# Dark background
+python visualize_themes.py --background black --colormap viridis
+
+# Limit word count
+python visualize_themes.py --max-words 100
+```
+
+### Available Color Palettes
+
+```bash
+# List all available colormaps
+python visualize_themes.py --list-colormaps
+```
+
+**Matplotlib colormaps:** viridis, plasma, inferno, magma, cividis, Blues, Greens, Oranges, etc.
+
+**Custom palettes:**
+- `podcast` - Spotify-inspired green/black
+- `tech` - Vibrant tech colors
+- `warm` - Warm reds and oranges
+- `cool` - Cool blues and greens
+- `mono` - Monochromatic grays
+
+### Print Statistics
+
+```bash
+# Show theme statistics without generating image
+python visualize_themes.py --stats
+```
+
 ## Deactivating the Environment
 
 When finished, deactivate the virtual environment:
