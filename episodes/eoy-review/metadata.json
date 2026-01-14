@@ -1,0 +1,99 @@
+{
+  "episode_id": "eoy-review",
+  "guest": "EOY Review",
+  "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+  "youtube_url": "https://www.youtube.com/watch?v=xzebbzIntFc",
+  "duration": "2:14:15",
+  "duration_seconds": 8055.0,
+  "view_count": 64647,
+  "themes": [
+    "product management",
+    "growth strategies",
+    "positioning and marketing",
+    "behavioral science",
+    "leadership and career development",
+    "analytics and data-driven decisions",
+    "SEO and organic growth",
+    "team management",
+    "startup methodologies"
+  ],
+  "key_insights": [
+    "Positioning requires identifying competitive alternatives (including status quo) before defining differentiated value",
+    "The LNO framework helps prioritize tasks: Leverage tasks (10x return), Neutral tasks (1:1 return), Overhead tasks (<1x return)",
+    "Small teams often outperform large teams due to reduced coordination overhead and better information flow",
+    "Analytics efforts fail when measurements are treated as entertainment rather than actionable insights",
+    "The three Bs of behavioral change: Behavior (specific actions), Barriers (logistical and cognitive), Benefits (immediate rewards)",
+    "Product managers need four key competencies: user knowledge, data expertise, business understanding, competitive landscape awareness",
+    "Imposter syndrome is universal - even successful leaders experience it for years",
+    "SEO requires existing authority (1000+ daily visits, 1000+ referring domains) to be effective"
+  ],
+  "guest_background": {
+    "current_role": "Various - Year-end review episode featuring multiple guests",
+    "expertise_areas": [
+      "product management",
+      "growth",
+      "positioning",
+      "behavioral science",
+      "SEO",
+      "leadership coaching"
+    ],
+    "notable_companies": [
+      "Facebook",
+      "Google",
+      "Stripe",
+      "Twitter",
+      "YouTube",
+      "Gojek",
+      "Amplitude",
+      "Miro",
+      "OpenAI",
+      "Coinbase",
+      "Notion"
+    ]
+  },
+  "topics_discussed": [
+    "Product positioning methodology",
+    "Analytics instrumentation best practices",
+    "Career growth and imposter syndrome",
+    "Eigenquestions interview technique",
+    "PSHE career development framework",
+    "Behavioral science in product design",
+    "Three Bs framework for behavior change",
+    "B2B growth and retention strategies",
+    "Freemium model optimization",
+    "SEO strategy and implementation",
+    "LNO task prioritization framework",
+    "Product management core competencies",
+    "Team size optimization",
+    "Difficult conversation management",
+    "Year-over-year podcast performance analysis"
+  ],
+  "memorable_quotes": [
+    "In order to change behavior, you have to pick a behavior that you want to change. Companies are really good at outcomes, but just not as sharp at picking the behavior.",
+    "Being in an uncomfortable situation, being in a position where you feel like, hey, do I really know how to do this, I'm not prepared for it, kind of coincides with the fastest and most intense periods of growth in one's career.",
+    "All your tasks are not created equal. There are actually three type of tasks that you end up doing in such a role."
+  ],
+  "frameworks_mentioned": [
+    "Five-step positioning process",
+    "LNO Framework (Leverage, Neutral, Overhead tasks)",
+    "PSHE Framework (Problem, Solution, How, Execution)",
+    "Three Bs of behavioral change (Behavior, Barriers, Benefits)",
+    "Eigenquestions technique",
+    "Four core PM competencies framework"
+  ],
+  "recommended_for": [
+    "product managers",
+    "startup founders",
+    "growth professionals",
+    "marketing managers",
+    "engineering leaders",
+    "early-career tech professionals",
+    "CEO coaches",
+    "business strategists"
+  ],
+  "sentiment": "reflective",
+  "difficulty_level": "intermediate",
+  "summary": "This year-end review episode counts down the top 10 most popular episodes from Lenny's Podcast, featuring clips from leading experts sharing frameworks and insights on product management, growth, positioning, and leadership. The compilation provides a comprehensive overview of essential concepts for product professionals and startup leaders.",
+  "analyzed_at": "2026-01-14T15:53:04.309891+00:00",
+  "analyzer_version": "1.0.0"
+}

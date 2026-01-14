@@ -1,0 +1,83 @@
+{
+  "episode_id": "howie-liu",
+  "guest": "Howie Liu",
+  "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+  "youtube_url": "https://www.youtube.com/watch?v=GT0jtVjRy2E",
+  "duration": "1:40:42",
+  "duration_seconds": 6042.0,
+  "view_count": 28715,
+  "themes": [
+    "AI transformation",
+    "organizational restructuring",
+    "founder leadership evolution",
+    "product development strategy",
+    "startup growth challenges",
+    "team skill development",
+    "product market fit",
+    "company culture change"
+  ],
+  "key_insights": [
+    "CEOs should become individual contributors again in the AI era to understand capabilities and make better product decisions",
+    "Restructure teams into fast thinking (weekly AI shipping) and slow thinking (deliberate infrastructure) groups",
+    "Everyone on product teams needs to develop hybrid skills across PM, engineering, and design",
+    "Use AI tools extensively yourself before expecting teams to adopt them effectively",
+    "Start with experimentation and vibes before creating formal evals for AI products",
+    "Break down role silos and encourage full stack thinking across all functions",
+    "Constantly ask if you were starting today, what would you build differently",
+    "Create urgency around AI adoption by matching the pace of AI native companies"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of Airtable",
+    "expertise_areas": [
+      "product design",
+      "AI integration",
+      "organizational transformation",
+      "no code platforms"
+    ],
+    "notable_companies": [
+      "Airtable"
+    ]
+  },
+  "topics_discussed": [
+    "Viral criticism of Airtable and responding to misinformation",
+    "The rise of IC CEOs who code and build products directly",
+    "Restructuring organizations for AI with fast and slow thinking teams",
+    "Personal AI usage patterns and inference costs",
+    "Changing expectations for product managers, engineers, and designers",
+    "The evolution from PLG to enterprise and back to PLG",
+    "Comparing AI app building platforms and competitive landscape",
+    "Building hybrid skills across product, engineering, and design roles",
+    "Using AI for business research and strategic insights",
+    "The importance of playing with AI products for learning",
+    "Prototyping over documentation in AI product development",
+    "Breaking down role silos across all company functions",
+    "Founder mode versus traditional scaling approaches",
+    "Learning from mistakes in organizational growth",
+    "The democratization of software creation through AI"
+  ],
+  "memorable_quotes": [
+    "If you were literally founding a new company from scratch with the same mission, how would you execute on that mission using a fully AI native approach?",
+    "I take pride in being the number one most expensive in inference cost user of Airtable AI",
+    "Everyone can learn how to be a versatile kind of unicorn product engineer designer hybrid in the AI native era. The only thing stopping you is just going out and doing it."
+  ],
+  "frameworks_mentioned": [
+    "fast thinking and slow thinking teams",
+    "jobs to be done",
+    "product market fit",
+    "founder mode",
+    "growth mindset",
+    "double diamond design process"
+  ],
+  "recommended_for": [
+    "startup founders transitioning to AI",
+    "product managers adapting to AI era",
+    "engineering leaders building AI products",
+    "CEOs considering organizational restructuring",
+    "product teams developing hybrid skills"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Howie Liu shares how Airtable restructured its entire organization for the AI era, emphasizing the need for CEOs to become hands-on builders again and for all team members to develop hybrid skills across product, engineering, and design. He provides tactical advice on creating fast-moving AI teams while maintaining deliberate infrastructure work.",
+  "analyzed_at": "2026-01-14T16:33:58.938985+00:00",
+  "analyzer_version": "1.0.0"
+}

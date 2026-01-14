@@ -1,0 +1,89 @@
+{
+  "episode_id": "fareed-mosavat",
+  "guest": "Fareed Mosavat",
+  "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+  "youtube_url": "https://www.youtube.com/watch?v=oo0jSep7pzc",
+  "duration": "1:05:10",
+  "duration_seconds": 3910.0,
+  "view_count": 11063,
+  "themes": [
+    "Product management career development",
+    "Leadership transition challenges",
+    "Trust building and sponsorship",
+    "Alternative career paths in tech",
+    "Product management learning loops",
+    "Portfolio approach to product work",
+    "Scaling from IC to manager",
+    "Professional growth acceleration"
+  ],
+  "key_insights": [
+    "Product management skills can only be developed through real work with real customers and data - exercises and homework aren't sufficient",
+    "Career acceleration follows a loop: execute → generalize learnings → communicate effectively → scale opportunities",
+    "The transition from IC to manager often fails due to a 'death spiral' where managers keep the best work for themselves",
+    "Successful PMs understand their work 'two stack levels up and down' - knowing their boss's boss's priorities and technical implementation details",
+    "Sponsorship (someone giving you bigger opportunities) is more impactful than mentorship for career growth",
+    "Product leaders must own business outcomes and marshal resources, not just optimize with what they're given",
+    "There are four types of product work: feature work, growth work, product-market fit expansion, and scaling work",
+    "Senior operators are increasingly choosing portfolio careers over traditional full-time roles"
+  ],
+  "guest_background": {
+    "current_role": "Chief Development Officer at Reforge",
+    "expertise_areas": [
+      "product management",
+      "growth strategy",
+      "product leadership",
+      "team scaling"
+    ],
+    "notable_companies": [
+      "Reforge",
+      "Slack",
+      "Instacart",
+      "Pixar",
+      "Zynga",
+      "Runkeeper"
+    ]
+  },
+  "topics_discussed": [
+    "Why product management is inherently difficult to learn",
+    "The learning loop for product managers",
+    "Building trust and finding sponsors in organizations",
+    "The Product Leader Canyon - transitioning from IC to manager",
+    "Manager death spiral and how to avoid it",
+    "Four types of product work framework",
+    "Understanding organizational context and priorities",
+    "Career inflection points and growth moments",
+    "Alternative career paths: advisors and fractional executives",
+    "Portfolio approach to professional work",
+    "Downsides of non-traditional career paths",
+    "Setting up for advisory/consultant roles",
+    "Pixar experience and creative-technical problem solving",
+    "Reforge's mission and scale",
+    "Building specific knowledge and expertise"
+  ],
+  "memorable_quotes": [
+    "You can't do homework. You can't do exercises. You can't do fake stuff. You have to work on real products at real companies with real customers, with real data to get better at product management.",
+    "At the core is you have to actually execute and deliver great products, and you have to do it over, and over, and over again.",
+    "What's the least amount of work I could do to make this thing as good as possible? versus How do I do as much work as possible to make sure it's great?"
+  ],
+  "frameworks_mentioned": [
+    "Four types of product work (feature, growth, product-market fit expansion, scaling)",
+    "Learning acceleration loop (execute → generalize → communicate → scale)",
+    "Two stack levels up/down curiosity framework",
+    "Manager death spiral concept",
+    "Product Leader Canyon framework",
+    "Sponsorship vs mentorship distinction"
+  ],
+  "recommended_for": [
+    "Product managers looking to advance their careers",
+    "Individual contributors transitioning to management",
+    "Product leaders managing teams",
+    "Professionals considering alternative career paths",
+    "Startup founders building product teams",
+    "Anyone interested in growth and product strategy"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Fareed Mosavat shares tactical frameworks for accelerating product management careers, focusing on the execution-learning loop and the critical transition from individual contributor to leader. He provides specific strategies for building trust, finding sponsors, and avoiding common pitfalls while exploring emerging alternative career paths in tech.",
+  "analyzed_at": "2026-01-14T15:55:49.960187+00:00",
+  "analyzer_version": "1.0.0"
+}

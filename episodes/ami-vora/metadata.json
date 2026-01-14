@@ -1,0 +1,89 @@
+{
+  "episode_id": "ami-vora",
+  "guest": "Ami Vora",
+  "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+  "youtube_url": "https://www.youtube.com/watch?v=6UHAop9fhNU",
+  "duration": "1:23:59",
+  "duration_seconds": 5039.0,
+  "view_count": 40831,
+  "themes": [
+    "authentic leadership",
+    "curiosity-driven disagreement",
+    "product management execution",
+    "using metaphors for communication",
+    "women in tech leadership",
+    "strategy vs execution balance",
+    "cross-functional team alignment",
+    "career growth through adaptability",
+    "building product organizations",
+    "customer-centric product development"
+  ],
+  "key_insights": [
+    "Respond to disagreements with curiosity rather than defensiveness - say 'fascinating, tell me more' to unlock learning opportunities",
+    "Execution beats strategy every time - customers care about the product in their hands, not your five-year plan",
+    "Use metaphors and analogies to create shared narratives that align teams without micromanaging decisions",
+    "Avoid 'toddler soccer' by giving teams different goals that ladder up to the main company metric",
+    "Product reviews should establish principles for future decisions, not just make individual choices",
+    "As you get more senior, you only see unsolvable problems - leadership is choosing the least bad option",
+    "Follow emotional instincts about where you feel 'at home' rather than spreadsheet analysis for career decisions",
+    "Bring recommendations, not just data, to leadership meetings - executives have 'dinosaur brains' and can only hold three facts"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at Faire",
+    "expertise_areas": [
+      "product management",
+      "marketplace platforms",
+      "team leadership",
+      "B2B products"
+    ],
+    "notable_companies": [
+      "Facebook",
+      "Instagram",
+      "WhatsApp",
+      "Faire"
+    ]
+  },
+  "topics_discussed": [
+    "Handling disagreements with curiosity and authenticity",
+    "The dinosaur brain concept for executive communication",
+    "Hill climb metaphor for strategic transitions",
+    "Execution vs strategy prioritization",
+    "Using metaphors to align product teams",
+    "Face-to-face communication as WhatsApp's product philosophy",
+    "Setting up effective product reviews",
+    "Goal setting to avoid team conflicts",
+    "Building emulators of successful leaders",
+    "Challenges of being a woman in tech leadership",
+    "Transitioning from Meta to Faire",
+    "Customer-first product development approach",
+    "Creating product narratives and stories",
+    "Managing cross-functional team tensions",
+    "Career progression through authenticity"
+  ],
+  "memorable_quotes": [
+    "I really enjoy being right and then it turns out in the working world, that did not serve me so great. The hard part is sublimating your ego a little bit and saying it's more important to get to the outcome than to be right.",
+    "If we all agree that the feeling of something should be, I'm sitting in Dolores Park with my friends on a sunny Saturday, then people will just naturally build something that feels more consistent.",
+    "You can either have more energy or less ambition."
+  ],
+  "frameworks_mentioned": [
+    "Hill climb metaphor (local vs global optimum)",
+    "Dinosaur brain concept for executive communication",
+    "Manager owns context, I own recommendation",
+    "Face-to-face communication product philosophy",
+    "Emulator building for leadership styles",
+    "Toddler soccer team alignment problem"
+  ],
+  "recommended_for": [
+    "Product managers at all levels",
+    "Engineering managers transitioning to product leadership",
+    "Women in tech seeking leadership guidance",
+    "CPOs and VPs of Product",
+    "Startup founders building product teams",
+    "Anyone interested in authentic leadership approaches"
+  ],
+  "sentiment": "inspiring and authentic",
+  "difficulty_level": "intermediate",
+  "summary": "Ami Vora shares her authentic journey from Facebook temp to CPO at Faire, emphasizing curiosity-driven leadership, execution over strategy, and using metaphors to align teams. The conversation focuses on practical frameworks for product leadership while addressing the messy realities of senior leadership roles.",
+  "analyzed_at": "2026-01-14T15:26:58.038310+00:00",
+  "analyzer_version": "1.0.0"
+}

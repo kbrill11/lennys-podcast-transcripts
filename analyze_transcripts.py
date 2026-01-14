@@ -25,7 +25,7 @@ import asyncio
 import argparse
 import re
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from collections import Counter, defaultdict
 from typing import Optional
 from dataclasses import dataclass, asdict
@@ -60,12 +60,115 @@ RELATIONSHIPS_OUTPUT = "relationships_network.json"
 CLAUDE_MODEL = "claude-sonnet-4-20250514"
 MAX_TOKENS = 4096
 
+
+# ============================================================================
+# Normalization Utilities
+# ============================================================================
+
+# Alias mappings for known equivalent terms
+THEME_ALIASES = {
+    # Hyphenated variants → space-separated canonical form
+    "product-market fit": "product market fit",
+    "jobs-to-be-done framework": "jobs to be done framework",
+    "jobs-to-be-done": "jobs to be done",
+    "product-led growth": "product led growth",
+    "go-to-market strategy": "go to market strategy",
+    "ai-powered software development": "ai powered software development",
+
+    # Word order variants
+    "hiring and team building": "team building and hiring",
+
+    # === BUCKET: AI Product Development ===
+    "ai powered software development": "ai product development",
+    "building ai agents": "ai product development",
+    "product management for ai": "ai product development",
+    "ai evaluation strategies": "ai product development",
+    "ai product lifecycle management": "ai product development",
+    "enterprise ai adoption": "ai product development",
+    "leadership in ai transformation": "ai product development",
+    "ai integration in product development": "ai product development",
+    "non deterministic systems": "ai product development",
+    "agency vs control trade offs": "ai product development",
+    "continuous calibration methodology": "ai product development",
+
+    # === BUCKET: Product Management ===
+    "product management career development": "product management",
+    "product management evolution": "product management",
+    "product management leadership": "product management",
+    "product management strategy": "product management",
+    "product management philosophy": "product management",
+    "product management fundamentals": "product management",
+    "product management in media/journalism": "product management",
+    "crisis product management": "product management",
+
+    # === BUCKET: Growth Strategies ===
+    "startup growth strategies": "growth strategies",
+    "growth team building": "growth strategies",
+    "growth strategy execution": "growth strategies",
+    "startup growth tactics": "growth strategies",
+    "growth marketing strategy": "growth strategies",
+    "growth cmo role evolution": "growth strategies",
+    "growth strategy and optimization": "growth strategies",
+
+    # === BUCKET: Experimentation ===
+    "experimentation and testing": "experimentation",
+    "experimentation frameworks": "experimentation",
+    "experimentation methodology": "experimentation",
+    "experimentation and a/b testing": "experimentation",
+
+    # === BUCKET: Career Development ===
+    "career advancement": "career development",
+    "career strategy and decision making": "career development",
+    "early career development": "career development",
+    "career decision making": "career development",
+
+    # === BUCKET: Company Culture ===
+    "company culture and decision making": "company culture",
+    "company culture and leadership": "company culture",
+
+    # === BUCKET: Work-Life Balance ===
+    "work life balance and priorities": "work life balance",
+    "burnout vs depression": "work life balance",
+    "mental health in tech": "work life balance",
+}
+
+SENTIMENT_CANONICAL = {
+    "inspiring and authentic": "inspiring",
+    "inspiring/tactical": "tactical",
+    "deeply reflective and vulnerable": "reflective",
+    "reflective and inspiring": "reflective",
+}
+
+
+def normalize_theme(theme: str) -> str:
+    """Normalize theme to canonical form."""
+    normalized = theme.lower().strip()
+    # Replace hyphens between words with spaces
+    normalized = re.sub(r'(?<=[a-z])-(?=[a-z])', ' ', normalized)
+    # Apply explicit alias mapping
+    return THEME_ALIASES.get(normalized, normalized)
+
+
+def normalize_sentiment(sentiment: str) -> str:
+    """Normalize sentiment to one of four canonical values."""
+    s = sentiment.lower().strip()
+    return SENTIMENT_CANONICAL.get(s, s)
+
+
 # Analysis prompt template
 ANALYSIS_PROMPT = """Analyze this podcast transcript and extract structured metadata.
 
 <transcript>
 {transcript}
 </transcript>
+
+Formatting rules for themes and frameworks:
+- Use spaces instead of hyphens (e.g., "product market fit" not "product-market fit")
+- Use consistent naming for well-known concepts:
+  - "jobs to be done" (not "jobs-to-be-done" or "JTBD")
+  - "product market fit" (not "PMF")
+  - "go to market" (not "GTM")
+- sentiment must be exactly one of: inspiring, tactical, reflective, conversational
 
 Provide a JSON response with the following structure:
 {{
@@ -295,7 +398,7 @@ def create_episode_metadata(
         sentiment=analysis.get('sentiment', 'unknown'),
         difficulty_level=analysis.get('difficulty_level', 'unknown'),
         summary=analysis.get('summary', ''),
-        analyzed_at=datetime.utcnow().isoformat()
+        analyzed_at=datetime.now(timezone.utc).isoformat()
     )
 
 
@@ -331,25 +434,25 @@ def aggregate_themes(all_metadata: list[EpisodeMetadata]) -> AggregateThemes:
     all_insights = []
 
     for metadata in all_metadata:
-        # Count themes
+        # Count themes (normalized)
         for theme in metadata.themes:
-            theme_counter[theme.lower().strip()] += 1
+            theme_counter[normalize_theme(theme)] += 1
 
-        # Count topics
+        # Count topics (normalized)
         for topic in metadata.topics_discussed:
-            topic_counter[topic.lower().strip()] += 1
+            topic_counter[normalize_theme(topic)] += 1
 
-        # Count frameworks
+        # Count frameworks (normalized)
         for framework in metadata.frameworks_mentioned:
-            framework_counter[framework.lower().strip()] += 1
+            framework_counter[normalize_theme(framework)] += 1
 
-        # Count expertise areas
+        # Count expertise areas (normalized)
         if metadata.guest_background:
             for area in metadata.guest_background.get('expertise_areas', []):
-                expertise_counter[area.lower().strip()] += 1
+                expertise_counter[normalize_theme(area)] += 1
 
-        # Count sentiments and difficulties
-        sentiment_counter[metadata.sentiment] += 1
+        # Count sentiments (normalized) and difficulties
+        sentiment_counter[normalize_sentiment(metadata.sentiment)] += 1
         difficulty_counter[metadata.difficulty_level] += 1
 
         # Collect insights
@@ -367,7 +470,7 @@ def aggregate_themes(all_metadata: list[EpisodeMetadata]) -> AggregateThemes:
         sentiment_distribution=dict(sentiment_counter),
         difficulty_distribution=dict(difficulty_counter),
         common_insights=common_insights,
-        generated_at=datetime.utcnow().isoformat()
+        generated_at=datetime.now(timezone.utc).isoformat()
     )
 
 
@@ -497,7 +600,7 @@ def generate_relationships_data(all_metadata: list[EpisodeMetadata]) -> dict:
         'metadata': {
             'total_episodes': len(all_metadata),
             'total_themes': len(top_themes),
-            'generated_at': datetime.utcnow().isoformat()
+            'generated_at': datetime.now(timezone.utc).isoformat()
         }
     }
 

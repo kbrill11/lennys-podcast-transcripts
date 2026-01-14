@@ -1,0 +1,86 @@
+{
+  "episode_id": "annie-pearl",
+  "guest": "Annie Pearl",
+  "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+  "youtube_url": "https://www.youtube.com/watch?v=-tUIGpgmsZw",
+  "duration": "1:01:49",
+  "duration_seconds": 3709.0,
+  "view_count": 7743,
+  "themes": [
+    "product management career transition",
+    "product-led growth",
+    "product strategy and prioritization",
+    "scaling product teams",
+    "growth strategies",
+    "product development processes",
+    "product-sales alignment",
+    "company culture and focus"
+  ],
+  "key_insights": [
+    "70% of Calendly's signups come through viral loops when users send scheduling links to others",
+    "Internal transfers are often the most successful path into product management - seek opportunities to shadow and partner with PMs",
+    "Clear product strategy that defines 'where to play' and 'where not to play' is crucial for prioritization and team effectiveness",
+    "Moving from PLG to sales-led growth requires hiring different sales profiles - inbound-focused 'growers' rather than outbound 'hunters' initially",
+    "Product development should commit to phases you can control (discovery, solutioning) rather than promising delivery dates 6 months out",
+    "When sending Calendly links, open with asking for their availability first, then offer your link as an alternative to reduce awkwardness",
+    "Focus wisely by saying no to features that don't serve your target personas - even popular requests like Venmo integration",
+    "Having product and design report to the same leader helps ensure integrated end-to-end user experience thinking"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at Calendly",
+    "expertise_areas": [
+      "product strategy",
+      "product-led growth",
+      "enterprise product management",
+      "team scaling"
+    ],
+    "notable_companies": [
+      "Calendly",
+      "Glassdoor",
+      "Box"
+    ]
+  },
+  "topics_discussed": [
+    "Transitioning into product management from non-technical backgrounds",
+    "APM programs and internal career paths",
+    "Calendly's viral growth mechanics and first 1000 users story",
+    "Product team structure and organization at scale",
+    "OKR implementation and evolution",
+    "Product strategy frameworks from Playing to Win",
+    "Moving from PLG to sales-led growth",
+    "Product development lifecycle phases",
+    "Prioritization frameworks and saying no to features",
+    "Product-sales team collaboration",
+    "Cultural values and focus at Calendly",
+    "Competitive analysis processes",
+    "Planning and roadmap practices",
+    "Skip community for CPOs",
+    "Product management tools and tech stack"
+  ],
+  "memorable_quotes": [
+    "Strategy is really just an integrated set of choices that outline how you're going to win in whatever marketplace you choose.",
+    "The ability to say no is going to allow you to make sure you're building something that's going to be amazing for the people that matter most and not something that's going to be average or okay for a lot of different people.",
+    "Seeing the sales team and the go-to-market team as this really great asset that can help you as a product manager get closer to the customer."
+  ],
+  "frameworks_mentioned": [
+    "Playing to Win strategy framework",
+    "Product development lifecycle (Discovery, Solutioning, Build, Launch/Measure/Iterate)",
+    "OKR methodology",
+    "Horizon planning (3-horizon investment allocation)",
+    "PQL (Product Qualified Leads)",
+    "Competitive war gaming"
+  ],
+  "recommended_for": [
+    "aspiring product managers",
+    "current product managers looking to advance",
+    "product leaders at scaling companies",
+    "professionals interested in PLG strategies",
+    "founders transitioning from PLG to sales-led growth",
+    "anyone interested in Calendly's growth story"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Annie Pearl, CPO of Calendly, shares practical advice on breaking into product management, reveals Calendly's viral growth strategies and unique origin story, and provides frameworks for product strategy, team scaling, and successfully transitioning from product-led to sales-led growth.",
+  "analyzed_at": "2026-01-14T15:29:05.884311+00:00",
+  "analyzer_version": "1.0.0"
+}

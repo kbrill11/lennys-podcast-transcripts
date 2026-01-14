@@ -1,0 +1,88 @@
+{
+  "episode_id": "ayo-omojola",
+  "guest": "Ayo Omojola",
+  "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+  "youtube_url": "https://www.youtube.com/watch?v=EW6K8ZOWoIs",
+  "duration": "52:09",
+  "duration_seconds": 3129.0,
+  "view_count": 8980,
+  "themes": [
+    "product differentiation",
+    "team building and hiring",
+    "first principles thinking",
+    "consumer product development",
+    "regulated industry navigation",
+    "startup within enterprise",
+    "leadership philosophies",
+    "network building",
+    "fintech and healthtech"
+  ],
+  "key_insights": [
+    "Successful products must be both different AND better than existing solutions in ways that matter to end users",
+    "Small, senior, trusted teams outperform large teams when building new products within established companies",
+    "Hiring founders brings higher output but also higher attrition - they see through organizational BS quickly",
+    "Going deep on regulatory and technical details is essential in complex industries, can't rely on expert opinions alone",
+    "Building strong networks by helping others get what they want pays dividends over time",
+    "In healthcare tech, network connections often matter more than product merit for business success",
+    "When building within a company, maintain existential urgency that real startups have naturally",
+    "Instant functionality was Cash App's key differentiator - money available immediately vs. traditional delays"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at Carbon Health",
+    "expertise_areas": [
+      "consumer fintech",
+      "healthcare technology",
+      "regulated industries",
+      "product differentiation"
+    ],
+    "notable_companies": [
+      "Square/Cash App",
+      "Carbon Health",
+      "Pinwheel"
+    ]
+  },
+  "topics_discussed": [
+    "Cash App's growth from 50K to 50M+ monthly actives",
+    "Product differentiation strategies in competitive markets",
+    "Building Cash Card and overcoming manufacturing challenges",
+    "Hiring and working with founders as team members",
+    "Navigating regulatory complexity in fintech and healthcare",
+    "Small team dynamics within large organizations",
+    "Network building and making strategic introductions",
+    "First principles thinking and going deep on problems",
+    "Carbon Health's vertically integrated healthcare model",
+    "SEO and growth tactics for early-stage products",
+    "Leadership philosophies around trust and verification",
+    "Healthcare industry challenges and opportunities",
+    "Angel investing and founder support",
+    "Operational details in regulated environments"
+  ],
+  "memorable_quotes": [
+    "Being different is not enough, because it's very easy to build a thing that's different from what exists today, because you just have to look at what exists today and build something else. Being better is not enough, because it's also easy to say, 'Hey, I'm going to make this thing better, and just charge you more money for it.'",
+    "When you're hiring you pick the people, but they pick when. So you're actually like, there's these people... There are many, many people on the team who, the time between when I first met them and the time when they joined the team was like months.",
+    "Everybody wants something. And most of the time it's not something you have to give, or you can connect them to. But, if it is something that you have to give, or you can connect them to, it's criminal not to, actually."
+  ],
+  "frameworks_mentioned": [
+    "Different + Better + Matters framework for product differentiation",
+    "Small senior team approach for innovation within large companies",
+    "Trust but verify leadership methodology",
+    "Network-first hiring and relationship building",
+    "First principles regulatory deep-dive approach",
+    "Founder-dense team composition strategy"
+  ],
+  "recommended_for": [
+    "product managers",
+    "startup founders",
+    "fintech professionals",
+    "healthcare technology leaders",
+    "consumer app developers",
+    "innovation leaders in large companies",
+    "angel investors",
+    "professionals in regulated industries"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Ayo Omojola shares hard-won lessons from scaling Cash App from thousands to millions of users, covering essential frameworks for product differentiation, team building with founders, and navigating complex regulated industries. The conversation provides tactical insights on building successful consumer products and leading high-performing teams through deep expertise and strong networks.",
+  "analyzed_at": "2026-01-14T15:32:12.847120+00:00",
+  "analyzer_version": "1.0.0"
+}

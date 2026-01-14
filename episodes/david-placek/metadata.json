@@ -1,0 +1,81 @@
+{
+  "episode_id": "david-placek",
+  "guest": "David Placek",
+  "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+  "youtube_url": "https://www.youtube.com/watch?v=F0_IKKY3HCk",
+  "duration": "1:30:00",
+  "duration_seconds": 5400.0,
+  "view_count": 40035,
+  "themes": [
+    "brand naming strategy",
+    "creative process and methodology",
+    "entrepreneurship and startups",
+    "linguistics and cognitive science",
+    "marketing psychology",
+    "trademark and legal considerations",
+    "company culture and decision-making",
+    "competitive differentiation"
+  ],
+  "key_insights": [
+    "Great names create discomfort initially - if your team is comfortable with a name, you probably don't have the right one yet",
+    "Look for polarization in team reactions as a sign of name strength, not consensus",
+    "Focus on behavior and experience rather than descriptive qualities when naming",
+    "Use the 'competitor test' - ask people how they'd react if a competitor launched with your proposed name",
+    "Generate 1,000+ name ideas before evaluating - suspend judgment and speculate on potential",
+    "The .com domain is less important now - it's become like an area code",
+    "Asymmetric and cumulative advantage come from distinctive names, not descriptive ones",
+    "Each letter of the alphabet has specific psychological associations and vibrancy levels"
+  ],
+  "guest_background": {
+    "current_role": "Founder of Lexicon Branding",
+    "expertise_areas": [
+      "brand naming",
+      "linguistics",
+      "cognitive science",
+      "marketing strategy"
+    ],
+    "notable_companies": [
+      "Lexicon Branding",
+      "Various major corporations as clients including Microsoft, Intel, P&G"
+    ]
+  },
+  "topics_discussed": [
+    "The three-step naming process: identify, invent, implement",
+    "Sound symbolism and letter psychology",
+    "Creative team structure and disguised briefings",
+    "Trademark clearance challenges",
+    "Client resistance to bold naming choices",
+    "Stories behind iconic names (Sonos, Azure, Pentium, Windsurf, Vercel)",
+    "AI company naming trends and challenges",
+    "Consumer vs. developer perspectives on AI",
+    "The diamond exercise for self-naming",
+    "Compound names and processing fluency",
+    "International linguistic considerations",
+    "Name implementation and internal selling"
+  ],
+  "memorable_quotes": [
+    "There is no power in comfort, not in the marketplace",
+    "If your team is comfortable with the name, chances are you don't have the name yet",
+    "You don't want to make a statement here. You want to start a story"
+  ],
+  "frameworks_mentioned": [
+    "The Diamond Exercise (Win framework)",
+    "Three-step naming process (Identify, Invent, Implement)",
+    "Sound symbolism methodology",
+    "Processing fluency principles",
+    "Competitor testing approach"
+  ],
+  "recommended_for": [
+    "startup founders",
+    "product managers",
+    "marketing professionals",
+    "brand strategists",
+    "entrepreneurs launching new products",
+    "anyone involved in naming decisions"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "David Placek, founder of Lexicon Branding, shares the science behind creating powerful brand names, revealing why great names initially feel uncomfortable and providing practical frameworks for founders and product teams to develop distinctive names that create competitive advantage.",
+  "analyzed_at": "2026-01-14T15:46:16.548440+00:00",
+  "analyzer_version": "1.0.0"
+}

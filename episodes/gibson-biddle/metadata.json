@@ -1,0 +1,89 @@
+{
+  "episode_id": "gibson-biddle",
+  "guest": "Gibson Biddle",
+  "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+  "youtube_url": "https://www.youtube.com/watch?v=X-83gvgVaWc",
+  "duration": "1:41:59",
+  "duration_seconds": 6119.0,
+  "view_count": 46540,
+  "themes": [
+    "Product strategy frameworks",
+    "Netflix product decisions and case studies",
+    "Product prioritization methodologies",
+    "Career advancement in product management",
+    "Customer delight vs business metrics",
+    "A/B testing and experimentation",
+    "Leadership and team management",
+    "Building personal advisory networks"
+  ],
+  "key_insights": [
+    "Product strategy should delight customers in hard-to-copy, margin-enhancing ways - balancing customer value with business sustainability",
+    "The JAM framework (Joy, Attachment, Monetization) helps align leadership on prioritization across growth, engagement, and revenue",
+    "Avoid 'two-percenters' - features that only 2% of customers use create complexity without meaningful impact",
+    "Test the 'perfect experience' first to understand true customer value before optimizing costs",
+    "Build a personal board of directors by helping others first, then leveraging relationships for career guidance",
+    "Career advancement requires treating your path like product development - hypothesis, experiment, iterate",
+    "High-stakes vs low-stakes decision framework: consider magnitude and reversibility before over-analyzing",
+    "Start with a SWAG (Stupid Wild-Ass Guess) rather than spending months perfecting strategy in isolation"
+  ],
+  "guest_background": {
+    "current_role": "Independent product strategy teacher and consultant",
+    "expertise_areas": [
+      "Product strategy",
+      "Growth frameworks",
+      "Team leadership",
+      "A/B testing",
+      "Consumer products"
+    ],
+    "notable_companies": [
+      "Netflix",
+      "Chegg",
+      "Electronic Arts",
+      "Disney"
+    ]
+  },
+  "topics_discussed": [
+    "DHM framework: Delight, Hard-to-copy, Margin-enhancing",
+    "JAM prioritization model: Joy, Attachment, Monetization",
+    "Netflix case studies: Perfect New Release test, Netflix Party decision, auto-cancellation strategy",
+    "Account sharing monetization strategies",
+    "Product manager career progression to CPO level",
+    "Daily habits and routines for product managers",
+    "Building personal advisory networks and mentorship",
+    "A/B testing methodologies and interpretation",
+    "Balancing customer delight with business metrics",
+    "Two-percenter rule for feature prioritization",
+    "High-stakes vs low-stakes decision framework",
+    "SWAG approach to strategy development",
+    "Advertising-supported pricing models",
+    "Social features and network effects in streaming",
+    "Product strategy communication and alignment"
+  ],
+  "memorable_quotes": [
+    "The job of an entrepreneur at the beginning is just to find out something that's 10X better. Delight is trying to work in that magnitude.",
+    "Don't listen to your parents, because they're a generation ahead. They really don't know what the future looks like.",
+    "At some point, understand that you are responsible for your career, not your workplace."
+  ],
+  "frameworks_mentioned": [
+    "DHM Framework (Delight, Hard-to-copy, Margin-enhancing)",
+    "JAM Model (Joy, Attachment, Monetization)",
+    "Personal Board of Directors concept",
+    "Two-percenter rule",
+    "SWAG methodology (Stupid Wild-Ass Guess)",
+    "High-stakes vs low-stakes decision matrix",
+    "Word-of-mouth multiplier calculations"
+  ],
+  "recommended_for": [
+    "Product managers at all levels",
+    "Aspiring CPOs and product leaders",
+    "Startup founders building product strategy",
+    "Growth-focused product teams",
+    "Career-focused product professionals",
+    "Anyone interested in Netflix's product development"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Gibson Biddle shares battle-tested frameworks from his time at Netflix and other companies, focusing on his DHM product strategy model and JAM prioritization framework. The conversation blends tactical product management advice with career development insights, using real Netflix case studies to illustrate decision-making principles.",
+  "analyzed_at": "2026-01-14T15:59:16.229428+00:00",
+  "analyzer_version": "1.0.0"
+}

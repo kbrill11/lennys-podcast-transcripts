@@ -1,0 +1,90 @@
+{
+  "episode_id": "chandra-janakiraman",
+  "guest": "Chandra Janakiraman",
+  "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+  "youtube_url": "https://www.youtube.com/watch?v=WFLH8Af2f30",
+  "duration": "1:47:22",
+  "duration_seconds": 6442.0,
+  "view_count": 26538,
+  "themes": [
+    "product strategy development",
+    "strategic planning frameworks",
+    "cross-functional collaboration",
+    "problem identification and prioritization",
+    "organizational alignment",
+    "big picture vs tactical thinking",
+    "AI impact on strategy",
+    "execution and validation"
+  ],
+  "key_insights": [
+    "Strategy sits between mission/vision and roadmap, forcing choices to deploy scarce resources for maximum impact",
+    "Use a 5-stage process over 8-12 weeks: preparation, strategy sprint, design sprint, document writing, and rollout",
+    "Form a strategy working group with engineering, product design, and data to create collaborative ownership",
+    "Generate problems first, cluster them, flip to opportunities, then rank on 4 criteria: impact, certainty, clarity of levers, and differentiation",
+    "Conduct leadership interviews early to avoid the 'fruit story' - understanding preferences before building strategy",
+    "Strategy has no business value until tested through execution - be ready to pivot based on results",
+    "Run small-S (2-year, problem-focused) and big-S (5-10 year, aspirational) strategy work in parallel",
+    "AI can assist with competitive analysis and mock strategy generation, but human judgment still needed for focus and context"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer and Executive Vice President at VRChat",
+    "expertise_areas": [
+      "product strategy",
+      "product management",
+      "cross-functional leadership",
+      "growth strategy"
+    ],
+    "notable_companies": [
+      "VRChat",
+      "Meta",
+      "Headspace",
+      "Zynga",
+      "Amazon"
+    ]
+  },
+  "topics_discussed": [
+    "5-stage strategy development process",
+    "Strategy working group formation and management",
+    "Leadership interview techniques",
+    "Problem clustering and opportunity identification",
+    "Strategic pillar selection criteria",
+    "Winning aspiration development",
+    "Design sprints for strategy visualization",
+    "Strategy document structure and templates",
+    "Rollout and stakeholder alignment",
+    "Small-S vs Big-S strategy approaches",
+    "Zynga's strategic pillars case study",
+    "Meta Reality Labs strategy examples",
+    "AI's role in strategy formulation",
+    "Multi-agent AI systems for product optimization",
+    "Strategy validation through execution"
+  ],
+  "memorable_quotes": [
+    "Strategy sits between the mission and vision and the plan. It forces choice to deploy scarce resources to generate maximum impact.",
+    "Life's got to be about more than just solving problems. There needs to be an aspirational and cool component to strategy.",
+    "Any strategy is only as good as the results it produces. So test and iterate through execution and double down on what's working and pivot away from what's not."
+  ],
+  "frameworks_mentioned": [
+    "5-stage strategy development process",
+    "Strategic pillar ranking criteria (impact, certainty, clarity of levers, differentiation)",
+    "Problem clustering and opportunity framing",
+    "Newspaper headline approach for winning aspiration",
+    "Strategy working group methodology",
+    "Google Ventures design sprint",
+    "Playing to Win framework",
+    "Good Strategy Bad Strategy principles"
+  ],
+  "recommended_for": [
+    "product managers seeking structured strategy approaches",
+    "product leaders responsible for team strategy",
+    "startup founders developing product strategy",
+    "cross-functional team leads",
+    "strategy consultants in tech",
+    "CPOs and VPs of product"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Chandra Janakiraman shares a battle-tested, 5-stage process for developing product strategy that emphasizes collaborative problem identification, systematic prioritization, and organizational alignment. The conversation provides a concrete, step-by-step playbook that transforms strategy from mystical art to repeatable science.",
+  "analyzed_at": "2026-01-14T15:40:45.689234+00:00",
+  "analyzer_version": "1.0.0"
+}

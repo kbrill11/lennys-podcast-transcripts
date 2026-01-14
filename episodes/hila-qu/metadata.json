@@ -1,0 +1,89 @@
+{
+  "episode_id": "hila-qu",
+  "guest": "Hila Qu",
+  "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+  "youtube_url": "https://www.youtube.com/watch?v=7l1fIxk7SnA",
+  "duration": "1:33:23",
+  "duration_seconds": 5603.0,
+  "view_count": 14992,
+  "themes": [
+    "product led growth",
+    "data driven growth",
+    "activation optimization",
+    "conversion optimization",
+    "customer funnel analysis",
+    "growth team structure",
+    "product analytics",
+    "user onboarding",
+    "retention strategies",
+    "growth tooling"
+  ],
+  "key_insights": [
+    "Product led growth is fundamentally data led growth - without usage data and analytics foundation, you're giving away free product for nothing",
+    "The biggest difference between sales led and product led funnels is that usage becomes the leading indicator for success rather than marketing campaign interactions",
+    "Activation is usually the best starting point for most B2B software adding PLG because historically they weren't designed for quick time to value",
+    "GitLab's activation milestone was two users using two features in 14 days, discovered through correlation analysis of conversion and retention rates",
+    "Most companies fail at PLG because they think launching a free trial equals PLG, without considering the entire motion and required infrastructure",
+    "A full funnel audit going through the user journey as a potential customer reveals major low hanging fruits in most PLG implementations",
+    "Data instrumentation and establishing a data dictionary should come before investing in analytics tools",
+    "Initial PLG teams should start with a growth PM and data analyst as the core foundation before adding engineers and designers"
+  ],
+  "guest_background": {
+    "current_role": "Growth Advisor and Former Head of Growth at GitLab",
+    "expertise_areas": [
+      "product led growth",
+      "data analytics",
+      "growth strategy",
+      "activation optimization"
+    ],
+    "notable_companies": [
+      "GitLab",
+      "Reforge",
+      "Acorns"
+    ]
+  },
+  "topics_discussed": [
+    "Definition and importance of product led growth",
+    "Common PLG implementation pitfalls",
+    "Difference between sales led and product led funnels",
+    "Full funnel audit methodology",
+    "Activation optimization strategies",
+    "Aha moment identification and measurement",
+    "Conversion flow optimization",
+    "Product qualified leads and product qualified accounts",
+    "Data infrastructure requirements for PLG",
+    "Essential growth tooling stack",
+    "Building initial PLG teams",
+    "Growth team organizational structure",
+    "Retention and expansion strategies",
+    "Product led acquisition through viral features",
+    "Data instrumentation best practices"
+  ],
+  "memorable_quotes": [
+    "PLG I always say is actually fundamentally DLG, data led growth. If you don't have a foundation of data and understanding of how to analyze those data, you are giving a way of free product for nothing.",
+    "I'm a big fan of finding leverage. If you can always find the area that with relatively small investment can give you the biggest results, that can be such momentum.",
+    "Do is better than show is better than tell - you want to remove all the frictions and somehow give them a warm start with sample templates they can play with initially."
+  ],
+  "frameworks_mentioned": [
+    "PLG vs SLG funnel comparison",
+    "Full funnel audit methodology",
+    "Aha moment identification process",
+    "Four buckets of PLG optimization (acquisition, activation, conversion, retention)",
+    "Product qualified lead scoring",
+    "Data dictionary establishment",
+    "Growth team organizational structure",
+    "Correlation analysis for activation metrics"
+  ],
+  "recommended_for": [
+    "product managers transitioning to growth roles",
+    "founders considering adding PLG motion",
+    "growth team leads building PLG programs",
+    "data analysts supporting growth initiatives",
+    "B2B SaaS leaders evaluating growth strategies"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "A comprehensive guide to implementing product led growth, covering common pitfalls, data infrastructure requirements, and practical frameworks for building successful PLG motions. Hila Qu shares detailed strategies for activation optimization, team building, and the essential foundation of data driven growth.",
+  "analyzed_at": "2026-01-14T16:33:14.644239+00:00",
+  "analyzer_version": "1.0.0"
+}

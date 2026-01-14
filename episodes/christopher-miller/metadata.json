@@ -1,0 +1,86 @@
+{
+  "episode_id": "christopher-miller",
+  "guest": "Christopher Miller",
+  "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller",
+  "youtube_url": "https://www.youtube.com/watch?v=SzKKJwuRFZI",
+  "duration": "1:31:24",
+  "duration_seconds": 5484.0,
+  "view_count": 13807,
+  "themes": [
+    "product-led growth (PLG)",
+    "product management career development",
+    "HubSpot's growth strategy",
+    "customer obsession and data-driven decisions",
+    "AI and growth team integration",
+    "freemium business models",
+    "mentorship and professional development",
+    "hybrid sales and product-led motions"
+  ],
+  "key_insights": [
+    "Product-led growth doesn't mean fully self-service - most successful PLG companies use hybrid motions with humans as backstops",
+    "Taking radical accountability and ownership beyond your official role can accelerate career growth",
+    "70-80% of growth experiments typically fail, requiring resilience and willingness to think big",
+    "Customer obsession requires focusing on long-term outcomes over short-term business metrics",
+    "Relentless curiosity and coachability are more important than specific PLG experience when hiring",
+    "Diversifying growth channels is crucial - algorithm changes can disrupt entire funnels overnight",
+    "Finding sponsors and advocates who invest political capital in you matters more than just mentors",
+    "Define why you want to be product-led before determining how to become product-led"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product for Growth and AI at HubSpot",
+    "expertise_areas": [
+      "product-led growth",
+      "AI product strategy",
+      "growth experimentation",
+      "B2B SaaS"
+    ],
+    "notable_companies": [
+      "HubSpot",
+      "fitness technology company",
+      "B2B2C product company"
+    ]
+  },
+  "topics_discussed": [
+    "Career transition into product management",
+    "Building HubSpot's early growth team",
+    "Implementing self-service checkout and pricing pages",
+    "HubSpot's evolution from content-led to product-led growth",
+    "The role of free CRM in HubSpot's strategy",
+    "Balancing customer problems vs. business problems",
+    "Common PLG implementation mistakes",
+    "Growth loops vs. flywheels in B2B SaaS",
+    "Microapps as a growth channel",
+    "COVID-19's impact on digital transformation",
+    "Hiring and developing growth product managers",
+    "The importance of talking to customers",
+    "Data hygiene and instrumentation for growth teams",
+    "HubSpot's culture code and values",
+    "Mid-market vs. enterprise customer focus"
+  ],
+  "memorable_quotes": [
+    "Every problem is our problem and radical accountability and ownership mentality helped us find opportunities that maybe the business wasn't explicitly asking us to solve",
+    "Give value before you extract value - that was at the core of inbound marketing at its inception",
+    "The details matter. Obsess over the details of something, whether that be art, music, product, film, whatever"
+  ],
+  "frameworks_mentioned": [
+    "Attract, engage, delight flywheel",
+    "Give value before extract value principle",
+    "Radical accountability and ownership mentality",
+    "Modular approach to PLG",
+    "Zero to one customer activation framework",
+    "Business problems vs. customer problems distinction"
+  ],
+  "recommended_for": [
+    "Product managers interested in growth and PLG",
+    "Startup founders exploring product-led strategies",
+    "Growth professionals in B2B SaaS",
+    "Early-career PMs seeking development advice",
+    "Product leaders building freemium models",
+    "Anyone interested in HubSpot's growth story"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Chris Miller shares his journey building HubSpot's growth team and implementing product-led growth strategies, offering practical insights on career development, PLG implementation, and the evolution of HubSpot from content-driven to product-driven growth. The conversation provides actionable advice for product managers on taking ownership, finding mentors, and building successful growth motions in B2B SaaS.",
+  "analyzed_at": "2026-01-14T15:43:40.895390+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,86 @@
+{
+  "episode_id": "adriel-frederick",
+  "guest": "Adriel Frederick",
+  "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+  "youtube_url": "https://www.youtube.com/watch?v=uMhBej6-Ey4",
+  "duration": "1:07:26",
+  "duration_seconds": 4046.0,
+  "view_count": 3562,
+  "themes": [
+    "product management",
+    "growth strategies",
+    "leadership development",
+    "diversity and inclusion",
+    "algorithmic product design",
+    "user-centric design",
+    "startup scaling",
+    "experimentation methodology"
+  ],
+  "key_insights": [
+    "Focus on marginal users (those on the cusp of taking desired actions) to identify and fix product problems that affect broader user adoption",
+    "Growth hacking requires fundamental product value - tactics alone won't sustain growth without solving real user problems",
+    "Product managers must design the interface between algorithms and human decision-making, not rely solely on automated systems",
+    "Diversity provides concrete business value by enabling teams to understand global users without extensive research",
+    "When facing controversy, distinguish between valid criticism and resistance to change by staying close to users",
+    "Leadership requires shifting from individual contributor skills to organization design and empathy",
+    "Successful growth comes from grinding on core actions (finding product, getting in, finding friends) rather than seeking silver bullets",
+    "R&D teams must feel core to the mission and create shared success to avoid organizational rejection"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product Management at Reddit X",
+    "expertise_areas": [
+      "growth product management",
+      "marketplace design",
+      "user acquisition",
+      "algorithmic products"
+    ],
+    "notable_companies": [
+      "Reddit",
+      "Lyft",
+      "Facebook",
+      "Intuit"
+    ]
+  },
+  "topics_discussed": [
+    "Reddit X team and evolving interaction modes",
+    "NFT marketplace for digital art creators",
+    "Setting up R&D teams in large organizations",
+    "Impact of diverse background on product development",
+    "Being the first Black PM at Facebook",
+    "Working at controversial tech companies",
+    "Balancing algorithms with human decision-making",
+    "Pricing and marketplace dynamics at Lyft",
+    "Origins and reality of growth hacking",
+    "Facebook's growth strategies and friend recommendations",
+    "The famous '10 friends in 14 days' metric",
+    "Marginal user analysis methodology",
+    "Experimentation success rates and portfolio management",
+    "Transition from IC to leadership roles",
+    "Organization design and empathy in leadership"
+  ],
+  "memorable_quotes": [
+    "When you are working on algorithmic heavy products, your job is figuring out what the algorithm should be responsible for, what people are responsible for, and the framework for making decisions.",
+    "You have to have your teams look like the world, it just makes you so much faster. It's not perfect. You still have to go out and talk to folks because we still have our own kind of monocultures that form that we need to get out of. But it helps a lot.",
+    "The hardest part of empathy is taking my own shoes off. Basically going, Yo, okay, I came into this, there's something I wanted, I wanted to get rid of that. Now just talk to this person and try to understand what's going on with them."
+  ],
+  "frameworks_mentioned": [
+    "Marginal user analysis",
+    "Algorithm-human decision framework",
+    "Growth experimentation portfolio (cannonballs vs lead bullets)",
+    "Core action identification and optimization",
+    "Organization design for R&D teams"
+  ],
+  "recommended_for": [
+    "Product managers working on growth",
+    "Senior PMs transitioning to leadership",
+    "Product leaders at scaling companies",
+    "PMs working with algorithmic products",
+    "Professionals interested in diversity and inclusion",
+    "Growth team members and marketers"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Adriel Frederick shares battle-tested insights from scaling products at Facebook, Lyft, and Reddit, covering everything from growth strategies and algorithmic product design to leadership development and the business value of diversity. The conversation provides practical frameworks for product managers working on growth, marketplace dynamics, and the transition from individual contributor to organizational leader.",
+  "analyzed_at": "2026-01-14T15:03:25.354600+00:00",
+  "analyzer_version": "1.0.0"
+}

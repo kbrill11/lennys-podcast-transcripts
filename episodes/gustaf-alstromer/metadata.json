@@ -1,0 +1,88 @@
+{
+  "episode_id": "gustaf-alstromer",
+  "guest": "Gustaf Alstromer",
+  "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+  "youtube_url": "https://www.youtube.com/watch?v=ZoKLofsp8u0",
+  "duration": "1:25:36",
+  "duration_seconds": 5136.0,
+  "view_count": 129172,
+  "themes": [
+    "startup fundamentals",
+    "Y Combinator insights",
+    "customer discovery",
+    "founder attributes",
+    "climate tech investment",
+    "technical co founders",
+    "product market fit",
+    "startup failure patterns",
+    "office hours methodology",
+    "climate tech opportunities"
+  ],
+  "key_insights": [
+    "The most common startup failure is not talking to customers, which prevents finding product market fit",
+    "Successful founders are determined, technical, customer obsessed, and excellent communicators",
+    "You need to talk to 25-50 customers, meaning reaching out to many more to find early adopters",
+    "Having a technical co founder is critical because so many decisions are technical and require iteration",
+    "Climate tech has shifted from impact focused to economically driven with trillions in transition money",
+    "Strategy doesn't matter for early stage startups - only execution and clear priorities",
+    "Group office hours create accountability and reduce founder loneliness through peer learning",
+    "The best office hours question is 'What's holding you back from moving faster?'"
+  ],
+  "guest_background": {
+    "current_role": "Group Partner at Y Combinator",
+    "expertise_areas": [
+      "startup acceleration",
+      "growth strategy",
+      "climate tech investing",
+      "product development"
+    ],
+    "notable_companies": [
+      "Y Combinator",
+      "Airbnb"
+    ]
+  },
+  "topics_discussed": [
+    "What made Airbnb culture special and replicable lessons",
+    "Most common early stage startup mistakes",
+    "Importance of customer discovery and overcoming rejection fears",
+    "Attributes of successful founders across 600+ companies",
+    "Technical co founder necessity and alternatives",
+    "YC office hours structure and effectiveness",
+    "Predicting startup success rates and indicators",
+    "Climate tech market transformation and opportunities",
+    "Specific climate tech companies and categories",
+    "Why capitalism now drives climate solutions",
+    "Founder motivation assessment techniques",
+    "Speed versus quality tradeoffs in startups",
+    "Execution focus over strategy in early stage",
+    "Communication skills importance for founders",
+    "YC application and interview best practices"
+  ],
+  "memorable_quotes": [
+    "If I drill down what makes companies fail, it's quite simple. It's just like they don't talk to users, which means they don't find product market fit. And if they don't find product market fit, nothing else really matters.",
+    "I have an idea for a song, I just need a musician to help me make it - that's kind of similar to how it is with engineering.",
+    "Don't ever ask a founder how they're doing or how it's going. It just creates all this anxiety because nothing's ever going great."
+  ],
+  "frameworks_mentioned": [
+    "jobs to be done",
+    "product market fit",
+    "doing things that don't scale",
+    "office hours methodology",
+    "go to market strategy",
+    "carbon accounting frameworks"
+  ],
+  "recommended_for": [
+    "early stage founders",
+    "startup employees",
+    "product managers",
+    "climate tech professionals",
+    "YC applicants",
+    "venture capital professionals",
+    "technical founders"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Gustaf Alströmer shares hard won insights from working with 600+ YC startups, covering the most common failure patterns, essential founder attributes, and the transformation of climate tech from impact driven to economically viable. The episode provides tactical advice on customer discovery, technical co founder importance, and YC's office hours methodology.",
+  "analyzed_at": "2026-01-14T16:30:54.039494+00:00",
+  "analyzer_version": "1.0.0"
+}

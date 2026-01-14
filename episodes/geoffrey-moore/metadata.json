@@ -1,0 +1,90 @@
+{
+  "episode_id": "geoffrey-moore",
+  "guest": "Geoffrey Moore",
+  "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+  "youtube_url": "https://www.youtube.com/watch?v=CtB0O0M7YS0",
+  "duration": "1:14:51",
+  "duration_seconds": 4491.0,
+  "view_count": 13365,
+  "themes": [
+    "crossing the chasm",
+    "go-to-market strategy",
+    "technology adoption lifecycle",
+    "target market segmentation",
+    "B2B sales and marketing",
+    "venture capital and funding",
+    "product-market fit",
+    "startup scaling",
+    "customer development",
+    "strategic positioning"
+  ],
+  "key_insights": [
+    "Target segments must be big enough to matter, small enough to lead, and a good fit with your crown jewels",
+    "Pragmatists buy what they see their peers buying - social proof is essential for crossing the chasm",
+    "Visionaries make poor references for pragmatists because they operate differently and create messes pragmatists have to clean up",
+    "You know you've crossed the chasm when you can survive without more venture funding - cashflow positive is the key metric",
+    "Each market phase requires a different playbook - using the wrong playbook in the wrong phase has opposite effects",
+    "Before crossing the chasm, focus on problem domain knowledge, not product demos or features",
+    "The compelling reason to buy comes from customer pain, not your compelling reason to sell",
+    "Start with one marquee customer for credibility, then find a beachhead segment of pragmatists with urgent problems"
+  ],
+  "guest_background": {
+    "current_role": "Author and business consultant",
+    "expertise_areas": [
+      "go-to-market strategy",
+      "technology adoption",
+      "business strategy",
+      "venture capital"
+    ],
+    "notable_companies": [
+      "Regis McKenna (marketing agency)",
+      "Various tech startups as advisor"
+    ]
+  },
+  "topics_discussed": [
+    "Technology adoption lifecycle phases",
+    "Early market vs bowling alley vs tornado vs Main Street playbooks",
+    "Beachhead market selection criteria",
+    "Fish-to-pond ratio concept",
+    "Bowling alley expansion strategy",
+    "Seven deadly sins of crossing the chasm",
+    "Marquee customer acquisition",
+    "Compelling reason to buy vs compelling reason to sell",
+    "Venture capital funding strategy",
+    "Target customer identification",
+    "Product-led growth limitations",
+    "AI startup applications across lifecycle phases",
+    "B2B vs B2C market dynamics",
+    "Pricing and discounting strategies",
+    "Sales team composition for different phases"
+  ],
+  "memorable_quotes": [
+    "The tendency when you're in the chasm is, 'I just need more customers. I should take any customer I could find,' because we need revenue. It's like taking a match and running it back and forth under a log. It's not going to light the log.",
+    "Before the chasm, the customers you work with are people who say, 'We believe what you believe.' After the chasm, they say, 'I'm not sure about that, but we need what you have.'",
+    "If you're gifted enough to be able to start a software company and do something original, you're a scarce resource, so don't waste it."
+  ],
+  "frameworks_mentioned": [
+    "Technology Adoption Lifecycle",
+    "Crossing the Chasm methodology",
+    "Bowling Alley strategy",
+    "Tornado market dynamics",
+    "Fish-to-pond ratio",
+    "Big enough to matter, small enough to lead framework",
+    "Seven deadly sins of crossing the chasm",
+    "Four go-to-market playbooks"
+  ],
+  "recommended_for": [
+    "B2B startup founders",
+    "Product managers at early-stage companies",
+    "Go-to-market leaders",
+    "Venture capital investors",
+    "Sales and marketing executives",
+    "Business development professionals",
+    "Technology entrepreneurs"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Geoffrey Moore, author of 'Crossing the Chasm,' explains his seminal framework for helping B2B technology companies navigate the critical transition from early adopters to mainstream markets. The conversation provides tactical advice on target market selection, customer development, and go-to-market strategy for different phases of the technology adoption lifecycle.",
+  "analyzed_at": "2026-01-14T15:58:06.295686+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,90 @@
+{
+  "episode_id": "hari-srinivasan",
+  "guest": "Hari Srinivasan",
+  "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+  "youtube_url": "https://www.youtube.com/watch?v=ZUwkTs_QWqg",
+  "duration": "1:04:48",
+  "duration_seconds": 3888.0,
+  "view_count": 7237,
+  "themes": [
+    "product management",
+    "hiring marketplace dynamics",
+    "complex systems design",
+    "skills first hiring",
+    "LinkedIn product evolution",
+    "talent solutions",
+    "organizational culture",
+    "decision making frameworks",
+    "professional learning",
+    "product leadership"
+  ],
+  "key_insights": [
+    "Skills first hiring is transforming job markets - 47% of LinkedIn recruiters now explicitly use skills when searching for candidates",
+    "Complex systems require different decision making frameworks like RAPID and five day escalation rules to manage interdependencies",
+    "Product managers should focus on one edge of the creativity data science general management triangle rather than trying to be average at all three",
+    "North star clarity (connecting people to economic opportunity) enables faster decision making in complex organizations",
+    "Open to work signals and detailed skill credentials significantly improve job search success rates on LinkedIn",
+    "Building side projects maintains critical product building muscles and creative thinking",
+    "Value based job searching is emerging as people seek purpose aligned roles beyond just titles and compensation",
+    "Great PMs gravitate toward complex problems rather than avoiding them"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product, Talent Solutions at LinkedIn",
+    "expertise_areas": [
+      "product management",
+      "marketplace design",
+      "hiring systems",
+      "complex systems",
+      "talent solutions"
+    ],
+    "notable_companies": [
+      "LinkedIn",
+      "Ford Motor Company"
+    ]
+  },
+  "topics_discussed": [
+    "LinkedIn feed algorithm improvements and content quality",
+    "Skills first hiring transformation during COVID",
+    "Talent Solutions product suite including recruiting and learning",
+    "Complex systems management and decision making frameworks",
+    "RAPID decision framework and five day escalation rules",
+    "Product manager hiring market trends and job search strategies",
+    "LinkedIn Learning marketplace and creator ecosystem",
+    "Open to work feature development and stigma reduction",
+    "Company culture and north star alignment at LinkedIn",
+    "Product management career development and skill building",
+    "LinkedIn product ecosystem interconnectedness",
+    "Value based and interest based job searching trends",
+    "Product review processes and planning methodologies",
+    "Side project building for skill development",
+    "Interview techniques for complex systems roles"
+  ],
+  "memorable_quotes": [
+    "It was just this heartbreaking moment where in the feed you were seeing all these people, by no fault of their own, starting to post that they've lost their job",
+    "I've actually never seen a great PM who's in the center of it. I find the great PMs live on the edges",
+    "As long as we stay focused on connecting people to economic opportunity and each of our decisions start moving in that direction, hopefully the product will continue to deliver"
+  ],
+  "frameworks_mentioned": [
+    "RAPID decision making framework",
+    "Five day escalation rule",
+    "Skills first hiring methodology",
+    "Product management triangle (creativity, data science, general management)",
+    "North star alignment framework",
+    "Marketplace thinking model",
+    "Orange and red priorities planning system"
+  ],
+  "recommended_for": [
+    "product managers",
+    "job seekers",
+    "hiring managers and recruiters",
+    "product leaders managing complex systems",
+    "professionals interested in LinkedIn strategy",
+    "aspiring product managers",
+    "startup founders building marketplaces"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "LinkedIn VP Hari Srinivasan shares insights on managing complex product ecosystems, the shift toward skills first hiring, and practical strategies for job seekers. The conversation covers LinkedIn's product evolution, decision making frameworks for complex systems, and career development advice for product managers.",
+  "analyzed_at": "2026-01-14T16:32:25.881255+00:00",
+  "analyzer_version": "1.0.0"
+}

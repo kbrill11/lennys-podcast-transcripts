@@ -1,0 +1,84 @@
+{
+  "episode_id": "chip-huyen",
+  "guest": "Chip Huyen",
+  "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+  "youtube_url": "https://www.youtube.com/watch?v=DeskgjrLxxs",
+  "duration": "1:14:34",
+  "duration_seconds": 4474.0,
+  "view_count": 22860,
+  "themes": [
+    "AI product development",
+    "Machine learning engineering vs AI engineering",
+    "Building successful AI applications",
+    "AI model training and evaluation",
+    "Productivity and organizational change",
+    "Technical AI concepts explained",
+    "Future of work with AI",
+    "System thinking and problem solving"
+  ],
+  "key_insights": [
+    "Talk to users and build better data/prompts rather than chasing the latest AI news and models",
+    "Pre-training models is mostly done by frontier labs; post-training and fine-tuning is where most companies should focus",
+    "Evals are important at scale but pick your battles - don't need evals for every feature",
+    "Data preparation for RAG is more impactful than choosing the right vector database",
+    "Senior engineers get the biggest productivity boost from AI coding tools, contrary to expectations",
+    "Companies are restructuring with more senior engineers doing code review and junior engineers producing code",
+    "Pay attention to daily frustrations to generate AI product ideas - we're in an 'idea crisis' despite having powerful tools"
+  ],
+  "guest_background": {
+    "current_role": "AI researcher and author",
+    "expertise_areas": [
+      "AI engineering",
+      "machine learning systems",
+      "AI product development",
+      "enterprise AI strategy"
+    ],
+    "notable_companies": [
+      "NVIDIA",
+      "Netflix",
+      "Stanford University"
+    ]
+  },
+  "topics_discussed": [
+    "Pre-training vs post-training models",
+    "Fine-tuning and supervised learning",
+    "Reinforcement learning with human feedback (RLHF)",
+    "Evaluations (evals) for AI products",
+    "RAG (Retrieval-Augmented Generation)",
+    "Data labeling and preparation strategies",
+    "AI productivity impact on different engineer levels",
+    "Organizational restructuring for AI adoption",
+    "Test-time compute and inference optimization",
+    "Multimodal AI applications (voice, video)",
+    "Voice AI challenges and interruption detection",
+    "AI tool adoption patterns in enterprises",
+    "System thinking vs local optimization",
+    "Creative AI product ideation methods"
+  ],
+  "memorable_quotes": [
+    "Why do you need to keep up to date with the latest AI news? If you talk to the users who understand what they want or they don't want, look into the feedback, then you can actually improve the application way, way, way more.",
+    "We are in an ideal crisis. Now, we have all this really cool tools to do everything from scratch... but at the same time, people are somehow stuck. They don't know what to build.",
+    "CS is about system thinking, using coding to solve actual problem and problem solving will never go away because what AI can automate more stuff, the problem is just get bigger."
+  ],
+  "frameworks_mentioned": [
+    "RAG (Retrieval-Augmented Generation)",
+    "RLHF (Reinforcement Learning with Human Feedback)",
+    "Test-time compute allocation",
+    "Evaluation design methodology",
+    "Data chunking strategies for RAG",
+    "System thinking approach to problem solving"
+  ],
+  "recommended_for": [
+    "AI product managers",
+    "ML engineers transitioning to AI engineering",
+    "Engineering leaders implementing AI strategies",
+    "Startup founders building AI products",
+    "Technical professionals wanting to understand AI fundamentals",
+    "Product teams working on AI features"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Chip Huyen breaks down the technical fundamentals of AI product development, emphasizing that success comes from focusing on users and data quality rather than chasing the latest models. She provides practical insights on evaluations, RAG systems, and organizational changes needed for effective AI adoption.",
+  "analyzed_at": "2026-01-14T15:41:34.123098+00:00",
+  "analyzer_version": "1.0.0"
+}

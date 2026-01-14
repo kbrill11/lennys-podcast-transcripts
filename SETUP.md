@@ -45,18 +45,18 @@ source ~/.bashrc  # or ~/.zshrc
 
 ```bash
 # List available Python versions
-pyenv install --list | grep "3.11"
+pyenv install --list | grep "3.12"
 
-# Install Python 3.11 (recommended)
-pyenv install 3.11.9
+# Install Python 3.12 (recommended)
+pyenv install 3.12.8
 
 # Set as local version for this project
 cd /path/to/lennys-podcast-transcripts
-pyenv local 3.11.9
+pyenv local 3.12.8
 
 # Verify installation
 python --version
-# Should output: Python 3.11.9
+# Should output: Python 3.12.8
 ```
 
 ## Step 3: Create a Virtual Environment
@@ -316,6 +316,101 @@ python visualize_themes.py --list-colormaps
 # Show theme statistics without generating image
 python visualize_themes.py --stats
 ```
+
+## Knowledge Graph Visualization
+
+The `visualize_knowledge_graph.py` script generates interactive network graphs showing relationships between themes, episodes, and guests.
+
+### Install Dependencies
+
+```bash
+pip install networkx pyvis
+```
+
+### Basic Usage
+
+```bash
+# Generate theme network (default)
+python visualize_knowledge_graph.py
+
+# Generate with statistics
+python visualize_knowledge_graph.py --mode themes --stats
+```
+
+This creates an interactive HTML file you can open in any web browser.
+
+### Visualization Modes
+
+| Mode | Nodes | Edges | Best For |
+|------|-------|-------|----------|
+| `themes` | Themes | Co-occurrence | See which topics cluster together |
+| `episodes` | Episodes | Shared themes | Find related episodes |
+| `guests` | Guests | Topic overlap | Find guests with similar expertise |
+| `mixed` | Themes + Episodes | Episode-to-theme links | See the full picture |
+
+### Example Commands
+
+```bash
+# Theme network - shows how topics relate to each other
+python visualize_knowledge_graph.py --mode themes
+
+# Episode connections - find episodes that cover similar ground
+python visualize_knowledge_graph.py --mode episodes --min-shared 2
+
+# Guest network - see which guests have overlapping expertise
+python visualize_knowledge_graph.py --mode guests
+
+# Custom output filename
+python visualize_knowledge_graph.py --mode themes -o my_graph.html
+
+# For smaller datasets, lower the thresholds
+python visualize_knowledge_graph.py --mode themes --min-occurrences 1 --min-shared 1
+```
+
+### Command Line Options
+
+| Option | Description |
+|--------|-------------|
+| `--mode`, `-m` | Visualization mode: `themes`, `episodes`, `guests`, `mixed` |
+| `--output`, `-o` | Output filename (default: `knowledge_graph_<mode>.html`) |
+| `--min-occurrences` | Minimum theme occurrences to include (default: 2) |
+| `--min-shared` | Minimum shared themes/topics for an edge (default: 2) |
+| `--max-nodes` | Maximum number of nodes to display (default: 75) |
+| `--no-physics` | Disable physics simulation (static layout) |
+| `--stats` | Print graph statistics |
+
+### Interacting with the Graph
+
+Once you open the HTML file in a browser:
+
+- **Hover** over nodes to see details (episodes, topics, summaries)
+- **Drag** nodes to rearrange the layout
+- **Scroll** to zoom in/out
+- **Double-click** a node to focus on it
+- **Click and drag** the background to pan
+
+### Node Sizing
+
+Node size reflects importance:
+- **Themes mode**: Size = number of episodes containing the theme
+- **Episodes mode**: Size = number of themes in the episode
+- **Guests mode**: Size = number of topics discussed
+
+### Edge Thickness
+
+Edge thickness reflects relationship strength:
+- **Themes mode**: Number of episodes where both themes appear
+- **Episodes mode**: Number of shared themes between episodes
+- **Guests mode**: Number of overlapping topics/expertise areas
+
+### Output Files
+
+| File | Description |
+|------|-------------|
+| `knowledge_graph_themes.html` | Theme co-occurrence network |
+| `knowledge_graph_episodes.html` | Episode similarity network |
+| `knowledge_graph_guests.html` | Guest expertise network |
+| `knowledge_graph_mixed.html` | Combined themes and episodes |
 
 ## Deactivating the Environment
 

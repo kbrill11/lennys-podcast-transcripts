@@ -1,0 +1,87 @@
+{
+  "episode_id": "david-singleton",
+  "guest": "David Singleton",
+  "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+  "youtube_url": "https://www.youtube.com/watch?v=F0_IKKY3HCk",
+  "duration": "1:30:00",
+  "duration_seconds": 5400.0,
+  "view_count": 40035,
+  "themes": [
+    "Building product-minded engineering culture",
+    "User-centric product development",
+    "Engineering excellence and reliability",
+    "Hiring and talent development",
+    "Operational excellence and craft",
+    "AI and developer productivity",
+    "Leadership and management at scale",
+    "Financial infrastructure design"
+  ],
+  "key_insights": [
+    "Co-create products with early users through shared Slack channels and regular feedback loops before broader release",
+    "Use friction logging systematically - put yourself in specific user's shoes and document every point of friction in their journey",
+    "Implement auto-deploy systems that get code from commit to production in 45 minutes to enable rapid user feedback",
+    "Reserve engineering bandwidth for operational improvements and user experience polish, not just new features",
+    "Conduct 'engineer-cations' where executives spend 3-4 days coding with teams to understand developer experience",
+    "Create structured hiring loops that mirror real work as closely as possible, avoiding trick questions",
+    "Build comprehensive automated testing that enables frequent deployments while maintaining 99.999% uptime",
+    "Establish operating principles that drive behavior, not just abstract values"
+  ],
+  "guest_background": {
+    "current_role": "Chief Technology Officer at Stripe",
+    "expertise_areas": [
+      "engineering leadership",
+      "financial infrastructure",
+      "developer tools",
+      "product development"
+    ],
+    "notable_companies": [
+      "Stripe",
+      "Google"
+    ]
+  },
+  "topics_discussed": [
+    "Stripe's unique hiring approach and patience in recruitment",
+    "Building product-minded engineers vs hiring PMs",
+    "Friction logging methodology and templates",
+    "UX reviews and 'walking the store' sessions",
+    "Auto-deploy systems and developer productivity",
+    "Maintaining 99.999% uptime while deploying 16.4 times daily",
+    "Engineer-cations and getting into the weeds as a leader",
+    "AI applications in product development and documentation",
+    "Operating principles vs corporate values",
+    "Cross-functional collaboration in product development",
+    "Incident response and learning from failures",
+    "Reference checking in hiring process",
+    "Planning and prioritization at scale",
+    "Developer tooling and productivity improvements",
+    "Chaos testing and reliability engineering"
+  ],
+  "memorable_quotes": [
+    "The way we think about product development at Stripe, it really is to find the correct set of early users to kind of co-create the product with.",
+    "Every engineer building product at Stripe really has many of the kind of attributes and will exercise many of the attributes that you'll often find in PMs in other companies.",
+    "If you have a mechanism to listen to users, get something in their hands quite quickly and then get their feedback on it to run it back through a feedback loop, you're very unlikely to go wrong."
+  ],
+  "frameworks_mentioned": [
+    "Friction logging methodology",
+    "Engineer-cations (executive coding immersion)",
+    "Operating principles framework",
+    "Co-creation with early users",
+    "Walking the store reviews",
+    "Auto-deploy systems",
+    "Incident remediation prioritization",
+    "Reference-based hiring"
+  ],
+  "recommended_for": [
+    "Engineering leaders and CTOs",
+    "Product managers working with technical products",
+    "Startup founders building developer tools",
+    "Engineering managers at high-growth companies",
+    "Product leaders focused on operational excellence",
+    "Anyone interested in building reliable, scalable systems"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "David Singleton shares Stripe's systematic approach to building exceptional products through user co-creation, engineering excellence, and operational discipline. The episode reveals specific frameworks like friction logging and engineer-cations that enable Stripe to maintain 99.999% uptime while deploying code 16+ times daily and building products that users love.",
+  "analyzed_at": "2026-01-14T15:46:40.206023+00:00",
+  "analyzer_version": "1.0.0"
+}

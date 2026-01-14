@@ -1,0 +1,86 @@
+{
+  "episode_id": "brian-chesky",
+  "guest": "Brian Chesky",
+  "title": "Brian Chesky’s new playbook",
+  "youtube_url": "https://www.youtube.com/watch?v=4ef0juAMqoE",
+  "duration": "1:13:28",
+  "duration_seconds": 4408.0,
+  "view_count": 381905,
+  "themes": [
+    "product management transformation",
+    "organizational structure and functional vs divisional models",
+    "leadership philosophy and being in the details",
+    "product development and launches",
+    "company culture and decision-making",
+    "growth strategies beyond performance marketing",
+    "design philosophy and aesthetic evolution",
+    "work-life balance and avoiding burnout",
+    "continuous learning and beginner's mindset"
+  ],
+  "key_insights": [
+    "Combining product management with product marketing creates better alignment between building and distributing products",
+    "CEOs of product companies should act as chief product officer rather than delegating product decisions",
+    "Being 'in the details' as a leader is different from micromanagement - it enables better guidance and faster problem-solving",
+    "Single company roadmaps prevent siloed teams from going in different directions and creating dependencies",
+    "Performance marketing should be used like a laser (focused) rather than trying to light up entire markets",
+    "Five teams should do one thing rather than one team doing five things to improve focus and execution",
+    "Setting ambitious goals (adding a zero) forces teams to think differently about problems and find breakthrough solutions",
+    "Functional organizational structures with expert leaders in each domain prevent bureaucracy and politics"
+  ],
+  "guest_background": {
+    "current_role": "CEO and Co-founder of Airbnb",
+    "expertise_areas": [
+      "product management",
+      "organizational design",
+      "growth strategies",
+      "design",
+      "leadership"
+    ],
+    "notable_companies": [
+      "Airbnb"
+    ]
+  },
+  "topics_discussed": [
+    "Elimination of traditional product management roles at Airbnb",
+    "Creation of product marketing function combining inbound and outbound responsibilities",
+    "Shift from divisional to functional organizational structure",
+    "Single company roadmap and bi-annual product launches",
+    "CEO involvement in product details and weekly reviews",
+    "Movement away from heavy performance marketing spend",
+    "New design aesthetic moving beyond flat design",
+    "Guest Favorites product launch and AI-powered features",
+    "Host listing management improvements",
+    "Setting ambitious goals and 'adding a zero' methodology",
+    "Work-life balance strategies and relationship management",
+    "Continuous learning and beginner's mindset",
+    "Brian's background as an artist and industrial designer",
+    "Airbnb's founding story and design conference origin"
+  ],
+  "memorable_quotes": [
+    "Way too many founders apologize for how they want to run the company. They find some midpoint between how they want to run a company and how the people they lead want to run the company. That's a good way to make everyone miserable.",
+    "You can't build a product unless you know how to talk about the product. You can't be an expert in making the product unless you're also an expert in the market of it.",
+    "It took me four years to learn to paint like Raphael, but a lifetime to learn to paint like a child."
+  ],
+  "frameworks_mentioned": [
+    "Functional vs divisional organizational models",
+    "Add a zero goal-setting methodology",
+    "Single roadmap approach",
+    "Product marketing integration",
+    "CEO review cadence system",
+    "First principle thinking",
+    "Laser vs chandelier marketing metaphor"
+  ],
+  "recommended_for": [
+    "CEOs and founders",
+    "Product managers and product leaders",
+    "Startup executives",
+    "Organizational design professionals",
+    "Growth and marketing leaders",
+    "Design leaders"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "advanced",
+  "summary": "Brian Chesky shares his contrarian approach to running Airbnb, including eliminating traditional product management, creating a single company roadmap, and why CEOs should be deeply involved in product details. He provides a comprehensive framework for organizational design that prioritizes functional alignment over divisional autonomy.",
+  "analyzed_at": "2026-01-14T15:37:27.741952+00:00",
+  "analyzer_version": "1.0.0"
+}

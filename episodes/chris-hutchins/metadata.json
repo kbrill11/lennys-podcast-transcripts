@@ -1,0 +1,86 @@
+{
+  "episode_id": "chris-hutchins",
+  "guest": "Chris Hutchins",
+  "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+  "youtube_url": "https://www.youtube.com/watch?v=kc1XhB4k0Eg",
+  "duration": "1:17:35",
+  "duration_seconds": 4655.0,
+  "view_count": 2795,
+  "themes": [
+    "product management",
+    "podcasting strategy and growth",
+    "innovation within established companies",
+    "content creation and audience building",
+    "entrepreneurship and career development",
+    "financial optimization and life hacks",
+    "customer research and product market fit",
+    "building internal buy-in for big bets"
+  ],
+  "key_insights": [
+    "Only 150,000 of 4 million podcasts have published 10+ episodes in the last 10 days - consistency puts you in the top 4%",
+    "State your intent when pushing for ideas to avoid appearing self-interested and build internal support",
+    "Focus on being someone's favorite podcast rather than trying to appeal to everyone",
+    "Product market fit requires exponential organic growth, not just positive customer feedback",
+    "Use artificial deadlines to force decision-making and avoid analysis paralysis",
+    "Customer research alone isn't enough - you need to create compelling internal vision and build influence",
+    "Start with 8 episodes to test if you enjoy podcasting before committing long-term",
+    "Always check your state's unclaimed money website - people regularly find hundreds or thousands of dollars"
+  ],
+  "guest_background": {
+    "current_role": "Full-time creator and host of All the Hacks podcast",
+    "expertise_areas": [
+      "product management",
+      "financial optimization",
+      "podcasting",
+      "travel hacking",
+      "startup strategy"
+    ],
+    "notable_companies": [
+      "Google",
+      "Google Ventures",
+      "Wealthfront"
+    ]
+  },
+  "topics_discussed": [
+    "Building Wealthfront's Self-Driving Money/Autopilot product",
+    "Podcast launch strategies and growth tactics",
+    "Technical podcasting setup and tools",
+    "Content strategy and finding your niche",
+    "Building internal support for big product bets",
+    "Customer research vs. internal stakeholder management",
+    "Podcast analytics and success metrics",
+    "Cross-promotion and guest booking strategies",
+    "Converting social media clips to podcast downloads",
+    "Monetization strategies for content creators",
+    "Travel and financial life hacks",
+    "Product vision vs. feature development",
+    "Building authentic audience relationships",
+    "Consistency as a competitive advantage",
+    "Testing product ideas through prototyping"
+  ],
+  "memorable_quotes": [
+    "If you just do an episode a week for 10 weeks, you're now in the top 4% of all podcasts that anyone has created",
+    "Try to be someone's favorite. Don't try to be everyone's okay podcast",
+    "Your ability to speak publicly, persuade people, build influence within the company. Those things are all as important as your ability to identify a user need and build a product that solves it"
+  ],
+  "frameworks_mentioned": [
+    "Product market fit definition (exponential organic growth)",
+    "1000 true fans concept",
+    "Build-measure-learn for content creation",
+    "North Star metric alignment across teams",
+    "Reforge product strategy framework"
+  ],
+  "recommended_for": [
+    "aspiring podcasters",
+    "product managers working on innovation",
+    "content creators seeking growth strategies",
+    "entrepreneurs building audiences",
+    "professionals interested in financial optimization",
+    "startup employees navigating big company politics"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Chris Hutchins shares tactical advice on launching and growing podcasts while drawing parallels to product management, emphasizing consistency, authentic audience building, and the importance of internal stakeholder management for successful innovation.",
+  "analyzed_at": "2026-01-14T15:41:54.712793+00:00",
+  "analyzer_version": "1.0.0"
+}

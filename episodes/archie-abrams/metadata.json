@@ -1,0 +1,88 @@
+{
+  "episode_id": "archie-abrams",
+  "guest": "Archie Abrams",
+  "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+  "youtube_url": "https://www.youtube.com/watch?v=LpbBzmXrzEY",
+  "duration": "1:11:58",
+  "duration_seconds": 4318.0,
+  "view_count": 52123,
+  "themes": [
+    "growth strategy",
+    "long-term thinking vs short-term metrics",
+    "experimentation and holdout testing",
+    "product-led growth",
+    "organizational structure",
+    "metrics and measurement",
+    "founder-mode leadership",
+    "churn optimization",
+    "team collaboration"
+  ],
+  "key_insights": [
+    "30-40% of growth experiments showing initial lift have no long-term impact after a year",
+    "Optimizing for churn can be counterproductive - focus on total cohort value over retention rates",
+    "Long-term holdout experiments (1-3 years) reveal true impact vs pull-forward effects",
+    "Absolute numbers often more valuable than conversion rates for growth teams",
+    "Core product teams can operate without KPIs if there's strong founder taste and vision",
+    "Reducing monetary friction unlocks valuable merchants who might otherwise give up",
+    "Cross-functional collaboration requires trust and shared quality standards",
+    "100-year thinking enables better short-term decision making"
+  ],
+  "guest_background": {
+    "current_role": "VP of Product and Head of Growth at Shopify",
+    "expertise_areas": [
+      "growth strategy",
+      "product management",
+      "experimentation",
+      "e-commerce"
+    ],
+    "notable_companies": [
+      "Shopify",
+      "Udemy"
+    ]
+  },
+  "topics_discussed": [
+    "Shopify's approach to churn optimization",
+    "Long-term holdout experimentation methodology",
+    "100-year vision and aim-heavy culture",
+    "Growth team organizational structure",
+    "Collaboration between growth and core product teams",
+    "Metrics vs taste-driven product development",
+    "Monetary friction as growth lever",
+    "Sales and product-led growth integration",
+    "Marketing organization without CMO",
+    "Onboarding and personalization strategies",
+    "Absolute numbers vs conversion rates",
+    "Incrementality vs attribution measurement",
+    "Discounting strategies from Udemy experience",
+    "Technical architecture importance",
+    "Quality bar maintenance across teams"
+  ],
+  "memorable_quotes": [
+    "The plan is the plan until it's not",
+    "Most businesses do ultimately fail... but the folks who do go on to be successful will make that entire cohort work",
+    "It's actually almost always easier to just make it harder to do the thing right before your step in the funnel to increase your conversion rate"
+  ],
+  "frameworks_mentioned": [
+    "Long-term cohort value analysis",
+    "Holdout experimentation with multi-year tracking",
+    "Absolute metrics vs conversion rate optimization",
+    "100-year vision planning",
+    "Incrementality testing over attribution",
+    "GSD project management system",
+    "Three-pillar growth organization structure"
+  ],
+  "recommended_for": [
+    "growth product managers",
+    "startup founders",
+    "experimentation specialists",
+    "product leaders",
+    "growth marketers",
+    "data scientists in growth",
+    "e-commerce professionals"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "advanced",
+  "summary": "Shopify's VP of Growth shares counterintuitive insights about long-term experimentation, why optimizing for churn can hurt growth, and how their unique organizational structure balances 100-year vision with tactical growth execution. The conversation reveals how many growth wins are actually just pull-forward effects that disappear over time.",
+  "analyzed_at": "2026-01-14T15:30:37.724447+00:00",
+  "analyzer_version": "1.0.0"
+}

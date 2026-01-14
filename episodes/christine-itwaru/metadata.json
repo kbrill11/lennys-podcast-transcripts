@@ -1,0 +1,84 @@
+{
+  "episode_id": "christine-itwaru",
+  "guest": "Christine Itwaru",
+  "title": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+  "youtube_url": "https://www.youtube.com/watch?v=tGS-NhxrN_Q",
+  "duration": "1:06:40",
+  "duration_seconds": 4000.0,
+  "view_count": 8973,
+  "themes": [
+    "product operations",
+    "product management evolution",
+    "cross-functional alignment",
+    "voice of customer management",
+    "team efficiency and scaling",
+    "career transitions",
+    "organizational transparency",
+    "product-led growth",
+    "process automation"
+  ],
+  "key_insights": [
+    "Product ops is both a system/process and a role - companies can implement product ops practices without necessarily hiring dedicated people",
+    "The main value of product ops is giving PMs back quality time with customers by handling internal alignment and stakeholder management",
+    "Product ops emerged as a natural evolution when product teams scaled and CPOs took on broader business responsibilities beyond just product delivery",
+    "Successful product ops professionals should focus on automating processes and moving to more strategic work rather than maintaining manual tasks long-term",
+    "The quality of questions product teams receive from sales/success teams is a key indicator of whether you need product ops support",
+    "Product ops differs from product marketing by focusing on internal education and understanding rather than positioning and selling",
+    "Engineers participating in customer meetings can dramatically improve product development decisions and team confidence",
+    "Most successful product ops leaders come from product management backgrounds, while individual contributors often come from consulting, customer success, or technical roles"
+  ],
+  "guest_background": {
+    "current_role": "Product Operations Leader at Pendo",
+    "expertise_areas": [
+      "product operations",
+      "product management",
+      "cross-functional alignment",
+      "voice of customer",
+      "team scaling"
+    ],
+    "notable_companies": [
+      "Pendo"
+    ]
+  },
+  "topics_discussed": [
+    "Definition and evolution of product operations role",
+    "Product ops vs product management responsibilities",
+    "Voice of customer management and synthesis",
+    "Internal stakeholder alignment and transparency",
+    "Product ops career paths and backgrounds",
+    "When companies need product ops teams",
+    "Product ops vs product marketing distinctions",
+    "Tooling and process optimization",
+    "Content strategy and customer education",
+    "Product launch coordination and readiness",
+    "Cross-functional team health and collaboration",
+    "Measuring product ops effectiveness",
+    "Product ops integration in team structures",
+    "Career transition advice for product ops",
+    "Engineering involvement in customer conversations"
+  ],
+  "memorable_quotes": [
+    "Speaking as a former PM, I would not ever give up spending time with customers and watching their pain. That's how I fell in love with product.",
+    "Do you want your PMs to constantly be fielding questions from your revenue team when they could be spending time with customers?",
+    "We as product ops want to and should be standing up whatever processes or systems are needed and then get out of the way so we can focus on driving more strategic value."
+  ],
+  "frameworks_mentioned": [
+    "Voice of customer management system",
+    "Product development lifecycle planning",
+    "Product digest for internal alignment",
+    "Cross-functional transparency processes",
+    "Product ops maturity progression"
+  ],
+  "recommended_for": [
+    "Product managers considering career transitions",
+    "Product leaders evaluating team structure needs",
+    "Professionals interested in product operations roles",
+    "Companies experiencing scaling challenges with product teams",
+    "Cross-functional leaders seeking better alignment strategies"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Christine Itwaru provides a comprehensive guide to product operations, explaining how the role emerged to help product managers focus on customers while handling internal alignment and processes. She offers practical advice on when companies need product ops, career transition paths, and how to implement effective systems for cross-functional collaboration.",
+  "analyzed_at": "2026-01-14T15:42:59.858279+00:00",
+  "analyzer_version": "1.0.0"
+}

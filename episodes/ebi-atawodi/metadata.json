@@ -1,0 +1,85 @@
+{
+  "episode_id": "ebi-atawodi",
+  "guest": "Ebi Atawodi",
+  "title": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)",
+  "youtube_url": "https://www.youtube.com/watch?v=tBPTwUmaxDs",
+  "duration": "1:39:47",
+  "duration_seconds": 5987.0,
+  "view_count": 48600,
+  "themes": [
+    "Product vision development",
+    "Product management craft",
+    "Company culture and product building",
+    "Leadership and team dynamics",
+    "Strategic planning frameworks",
+    "Storytelling in product management",
+    "Cross-functional collaboration",
+    "User empathy and problem identification"
+  ],
+  "key_insights": [
+    "A good product vision must be lofty yet realistic, devoid of today's technical limitations, and grounded in clear user problems",
+    "Product management craft boils down to two core elements: clarity (understanding problems) and conviction (having a clear vision of solutions)",
+    "Use the 'Once upon a time' storytelling framework to communicate vision: describe current state, problem, solution, and resulting world state",
+    "Maintain a living document of 'top 10 things you should know' - key problems your users face, updated quarterly",
+    "Company culture directly influences how products are built - from Uber's aggressive autonomy to Netflix's structured decision-making to Google's microcultures",
+    "Evangelize vision in three concentric circles: core team first, then stakeholders, then leadership",
+    "Use concrete artifacts like mock headlines, app store screenshots, or sketches to make vision tangible and memorable",
+    "Build relationships with engineering partners by knowing personal details like birthdays and career aspirations"
+  ],
+  "guest_background": {
+    "current_role": "Director of Product Management at YouTube (Creator Experience)",
+    "expertise_areas": [
+      "Product vision",
+      "Strategic planning",
+      "Cross-functional leadership",
+      "Product culture"
+    ],
+    "notable_companies": [
+      "YouTube/Google",
+      "Netflix",
+      "Uber"
+    ]
+  },
+  "topics_discussed": [
+    "Four elements of effective product vision",
+    "Difference between mission and vision",
+    "Three methods for communicating vision (Mad Libs, press articles, mockups)",
+    "Three-step vision development process (empathize, create, evangelize)",
+    "Top 10 problems framework for user research",
+    "Three-day strategy workshop structure (insights, strategy, big rocks)",
+    "Clarity and conviction as core PM skills",
+    "Cultural differences between Uber, Netflix, and Google",
+    "How company culture shapes product development",
+    "Team culture creation techniques",
+    "Vulnerability and love vs. being liked in leadership",
+    "AI features in YouTube Studio",
+    "Career transition advice for aspiring PMs"
+  ],
+  "memorable_quotes": [
+    "I do not believe in being liked. I believe in being loved... love is the choice to extend yourself for the spiritual growth of oneself or another",
+    "Product management is clarity and conviction. You bring clarity and you have conviction",
+    "I am the master of my fate, I am the captain of my soul"
+  ],
+  "frameworks_mentioned": [
+    "Once upon a time storytelling framework",
+    "Top 10 things you should know documentation",
+    "Three-day strategy workshop (insights, strategy, big rocks)",
+    "Three concentric circles for evangelizing (team, stakeholders, leadership)",
+    "Empathize-Create-Evangelize vision development process",
+    "Freedom and responsibility culture model",
+    "Informed captain decision-making model"
+  ],
+  "recommended_for": [
+    "Product managers at all levels",
+    "Product leaders and directors",
+    "Aspiring product managers",
+    "Engineering managers working with product teams",
+    "Startup founders defining product strategy",
+    "Anyone involved in strategic planning and vision setting"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Ebi Atawodi shares highly tactical frameworks for developing and communicating product vision, emphasizing the importance of clarity and conviction in product management. She provides concrete tools like the 'Once upon a time' storytelling method and demonstrates how company culture directly influences product development through her experiences at Uber, Netflix, and Google.",
+  "analyzed_at": "2026-01-14T15:49:32.656361+00:00",
+  "analyzer_version": "1.0.0"
+}

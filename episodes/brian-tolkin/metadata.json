@@ -1,0 +1,84 @@
+{
+  "episode_id": "brian-tolkin",
+  "guest": "Brian Tolkin",
+  "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+  "youtube_url": "https://www.youtube.com/watch?v=sRukk520Fds",
+  "duration": "1:14:40",
+  "duration_seconds": 4480.0,
+  "view_count": 11209,
+  "themes": [
+    "product and operations integration",
+    "scaling high-touch businesses",
+    "product leadership",
+    "experimentation at low volume",
+    "jobs-to-be-done framework",
+    "staying calm under pressure",
+    "product reviews and processes",
+    "competition and market dynamics",
+    "early-stage company lessons"
+  ],
+  "key_insights": [
+    "Operations and product teams work best as 'twin turbine engines' - both needed for optimal performance, not competing functions",
+    "Starting in operations provides deep customer understanding that makes for better product leadership",
+    "In low-volume businesses, run power analysis before A/B testing to avoid false precision - sometimes trust intuition when data isn't feasible",
+    "Jobs-to-be-done framework is most valuable when it forces deeper customer empathy, not as rigid template adherence",
+    "Product reviews should focus on making products better, not just accountability - keep under 10 people for best conversations",
+    "Staying calm under pressure is learnable through experience and helps teams perform better than reflecting stress",
+    "Finding the 'kernel of truth' in ambiguous signals is core to product management - write down all ideas but focus on what really matters",
+    "Competition awareness is important but customer focus matters more, especially in large underserved markets"
+  ],
+  "guest_background": {
+    "current_role": "Head of Product and Design at Opendoor",
+    "expertise_areas": [
+      "product management",
+      "operations",
+      "scaling marketplace businesses",
+      "product-ops integration"
+    ],
+    "notable_companies": [
+      "Uber",
+      "Opendoor"
+    ]
+  },
+  "topics_discussed": [
+    "Transitioning from operations to product management",
+    "Building products with heavy operational components",
+    "Early Uber stories and UberPOOL global launch",
+    "Product operations as a function",
+    "Surge pricing evolution at Uber",
+    "Managing low-sample-size experimentation at Opendoor",
+    "Jobs-to-be-done framework implementation",
+    "Product review best practices",
+    "Zillow's failed entry and subsequent partnership",
+    "COVID-19 impact on real estate operations",
+    "Staying calm under pressure as a leader",
+    "Finding technical leverage in ops-heavy businesses",
+    "Interview process at early-stage Uber",
+    "Building teams with different PM skill sets"
+  ],
+  "memorable_quotes": [
+    "Uber always has this mentality and Opendoor does two of the product operations, twin turbine jet plane where you can fly the plane on one engine for a little bit if you need to, but it's operating most efficiently and effectively if both are working together.",
+    "You're never as good as you think you are. You're never as bad as you think you are.",
+    "Product is finding the kernel of truth in a sea of ambiguity and signals."
+  ],
+  "frameworks_mentioned": [
+    "Jobs-to-be-done framework",
+    "Product review templates",
+    "Power analysis for A/B testing",
+    "Twin turbine jet plane model (product + ops)",
+    "Flash tags for feedback communication",
+    "Weekly business reviews (WBR)"
+  ],
+  "recommended_for": [
+    "product managers at operations-heavy companies",
+    "startup founders building marketplace businesses",
+    "operations professionals transitioning to product",
+    "product leaders managing low-volume experimentation",
+    "anyone interested in Uber and Opendoor scaling stories"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Brian Tolkin shares lessons from scaling Uber and Opendoor, emphasizing how product and operations teams can work together effectively. He covers practical topics like running product reviews, implementing jobs-to-be-done, and managing experimentation with low sample sizes.",
+  "analyzed_at": "2026-01-14T15:37:50.188563+00:00",
+  "analyzer_version": "1.0.0"
+}

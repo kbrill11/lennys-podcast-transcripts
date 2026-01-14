@@ -1,0 +1,85 @@
+{
+  "episode_id": "garrett-lord",
+  "guest": "Garrett Lord",
+  "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+  "youtube_url": "https://www.youtube.com/watch?v=0qdR-XwHJ9o",
+  "duration": "1:09:51",
+  "duration_seconds": 4191.0,
+  "view_count": 15322,
+  "themes": [
+    "AI data labeling and model training",
+    "Building new businesses within existing companies",
+    "Expert networks and marketplaces",
+    "AI disruption and opportunity",
+    "Scaling high-growth startups",
+    "Post-training vs pre-training in AI",
+    "Founder mode and execution",
+    "Career platforms and job matching"
+  ],
+  "key_insights": [
+    "The shift from generalist to expert data labeling creates massive opportunities for companies with access to specialized talent",
+    "Models have largely exhausted pre-training gains and now require expert-created post-training data for improvement",
+    "Starting a new business within an existing company requires complete separation - different teams, office space, metrics, and compensation",
+    "The only moat in human data is access to an audience - customer acquisition costs are the killer for most competitors",
+    "AI-native young people have significant advantages in the job market due to their familiarity with AI tools",
+    "Leave nothing to chance when facing unlimited demand - execution speed and quality are everything",
+    "Expert data labeling involves finding model weaknesses and providing step-by-step corrections, not just right answers",
+    "Building trust through university partnerships creates sustainable competitive advantages over performance marketing approaches"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of Handshake",
+    "expertise_areas": [
+      "marketplace design",
+      "AI data labeling",
+      "career platforms",
+      "university partnerships"
+    ],
+    "notable_companies": [
+      "Handshake",
+      "Palantir (intern)"
+    ]
+  },
+  "topics_discussed": [
+    "What data labeling actually involves for AI model training",
+    "Pre-training vs post-training in AI model development",
+    "Supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF)",
+    "The shift from generalist to expert data workers",
+    "Trajectory data and multimodal AI training",
+    "Building Handshake AI from zero to $50M ARR in 4 months",
+    "Strategies for launching new businesses within existing companies",
+    "Competitive advantages through university partnerships",
+    "The future of job markets and AI-native workers",
+    "Quality control and verification in data labeling",
+    "Scaling expert networks across academic disciplines",
+    "Customer acquisition costs in the data labeling market",
+    "Building trust-based platforms vs transactional marketplaces",
+    "Hiring and team structure for hypergrowth",
+    "The role of synthetic vs human-generated data"
+  ],
+  "memorable_quotes": [
+    "There will never be a time like this. I've never seen anything like it. I doubt I'll ever feel anything like this in business again where there's unlimited demand.",
+    "The only moat in human data is access to an audience.",
+    "The models have gotten so good that the generalists are no longer needed. What they really need is experts."
+  ],
+  "frameworks_mentioned": [
+    "Pre-training vs post-training model development",
+    "Quality, volume, and speed framework for data providers",
+    "LTV to CAC ratio in marketplace businesses",
+    "Leave nothing to chance execution philosophy",
+    "Separate everything approach for internal startups"
+  ],
+  "recommended_for": [
+    "AI company founders and executives",
+    "Data scientists and ML engineers",
+    "Marketplace and platform builders",
+    "Corporate innovation leaders",
+    "Venture capitalists focused on AI",
+    "University career services professionals",
+    "Entrepreneurs exploring AI opportunities"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Garrett Lord shares how Handshake built a $50M ARR AI data labeling business in 4 months by leveraging their network of university students and experts to create high-quality training data for frontier AI models. The episode reveals the mechanics of AI model training, the shift from generalist to expert data work, and proven strategies for launching successful new businesses within existing companies.",
+  "analyzed_at": "2026-01-14T15:56:59.799288+00:00",
+  "analyzer_version": "1.0.0"
+}

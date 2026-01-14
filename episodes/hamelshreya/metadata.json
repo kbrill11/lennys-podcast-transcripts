@@ -1,0 +1,87 @@
+{
+  "episode_id": "hamelshreya",
+  "guest": "Hamel+Shreya",
+  "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+  "youtube_url": "https://www.youtube.com/watch?v=dpw9Ue1HU48",
+  "duration": "1:41:44",
+  "duration_seconds": 6104.0,
+  "view_count": 72215,
+  "themes": [
+    "AI product development",
+    "evaluation methodologies",
+    "product management",
+    "error analysis",
+    "data science for AI",
+    "machine learning operations",
+    "product quality measurement",
+    "systematic testing",
+    "AI product improvement"
+  ],
+  "key_insights": [
+    "Error analysis should always precede building automated evaluations - start by manually reviewing actual user interactions to understand real failure modes",
+    "Most eval failures come from skipping data analysis and jumping straight to writing tests without understanding actual problems",
+    "LLM as judge evaluators should be binary (pass/fail) rather than multi-point scales to avoid ambiguity and improve actionability",
+    "The benevolent dictator approach - having one domain expert lead the evaluation process - is more effective than committee-based approaches",
+    "Code-based evaluators are preferred over LLM judges when possible due to lower cost and higher reliability",
+    "Evals are most valuable when used for both pre-production testing and ongoing production monitoring",
+    "Theoretical saturation - continue data analysis until you stop discovering new types of problems - typically occurs around 100 traces",
+    "Product managers should be heavily involved in the eval process since they understand the user experience and business requirements"
+  ],
+  "guest_background": {
+    "current_role": "AI Evaluation Course Instructors at Maven",
+    "expertise_areas": [
+      "machine learning evaluation",
+      "data science",
+      "AI product development",
+      "error analysis"
+    ],
+    "notable_companies": [
+      "Maven",
+      "major AI labs",
+      "various AI startups"
+    ]
+  },
+  "topics_discussed": [
+    "Definition and importance of evals for AI products",
+    "Error analysis methodology and open coding process",
+    "Building LLM as judge evaluators with binary scoring",
+    "Code based vs LLM based evaluation approaches",
+    "Real estate AI assistant case study with actual traces",
+    "Axial coding for categorizing failure modes",
+    "Using AI tools to synthesize evaluation categories",
+    "Measuring evaluator alignment with human judgment",
+    "Production monitoring vs pre-production testing",
+    "Common misconceptions about evaluation automation",
+    "Debate around evals vs A/B testing approaches",
+    "Tools and platforms for trace analysis",
+    "Cost optimization strategies for AI evaluations",
+    "Building custom interfaces for data analysis"
+  ],
+  "memorable_quotes": [
+    "To build great AI products, you need to be really good at building evals. It's the highest ROI activity you can engage in.",
+    "The goal is not to do evals perfectly, it's to actionably improve your product.",
+    "People have been burned by evals in the past. People have done evals badly, so then they didn't trust it anymore, and then they're like, 'Oh, I'm anti evals.'"
+  ],
+  "frameworks_mentioned": [
+    "error analysis methodology",
+    "open coding and axial coding",
+    "theoretical saturation",
+    "benevolent dictator approach",
+    "LLM as judge evaluation",
+    "trace analysis",
+    "binary scoring systems"
+  ],
+  "recommended_for": [
+    "AI product managers",
+    "machine learning engineers",
+    "AI application developers",
+    "product teams building AI features",
+    "startup founders in AI space",
+    "data scientists working on AI products"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Hamel and Shreya provide a comprehensive, step-by-step guide to building effective evaluations for AI products, emphasizing the critical importance of error analysis and systematic data review. They demonstrate practical techniques for identifying failure modes, building automated evaluators, and continuously improving AI applications through structured measurement approaches.",
+  "analyzed_at": "2026-01-14T16:31:42.613617+00:00",
+  "analyzer_version": "1.0.0"
+}

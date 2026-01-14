@@ -1,0 +1,89 @@
+{
+  "episode_id": "eli-schwartz",
+  "guest": "Eli Schwartz",
+  "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+  "youtube_url": "https://www.youtube.com/watch?v=Z71yGshPTwk",
+  "duration": "1:55:10",
+  "duration_seconds": 6910.0,
+  "view_count": 88168,
+  "themes": [
+    "SEO evolution with AI",
+    "Product-led SEO strategy",
+    "AI Overviews impact on search",
+    "User journey optimization",
+    "Programmatic vs editorial SEO",
+    "Brand building through SEO",
+    "Google's market dominance",
+    "SEO myths and misconceptions",
+    "Mid-funnel vs top-funnel strategy"
+  ],
+  "key_insights": [
+    "AI Overviews will eliminate top-funnel SEO opportunities, but mid-funnel searches remain valuable for conversions",
+    "SEO should be treated as a product decision by PMs, not just a marketing tactic",
+    "Most B2B SaaS companies shouldn't prioritize SEO due to complex sales cycles and limited online conversion potential",
+    "Programmatic SEO works when there's scale and genuine user demand for the combinations being created",
+    "Focus on user intent and journey rather than rankings and traffic as success metrics",
+    "Link building should be brand building - getting genuine mentions rather than buying guest posts",
+    "Google's dominance is protected by distribution agreements and user habits, not just search quality",
+    "Keyword research tools can be off by 10x in either direction - use top-down TAM forecasting instead"
+  ],
+  "guest_background": {
+    "current_role": "SEO advisor and author",
+    "expertise_areas": [
+      "SEO strategy",
+      "product-led growth",
+      "programmatic SEO",
+      "growth advising"
+    ],
+    "notable_companies": [
+      "Quora",
+      "Coinbase",
+      "Tinder",
+      "LinkedIn",
+      "WordPress",
+      "Zapier",
+      "SurveyMonkey"
+    ]
+  },
+  "topics_discussed": [
+    "AI Overviews impact on search results",
+    "Google's market dominance and DOJ antitrust case",
+    "Programmatic SEO vs editorial content",
+    "User journey mapping for SEO",
+    "When B2B SaaS should avoid SEO",
+    "Technical SEO myths and realities",
+    "Link building best practices",
+    "SEO forecasting methodologies",
+    "TikTok vs Google search usage",
+    "AI content generation guidelines",
+    "Mid-funnel conversion optimization",
+    "Brand building through SEO",
+    "SEO resource allocation decisions",
+    "Growth advising business model",
+    "Zapier's programmatic SEO strategy"
+  ],
+  "memorable_quotes": [
+    "Think of SEO as a product. The product managers are the people that should be thinking about this SEO question because it's a product question.",
+    "If you can't answer the question about what is it that someone's going to do a search on, then don't do SEO.",
+    "SEO is not dying. There will always be a world where users are requesting their own information."
+  ],
+  "frameworks_mentioned": [
+    "Product-led SEO methodology",
+    "Top-down TAM forecasting for SEO",
+    "User journey mapping (top/mid/bottom funnel)",
+    "Programmatic SEO at scale",
+    "Brand-first link building approach"
+  ],
+  "recommended_for": [
+    "Product managers working on growth",
+    "Marketing leaders evaluating SEO investment",
+    "Startup founders considering SEO strategy",
+    "Growth professionals adapting to AI changes",
+    "SEO practitioners looking to modernize approach"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Eli Schwartz explains how AI is fundamentally changing SEO by eliminating top-funnel opportunities while preserving mid-funnel conversion potential. He advocates for treating SEO as a product decision focused on user journey optimization rather than traditional keyword-focused tactics, with specific guidance on when companies should and shouldn't invest in SEO.",
+  "analyzed_at": "2026-01-14T15:51:30.186078+00:00",
+  "analyzer_version": "1.0.0"
+}

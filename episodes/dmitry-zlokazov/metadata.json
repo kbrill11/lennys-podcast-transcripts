@@ -1,0 +1,83 @@
+{
+  "episode_id": "dmitry-zlokazov",
+  "guest": "Dmitry Zlokazov",
+  "title": "Unknown",
+  "youtube_url": "",
+  "duration": "",
+  "duration_seconds": 0,
+  "view_count": 0,
+  "themes": [
+    "product management excellence",
+    "hiring and developing talent",
+    "building lovable products",
+    "ownership and autonomy",
+    "scaling product organizations",
+    "fintech innovation",
+    "depth vs breadth in product leadership",
+    "founder-led company culture"
+  ],
+  "key_insights": [
+    "Hire for raw intellect and hunger over experience - junior people with drive often outperform experienced hires",
+    "Give product owners true end-to-end ownership as 'local CEOs' with engineers and designers reporting to them",
+    "Go extremely deep on 7-10 critical projects rather than staying high-level across all initiatives",
+    "Never compromise on product quality and UX - build 'wow' products that customers love from day one",
+    "If something is 99% done, it's closer to 0% than 100% - execution through to full deployment is critical",
+    "Source talent from companies that build products you admire, not just prestigious brands",
+    "Build scalable platforms from the start to enable small teams to ship products across 50+ countries",
+    "Founders should review every screen shipped to maintain quality while still enabling team autonomy"
+  ],
+  "guest_background": {
+    "current_role": "Global Head of Product at Revolut",
+    "expertise_areas": [
+      "fintech product development",
+      "scaling product teams",
+      "international expansion",
+      "product hiring"
+    ],
+    "notable_companies": [
+      "Revolut"
+    ]
+  },
+  "topics_discussed": [
+    "Revolut's business model and scale across 50 countries",
+    "Three types of product owners: UX, technical, and data science",
+    "Hiring philosophy prioritizing intellect and drive over experience",
+    "Product owner autonomy and ownership structure",
+    "Weekly founder product reviews and quality control",
+    "Going deep on critical projects vs. broad oversight",
+    "Building 'wow' products with exceptional UX",
+    "New product launch framework and validation process",
+    "Platform-first approach for international scaling",
+    "Sourcing strategies for finding high-potential talent",
+    "Internal mobility from other functions to product roles",
+    "Customer research and feedback integration",
+    "Regulatory compliance across multiple jurisdictions",
+    "Career development and why Revolut alumni succeed elsewhere",
+    "Personal career journey and lessons from startup failure"
+  ],
+  "memorable_quotes": [
+    "If something is 99% done, it's closer to 0% rather than 100%",
+    "Revolut values way more raw intellect and this unquenched hunger to build things rather than experience",
+    "We can cut down the product in terms of functionality to just most critical features, but we will never compromise on the quality and UX and the aesthetics"
+  ],
+  "frameworks_mentioned": [
+    "New bets framework for product validation",
+    "Three types of product owners specialization model",
+    "Local CEO product ownership structure",
+    "Platform-first development approach",
+    "Weekly founder product review process"
+  ],
+  "recommended_for": [
+    "product managers seeking career acceleration",
+    "startup founders building product teams",
+    "product leaders at scaling companies",
+    "aspiring product managers looking for growth opportunities",
+    "hiring managers in product organizations",
+    "fintech professionals"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Dmitry Zlokazov reveals how Revolut has become one of the top companies for developing world-class product managers through extreme ownership, deep problem-solving, and an obsession with building lovable products. The conversation provides actionable insights on hiring for potential over experience and structuring product teams for maximum autonomy and impact.",
+  "analyzed_at": "2026-01-14T15:48:04.796390+00:00",
+  "analyzer_version": "1.0.0"
+}

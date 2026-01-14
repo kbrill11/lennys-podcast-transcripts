@@ -1,0 +1,1231 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "label": "product-led growth",
+      "size": 9,
+      "episodes": [
+        {
+          "episode_id": "albert-cheng",
+          "guest": "Albert Cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
+        },
+        {
+          "episode_id": "annie-pearl",
+          "guest": "Annie Pearl",
+          "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)"
+        },
+        {
+          "episode_id": "archie-abrams",
+          "guest": "Archie Abrams",
+          "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)"
+        },
+        {
+          "episode_id": "ben-williams",
+          "guest": "Ben Williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
+        },
+        {
+          "episode_id": "carilu-dietrich",
+          "guest": "Carilu Dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)"
+        },
+        {
+          "episode_id": "christine-itwaru",
+          "guest": "Christine Itwaru",
+          "title": "Understanding the role of product ops | Christine Itwaru (Pendo)"
+        },
+        {
+          "episode_id": "claire-butler",
+          "guest": "Claire Butler",
+          "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)"
+        },
+        {
+          "episode_id": "elena-verna",
+          "guest": "Elena Verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
+        },
+        {
+          "episode_id": "gina-gotthilf",
+          "guest": "Gina Gotthilf",
+          "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "label": "startup scaling",
+      "size": 8,
+      "episodes": [
+        {
+          "episode_id": "adriel-frederick",
+          "guest": "Adriel Frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
+        },
+        {
+          "episode_id": "barbra-gago",
+          "guest": "Barbra Gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
+        },
+        {
+          "episode_id": "ben-williams",
+          "guest": "Ben Williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
+        },
+        {
+          "episode_id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+        },
+        {
+          "episode_id": "casey-winters",
+          "guest": "Casey Winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters"
+        },
+        {
+          "episode_id": "elena-verna",
+          "guest": "Elena Verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
+        },
+        {
+          "episode_id": "geoffrey-moore",
+          "guest": "Geoffrey Moore",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
+        },
+        {
+          "episode_id": "heidi-helfand",
+          "guest": "Heidi Helfand",
+          "title": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "leadership development",
+      "size": 7,
+      "episodes": [
+        {
+          "episode_id": "ada-chen-rekhi",
+          "guest": "Ada Chen Rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi"
+        },
+        {
+          "episode_id": "adriel-frederick",
+          "guest": "Adriel Frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
+        },
+        {
+          "episode_id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+        },
+        {
+          "episode_id": "carilu-dietrich",
+          "guest": "Carilu Dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)"
+        },
+        {
+          "episode_id": "carole-robin",
+          "guest": "Carole Robin",
+          "title": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)"
+        },
+        {
+          "episode_id": "drew-houston",
+          "guest": "Drew Houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)"
+        },
+        {
+          "episode_id": "ethan-evans",
+          "guest": "Ethan Evans",
+          "title": "Taking control of your career | Ethan Evans (Amazon)"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "product management",
+      "size": 7,
+      "episodes": [
+        {
+          "episode_id": "adriel-frederick",
+          "guest": "Adriel Frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
+        },
+        {
+          "episode_id": "cam-adams",
+          "guest": "Cam Adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
+        },
+        {
+          "episode_id": "camille-hearst",
+          "guest": "Camille Hearst",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
+        },
+        {
+          "episode_id": "chris-hutchins",
+          "guest": "Chris Hutchins",
+          "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)"
+        },
+        {
+          "episode_id": "eoy-review",
+          "guest": "EOY Review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
+        },
+        {
+          "episode_id": "hamelshreya",
+          "guest": "Hamel+Shreya",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+        },
+        {
+          "episode_id": "hari-srinivasan",
+          "guest": "Hari Srinivasan",
+          "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "growth strategies",
+      "size": 7,
+      "episodes": [
+        {
+          "episode_id": "adriel-frederick",
+          "guest": "Adriel Frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)"
+        },
+        {
+          "episode_id": "annie-pearl",
+          "guest": "Annie Pearl",
+          "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)"
+        },
+        {
+          "episode_id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+        },
+        {
+          "episode_id": "casey-winters",
+          "guest": "Casey Winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters"
+        },
+        {
+          "episode_id": "crystal-w",
+          "guest": "Crystal W",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+        },
+        {
+          "episode_id": "eoy-review",
+          "guest": "EOY Review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
+        },
+        {
+          "episode_id": "grant-lee",
+          "guest": "Grant Lee",
+          "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "product market fit",
+      "size": 6,
+      "episodes": [
+        {
+          "episode_id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+        },
+        {
+          "episode_id": "camille-ricketts",
+          "guest": "Camille Ricketts",
+          "title": "How Notion leveraged community to build a $10B business | Camille Ricketts"
+        },
+        {
+          "episode_id": "grant-lee",
+          "guest": "Grant Lee",
+          "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)"
+        },
+        {
+          "episode_id": "gustaf-alstromer",
+          "guest": "Gustaf Alstromer",
+          "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)"
+        },
+        {
+          "episode_id": "hamilton-helmer",
+          "guest": "Hamilton Helmer",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
+        },
+        {
+          "episode_id": "howie-liu",
+          "guest": "Howie Liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "cross-functional collaboration",
+      "size": 5,
+      "episodes": [
+        {
+          "episode_id": "albert-cheng",
+          "guest": "Albert Cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
+        },
+        {
+          "episode_id": "austin-hay",
+          "guest": "Austin Hay",
+          "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)"
+        },
+        {
+          "episode_id": "ben-williams",
+          "guest": "Ben Williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
+        },
+        {
+          "episode_id": "chandra-janakiraman",
+          "guest": "Chandra Janakiraman",
+          "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)"
+        },
+        {
+          "episode_id": "ebi-atawodi",
+          "guest": "Ebi Atawodi",
+          "title": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "decision-making frameworks",
+      "size": 5,
+      "episodes": [
+        {
+          "episode_id": "anneka-gupta",
+          "guest": "Anneka Gupta",
+          "title": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta"
+        },
+        {
+          "episode_id": "annie-duke",
+          "guest": "Annie Duke",
+          "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)"
+        },
+        {
+          "episode_id": "bill-carr",
+          "guest": "Bill Carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
+        },
+        {
+          "episode_id": "dharmesh-shah",
+          "guest": "Dharmesh Shah",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+        },
+        {
+          "episode_id": "evan-lapointe",
+          "guest": "Evan LaPointe",
+          "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "product positioning",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "andy-raskin",
+          "guest": "Andy Raskin",
+          "title": "The power of strategic narrative | Andy Raskin"
+        },
+        {
+          "episode_id": "april-dunford",
+          "guest": "April Dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)"
+        },
+        {
+          "episode_id": "arielle-jackson",
+          "guest": "Arielle Jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)"
+        },
+        {
+          "episode_id": "barbra-gago",
+          "guest": "Barbra Gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "product development processes",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "annie-pearl",
+          "guest": "Annie Pearl",
+          "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)"
+        },
+        {
+          "episode_id": "bill-carr",
+          "guest": "Bill Carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
+        },
+        {
+          "episode_id": "christina-wodtke",
+          "guest": "Christina Wodtke",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+        },
+        {
+          "episode_id": "gokul-rajaram",
+          "guest": "Gokul Rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "label": "organizational design",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "anuj-rathi",
+          "guest": "Anuj Rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
+        },
+        {
+          "episode_id": "bill-carr",
+          "guest": "Bill Carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
+        },
+        {
+          "episode_id": "claire-vo",
+          "guest": "Claire Vo",
+          "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
+        },
+        {
+          "episode_id": "gustav-söderström",
+          "guest": "Gustav Söderström",
+          "title": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "go-to-market strategy",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "april-dunford",
+          "guest": "April Dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)"
+        },
+        {
+          "episode_id": "barbra-gago",
+          "guest": "Barbra Gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
+        },
+        {
+          "episode_id": "emily-kramer",
+          "guest": "Emily Kramer",
+          "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)"
+        },
+        {
+          "episode_id": "geoffrey-moore",
+          "guest": "Geoffrey Moore",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "first principles thinking",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "ayo-omojola",
+          "guest": "Ayo Omojola",
+          "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola"
+        },
+        {
+          "episode_id": "eeke-de-milliano",
+          "guest": "Eeke de Milliano",
+          "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)"
+        },
+        {
+          "episode_id": "farhan-thawar",
+          "guest": "Farhan Thawar",
+          "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)"
+        },
+        {
+          "episode_id": "geoff-charles",
+          "guest": "Geoff Charles",
+          "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "label": "product management career development",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "brandon-chu",
+          "guest": "Brandon Chu",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+        },
+        {
+          "episode_id": "christopher-miller",
+          "guest": "Christopher Miller",
+          "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller"
+        },
+        {
+          "episode_id": "fareed-mosavat",
+          "guest": "Fareed Mosavat",
+          "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)"
+        },
+        {
+          "episode_id": "gokul-rajaram",
+          "guest": "Gokul Rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "label": "startup growth strategies",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "cam-adams",
+          "guest": "Cam Adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
+        },
+        {
+          "episode_id": "dharmesh-shah",
+          "guest": "Dharmesh Shah",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+        },
+        {
+          "episode_id": "dylan-field",
+          "guest": "Dylan Field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field"
+        },
+        {
+          "episode_id": "emily-kramer",
+          "guest": "Emily Kramer",
+          "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "label": "product-market fit",
+      "size": 4,
+      "episodes": [
+        {
+          "episode_id": "crystal-w",
+          "guest": "Crystal W",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+        },
+        {
+          "episode_id": "dan-hockenmaier",
+          "guest": "Dan Hockenmaier",
+          "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier"
+        },
+        {
+          "episode_id": "geoffrey-moore",
+          "guest": "Geoffrey Moore",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)"
+        },
+        {
+          "episode_id": "gia-laudi",
+          "guest": "Gia Laudi",
+          "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "label": "ai product development",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+          "guest": "Aishwarya Naresh Reganti + Kiriti Badam",
+          "title": "Unknown"
+        },
+        {
+          "episode_id": "chip-huyen",
+          "guest": "Chip Huyen",
+          "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen"
+        },
+        {
+          "episode_id": "hamelshreya",
+          "guest": "Hamel+Shreya",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "freemium business models",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "albert-cheng",
+          "guest": "Albert Cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
+        },
+        {
+          "episode_id": "cam-adams",
+          "guest": "Cam Adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams"
+        },
+        {
+          "episode_id": "christopher-miller",
+          "guest": "Christopher Miller",
+          "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "work-life balance",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "andy-johns",
+          "guest": "Andy Johns",
+          "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)"
+        },
+        {
+          "episode_id": "carilu-dietrich",
+          "guest": "Carilu Dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)"
+        },
+        {
+          "episode_id": "deb-liu",
+          "guest": "Deb Liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "product management evolution",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "asha-sharma",
+          "guest": "Asha Sharma",
+          "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma"
+        },
+        {
+          "episode_id": "christine-itwaru",
+          "guest": "Christine Itwaru",
+          "title": "Understanding the role of product ops | Christine Itwaru (Pendo)"
+        },
+        {
+          "episode_id": "dylan-field",
+          "guest": "Dylan Field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "jobs-to-be-done framework",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "bob-moesta",
+          "guest": "Bob Moesta",
+          "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)"
+        },
+        {
+          "episode_id": "brian-tolkin",
+          "guest": "Brian Tolkin",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+        },
+        {
+          "episode_id": "gia-laudi",
+          "guest": "Gia Laudi",
+          "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "label": "product development strategy",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "bob-moesta",
+          "guest": "Bob Moesta",
+          "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)"
+        },
+        {
+          "episode_id": "brian-balfour",
+          "guest": "Brian Balfour",
+          "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour"
+        },
+        {
+          "episode_id": "howie-liu",
+          "guest": "Howie Liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "label": "scaling product organizations",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "brandon-chu",
+          "guest": "Brandon Chu",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+        },
+        {
+          "episode_id": "dmitry-zlokazov",
+          "guest": "Dmitry Zlokazov",
+          "title": "Unknown"
+        },
+        {
+          "episode_id": "geoff-charles",
+          "guest": "Geoff Charles",
+          "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "label": "product leadership",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "brian-tolkin",
+          "guest": "Brian Tolkin",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+        },
+        {
+          "episode_id": "hari-srinivasan",
+          "guest": "Hari Srinivasan",
+          "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)"
+        },
+        {
+          "episode_id": "hilary-gridley",
+          "guest": "Hilary Gridley",
+          "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "label": "product management leadership",
+      "size": 3,
+      "episodes": [
+        {
+          "episode_id": "casey-winters",
+          "guest": "Casey Winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters"
+        },
+        {
+          "episode_id": "claire-vo",
+          "guest": "Claire Vo",
+          "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
+        },
+        {
+          "episode_id": "deb-liu",
+          "guest": "Deb Liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "executive coaching",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "ada-chen-rekhi",
+          "guest": "Ada Chen Rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi"
+        },
+        {
+          "episode_id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "label": "growth team building",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "adam-fishman",
+          "guest": "Adam Fishman",
+          "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)"
+        },
+        {
+          "episode_id": "crystal-w",
+          "guest": "Crystal W",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "label": "startup growth challenges",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "adam-grenier",
+          "guest": "Adam Grenier",
+          "title": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)"
+        },
+        {
+          "episode_id": "howie-liu",
+          "guest": "Howie Liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "label": "team building and hiring",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "albert-cheng",
+          "guest": "Albert Cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)"
+        },
+        {
+          "episode_id": "ayo-omojola",
+          "guest": "Ayo Omojola",
+          "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "label": "performance management",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+        },
+        {
+          "episode_id": "barbra-gago",
+          "guest": "Barbra Gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "label": "meeting effectiveness",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+        },
+        {
+          "episode_id": "evan-lapointe",
+          "guest": "Evan LaPointe",
+          "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "label": "conflict resolution",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)"
+        },
+        {
+          "episode_id": "carole-robin",
+          "guest": "Carole Robin",
+          "title": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "label": "women in tech leadership",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "ami-vora",
+          "guest": "Ami Vora",
+          "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
+        },
+        {
+          "episode_id": "claire-vo",
+          "guest": "Claire Vo",
+          "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "label": "customer-centric product development",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "ami-vora",
+          "guest": "Ami Vora",
+          "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)"
+        },
+        {
+          "episode_id": "eeke-de-milliano",
+          "guest": "Eeke de Milliano",
+          "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "label": "organizational alignment",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "andy-raskin",
+          "guest": "Andy Raskin",
+          "title": "The power of strategic narrative | Andy Raskin"
+        },
+        {
+          "episode_id": "chandra-janakiraman",
+          "guest": "Chandra Janakiraman",
+          "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "label": "product management strategy",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "anneka-gupta",
+          "guest": "Anneka Gupta",
+          "title": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta"
+        },
+        {
+          "episode_id": "christina-wodtke",
+          "guest": "Christina Wodtke",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "label": "venture capital and investing",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "annie-duke",
+          "guest": "Annie Duke",
+          "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)"
+        },
+        {
+          "episode_id": "ben-horowitz",
+          "guest": "Ben Horowitz",
+          "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "label": "ai-powered software development",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "anton-osika",
+          "guest": "Anton Osika",
+          "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)"
+        },
+        {
+          "episode_id": "eric-simons",
+          "guest": "Eric Simons",
+          "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "label": "working backwards methodology",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "anuj-rathi",
+          "guest": "Anuj Rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
+        },
+        {
+          "episode_id": "bill-carr",
+          "guest": "Bill Carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "label": "marketplace dynamics",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "anuj-rathi",
+          "guest": "Anuj Rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
+        },
+        {
+          "episode_id": "camille-hearst",
+          "guest": "Camille Hearst",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "label": "product strategy frameworks",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "anuj-rathi",
+          "guest": "Anuj Rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)"
+        },
+        {
+          "episode_id": "gibson-biddle",
+          "guest": "Gibson Biddle",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "label": "competitive positioning",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "april-dunford",
+          "guest": "April Dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)"
+        },
+        {
+          "episode_id": "brian-balfour",
+          "guest": "Brian Balfour",
+          "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "label": "marketing fundamentals",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "arielle-jackson",
+          "guest": "Arielle Jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)"
+        },
+        {
+          "episode_id": "christopher-lochhead",
+          "guest": "Christopher Lochhead",
+          "title": "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "label": "product management philosophy",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "ben-horowitz",
+          "guest": "Ben Horowitz",
+          "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)"
+        },
+        {
+          "episode_id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "label": "growth team structure",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "ben-williams",
+          "guest": "Ben Williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)"
+        },
+        {
+          "episode_id": "hila-qu",
+          "guest": "Hila Qu",
+          "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "label": "supply and demand dynamics",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)"
+        },
+        {
+          "episode_id": "dan-hockenmaier",
+          "guest": "Dan Hockenmaier",
+          "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "label": "customer research methodology",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "bob-moesta",
+          "guest": "Bob Moesta",
+          "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)"
+        },
+        {
+          "episode_id": "gia-laudi",
+          "guest": "Gia Laudi",
+          "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "label": "decision making frameworks",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "brandon-chu",
+          "guest": "Brandon Chu",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)"
+        },
+        {
+          "episode_id": "hari-srinivasan",
+          "guest": "Hari Srinivasan",
+          "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "label": "product-market fit discovery",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "brendan-foody",
+          "guest": "Brendan Foody",
+          "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody"
+        },
+        {
+          "episode_id": "eric-simons",
+          "guest": "Eric Simons",
+          "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "label": "product management fundamentals",
+      "size": 2,
+      "episodes": [
+        {
+          "episode_id": "bret-taylor",
+          "guest": "Bret Taylor",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord"
+        },
+        {
+          "episode_id": "christian-idiodi",
+          "guest": "Christian Idiodi",
+          "title": "The essence of product management | Christian Idiodi (SVPG)"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 25,
+      "target": 2,
+      "strength": 2
+    },
+    {
+      "source": 2,
+      "target": 31,
+      "strength": 2
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "strength": 2
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "strength": 3
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "strength": 2
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "strength": 2
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "strength": 2
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "strength": 2
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "strength": 2
+    },
+    {
+      "source": 38,
+      "target": 10,
+      "strength": 2
+    },
+    {
+      "source": 20,
+      "target": 46,
+      "strength": 2
+    }
+  ],
+  "metadata": {
+    "total_episodes": 110,
+    "total_themes": 823,
+    "generated_at": "2026-01-14T16:34:00.281612+00:00"
+  }
+}

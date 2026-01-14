@@ -1,0 +1,89 @@
+{
+  "episode_id": "bret-taylor",
+  "guest": "Bret Taylor",
+  "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+  "youtube_url": "https://www.youtube.com/watch?v=0qdR-XwHJ9o",
+  "duration": "1:09:51",
+  "duration_seconds": 4191.0,
+  "view_count": 15322,
+  "themes": [
+    "AI and agents",
+    "Product management fundamentals",
+    "Leadership and career adaptability",
+    "Entrepreneurship and company building",
+    "Technology industry evolution",
+    "Go-to-market strategies",
+    "Productivity and systems thinking",
+    "Failure and learning from mistakes"
+  ],
+  "key_insights": [
+    "Ask 'What is the most impactful thing I can do today?' to prioritize effectively across different roles",
+    "Have a flexible view of your identity - adapt to what the company needs rather than conforming the job to your preferences",
+    "When building products, create entirely new experiences rather than just digitizing what came before",
+    "The AI market will consolidate into three segments: frontier models (hyperscalers), tooling (risky due to proximity), and applied AI/agents (biggest opportunity)",
+    "Outcome-based pricing aligns incentives and creates true partnerships with customers in AI",
+    "Agents represent a fundamental shift from productivity software to autonomous job completion",
+    "Choose go-to-market strategy based on whether buyer and user are the same person",
+    "Root cause analysis and context engineering are crucial for realizing AI productivity gains today"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of Sierra",
+    "expertise_areas": [
+      "product management",
+      "engineering",
+      "AI/ML",
+      "enterprise software",
+      "leadership"
+    ],
+    "notable_companies": [
+      "Google",
+      "Facebook/Meta",
+      "Salesforce",
+      "OpenAI",
+      "Twitter"
+    ]
+  },
+  "topics_discussed": [
+    "Google Local failure and Google Maps success story",
+    "Leadership lessons from Sheryl Sandberg",
+    "Career adaptability across different roles (PM, CTO, CEO)",
+    "The future of coding and programming languages for AI",
+    "AI market segmentation and startup opportunities",
+    "Outcome-based pricing models",
+    "Agent-first software architecture",
+    "Go-to-market strategies for B2B AI products",
+    "FriendFeed creation and like button invention",
+    "AI productivity gains and current limitations",
+    "Education in the age of AI",
+    "Systems thinking in product development",
+    "Direct sales vs product-led growth",
+    "Context engineering for AI tools like Cursor",
+    "Sierra's customer success metrics"
+  ],
+  "memorable_quotes": [
+    "The whole market is going to go towards agents. I think the whole market is going to go towards outcomes-based pricing. It's just so obviously the correct way to build and sell software.",
+    "I think agent is the new app. I think that's going to be the product form factor.",
+    "The best way to predict the future is to invent it."
+  ],
+  "frameworks_mentioned": [
+    "Jobs to be Done framework",
+    "Outcome-based pricing model",
+    "Model Context Protocol (MCP)",
+    "Three-tier AI market segmentation",
+    "Root cause analysis for AI improvement",
+    "Go-to-market model selection (developer-led, product-led, direct sales)"
+  ],
+  "recommended_for": [
+    "Product managers",
+    "AI startup founders",
+    "Engineering leaders",
+    "Entrepreneurs building B2B software",
+    "Technology executives",
+    "Anyone interested in AI agents and automation"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Bret Taylor, legendary tech builder and current CEO of Sierra, shares hard-won lessons on product leadership, career adaptability, and building successful AI companies. The conversation covers everything from learning from failures at Google to why agents represent the future of software, with practical insights on go-to-market strategies and outcome-based pricing.",
+  "analyzed_at": "2026-01-14T15:36:43.000323+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,89 @@
+{
+  "episode_id": "failure",
+  "guest": "Failure",
+  "title": "Failure",
+  "youtube_url": "https://www.youtube.com/watch?v=9euy9gC48lc",
+  "duration": "1:01:12",
+  "duration_seconds": 3672.0,
+  "view_count": 9074,
+  "themes": [
+    "failure and learning from setbacks",
+    "leadership challenges and trust building",
+    "product management mistakes",
+    "career resilience and growth",
+    "experimentation and testing strategies",
+    "company culture and team dynamics",
+    "public speaking and vulnerability",
+    "strategic decision making",
+    "personal branding and storytelling"
+  ],
+  "key_insights": [
+    "Fail conclusively to ensure learning - design experiments to maximize treatment effects so failures provide clear lessons rather than ambiguous results",
+    "Trust must be earned before implementing change - coming in listening rather than swinging prevents team rebellion and builds foundation for transformation",
+    "Focus on user problems, not solutions - attachment to specific implementations often leads to missing the real underlying issues customers face",
+    "Unit economics must work from the beginning - magical thinking about scale fixing fundamental business model flaws leads to expensive failures",
+    "Dogfooding prevents obvious mistakes - testing your own products before shipping helps catch issues that seem obvious in retrospect",
+    "Career resilience comes from embracing both A-side and B-side moments - everyone has failures between highlights, and recognizing this builds long-term perspective",
+    "Public failure is survivable and often educational - even walking off stage in front of thousands can be recovered from and become a learning experience"
+  ],
+  "guest_background": {
+    "current_role": "Compilation Episode - Multiple Guests",
+    "expertise_areas": [
+      "product management",
+      "growth",
+      "design leadership",
+      "startup operations",
+      "venture capital"
+    ],
+    "notable_companies": [
+      "Airbnb",
+      "Stripe",
+      "Intercom",
+      "Duolingo",
+      "Google",
+      "Facebook",
+      "Quibi",
+      "Pets.com"
+    ]
+  },
+  "topics_discussed": [
+    "Design team rebellion and trust building at Airbnb",
+    "Freezing on stage and recovering from public speaking disasters",
+    "Google's failed social products (Buzz, Google+)",
+    "Pets.com and Quibi business model failures",
+    "Airbnb Plus quality initiative mistakes",
+    "Growth experimentation failure rates and learning strategies",
+    "Unit economics and strategic decision making",
+    "Career resilience and the A-side vs B-side concept",
+    "Dogfooding and product testing practices",
+    "Rewrite projects and technical debt management",
+    "Interview techniques for assessing product experience",
+    "Social features and gamification experiments at Duolingo",
+    "International expansion challenges",
+    "Company culture around embracing failure"
+  ],
+  "memorable_quotes": [
+    "Failure is not that you didn't drive revenue, failure is not learning. So it's really important that you learn when you fail.",
+    "At Facebook you can design the product, but at Intercom you can design the company.",
+    "I don't think you're a good PM if you haven't shipped something that's really shitty. You just haven't had enough reps."
+  ],
+  "frameworks_mentioned": [
+    "Ship to learn principle",
+    "A-side vs B-side career concept",
+    "Conclusive failure testing methodology",
+    "Maximum treatment effect experimentation",
+    "Trust-first leadership approach"
+  ],
+  "recommended_for": [
+    "product managers at all levels",
+    "startup founders and executives",
+    "design and growth leaders",
+    "anyone struggling with career setbacks",
+    "professionals interested in learning from failure"
+  ],
+  "sentiment": "reflective",
+  "difficulty_level": "intermediate",
+  "summary": "This compilation episode explores failure stories from top product leaders at companies like Airbnb, Google, and Duolingo, revealing how setbacks and mistakes often become the most valuable learning experiences. The episode emphasizes that failure is an essential part of growth, providing tactical frameworks for learning from experiments and building resilient careers through both successes and setbacks.",
+  "analyzed_at": "2026-01-14T15:55:26.647167+00:00",
+  "analyzer_version": "1.0.0"
+}

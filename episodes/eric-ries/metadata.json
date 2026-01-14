@@ -1,0 +1,93 @@
+{
+  "episode_id": "eric-ries",
+  "guest": "Eric Ries",
+  "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+  "youtube_url": "https://www.youtube.com/watch?v=xzebbzIntFc",
+  "duration": "2:14:15",
+  "duration_seconds": 8055.0,
+  "view_count": 64647,
+  "themes": [
+    "lean startup methodology evolution",
+    "product development and MVP strategy",
+    "corporate governance and long-term thinking",
+    "entrepreneurial pivoting and decision-making",
+    "AI impact on business and society",
+    "building values-driven companies",
+    "startup culture and mental health",
+    "scientific experimentation in business",
+    "organizational design and structure"
+  ],
+  "key_insights": [
+    "MVP should be the minimum viable test for your specific hypothesis, not universally 'low quality' - quality bar depends entirely on your market and customers",
+    "Most startup work gets thrown away after pivots, so optimize for learning speed rather than perfection in early stages",
+    "Companies need structural governance changes to embody their values, not just cultural statements - legal structure determines behavior",
+    "Pivot means changing strategy while maintaining vision, but founders often discover their true vision through the building process",
+    "Foundation-controlled and mission-driven corporate structures often outperform traditional shareholder-primacy models financially",
+    "The key to dealing with AI uncertainty is taking actions that make sense across multiple future scenarios",
+    "Zombie companies that won't die but can't succeed are worse for founder mental health than clean failures",
+    "Engagement loops (why customers return) are as important as viral loops but receive far less attention"
+  ],
+  "guest_background": {
+    "current_role": "Founder and Executive Chairman of Long-Term Stock Exchange",
+    "expertise_areas": [
+      "lean startup methodology",
+      "corporate governance",
+      "product development",
+      "entrepreneurship",
+      "organizational design"
+    ],
+    "notable_companies": [
+      "IMVU",
+      "Long-Term Stock Exchange",
+      "various startups as advisor"
+    ]
+  },
+  "topics_discussed": [
+    "Current state of Lean Startup movement",
+    "Common MVP misconceptions and proper implementation",
+    "When and how to pivot vs. stay the course",
+    "AI's impact on product development and society",
+    "Corporate governance structures for mission-driven companies",
+    "Building companies aligned with human flourishing",
+    "Startup mental health and zombie companies",
+    "The evolution from anonymous blogger to thought leader",
+    "Toyota's corporate structure and chief engineer role",
+    "Foundation-controlled vs. traditional public companies",
+    "Scientific approach to business experimentation",
+    "Engagement loops vs. viral loops in growth",
+    "Long-term thinking vs. quarterly pressure",
+    "Values-driven competitive advantages",
+    "Structural changes needed for ethical AI development"
+  ],
+  "memorable_quotes": [
+    "People act like having a startup fail is the worst thing that can happen to you. And man, that's not even in the top 10... Far worse is to be in a company that won't die, a zombie, undead company that you hate, but you can't leave.",
+    "MVP is simply for whatever the hypothesis is that we're trying to test, what is the most efficient way to get the validation we need about whether a hypothesis is true or not?",
+    "Making a profit is actually about maximizing human flourishing. That's what it means to be for profit."
+  ],
+  "frameworks_mentioned": [
+    "Lean Startup methodology",
+    "Minimum Viable Product (MVP)",
+    "Pivot framework",
+    "Innovation accounting",
+    "Build-Measure-Learn loop",
+    "Engagement loops",
+    "Viral loops",
+    "Jobs-to-be-done framework",
+    "Toyota Production System",
+    "Chief Engineer model"
+  ],
+  "recommended_for": [
+    "startup founders and entrepreneurs",
+    "product managers and developers",
+    "corporate innovation leaders",
+    "venture capitalists and investors",
+    "business school students",
+    "executives interested in governance reform",
+    "anyone building mission-driven companies"
+  ],
+  "sentiment": "reflective and inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Eric Ries reflects on the evolution of Lean Startup methodology while diving deep into advanced topics like corporate governance, AI ethics, and building mission-driven companies. The conversation combines tactical product development advice with philosophical discussions about creating organizations that promote human flourishing.",
+  "analyzed_at": "2026-01-14T15:53:28.373733+00:00",
+  "analyzer_version": "1.0.0"
+}

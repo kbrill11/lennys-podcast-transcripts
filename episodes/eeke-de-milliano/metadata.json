@@ -1,0 +1,87 @@
+{
+  "episode_id": "eeke-de-milliano",
+  "guest": "Eeke de Milliano",
+  "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+  "youtube_url": "https://www.youtube.com/watch?v=2ezz4KJe7kA",
+  "duration": "1:02:56",
+  "duration_seconds": 3776.0,
+  "view_count": 13631,
+  "themes": [
+    "fostering innovation and big thinking",
+    "product management at high-growth companies",
+    "company culture and operating principles",
+    "process vs creativity balance",
+    "customer-centric product development",
+    "talent portfolio management",
+    "product-led vs sales-led growth",
+    "first principles thinking",
+    "failure acceptance and learning"
+  ],
+  "key_insights": [
+    "Process reduces variance but can bring high performers down to average - use minimum viable process with escape hatches",
+    "Innovation is blocked by fear of failure, urgent work overload, and lack of permission to think big",
+    "Build for your best users, not your worst users, especially in early product development",
+    "Use 70/20/10 resource allocation: 70% core product, 20% strategic initiatives, 10% experimental bets",
+    "Start new products with 1-2 person teams and treat them like funded startups within the company",
+    "Writing culture drives clear thinking - you can't be a good writer without being a clear thinker",
+    "Create structured moments for big thinking through 'Think Bigger' sections and 'Crazy Ideas' documents",
+    "Balance product talent portfolio with complementary skillsets rather than hiring in your own image"
+  ],
+  "guest_background": {
+    "current_role": "Head of Product at Retool",
+    "expertise_areas": [
+      "product management",
+      "innovation culture",
+      "technical product development",
+      "customer-facing roles"
+    ],
+    "notable_companies": [
+      "Retool",
+      "Stripe"
+    ]
+  },
+  "topics_discussed": [
+    "Stripe's early culture and lack of initial PMs",
+    "Building Stripe Connect for marketplace business models",
+    "Developing Stripe Radar for fraud prevention",
+    "Stripe's operating principles: think rigorously, move with urgency and focus, customers first",
+    "Retool's three new product launches in 2022: Workflows, Mobile, and Database",
+    "Minimum viable process and giving high performers escape hatches",
+    "70/20/10 resource allocation framework",
+    "Build the scooter, not the axle approach to MVPs",
+    "Creating innovation through 'Crazy Ideas' documents and 'Think Bigger' planning sections",
+    "Product talent portfolio balancing different skillsets",
+    "Customer proximity through Slack channels and dogfooding",
+    "Difference between product-led and sales-led growth motions",
+    "When and how to introduce process at different company stages",
+    "Charter, goals, and roadmap as core documents for all organizational levels",
+    "Breaking the org for exceptional talent"
+  ],
+  "memorable_quotes": [
+    "Process, by definition, is variance reducing. You're introducing it because you worry that the variance in your org is too high... the cost is you're bringing other folks down to the average, and oftentimes those are your highest performers.",
+    "No one wakes up in the morning and thinks, 'Yeah, today I want to work on boring, incremental stuff.' But most teams do end up working on pretty incremental stuff.",
+    "Are you willing to break the org for this person? Some people are just that good that you'll break the org for them in the best way possible."
+  ],
+  "frameworks_mentioned": [
+    "70/20/10 resource allocation",
+    "Minimum Viable Process (MVP for process)",
+    "Charter/Goals/Roadmap framework",
+    "Product talent portfolio approach",
+    "Build the scooter, not the axle MVP methodology",
+    "One-way vs two-way door decisions",
+    "Think Bigger planning methodology",
+    "Crazy Ideas innovation process"
+  ],
+  "recommended_for": [
+    "product managers at scaling startups",
+    "product leaders managing innovation",
+    "startup founders building product culture",
+    "engineering managers transitioning to product",
+    "executives balancing process with creativity"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Eeke de Milliano shares practical frameworks for fostering innovation while scaling product teams, drawing from her experience at Stripe and Retool. She provides actionable insights on balancing process with creativity, managing product talent portfolios, and creating organizational structures that enable big thinking and rapid product development.",
+  "analyzed_at": "2026-01-14T15:50:20.881870+00:00",
+  "analyzer_version": "1.0.0"
+}

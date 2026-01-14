@@ -1,0 +1,83 @@
+{
+  "episode_id": "dylan-field",
+  "guest": "Dylan Field",
+  "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+  "youtube_url": "https://www.youtube.com/watch?v=WyJV6VwEGA8",
+  "duration": "1:26:50",
+  "duration_seconds": 5210.0,
+  "view_count": 199455,
+  "themes": [
+    "product management evolution",
+    "design philosophy and simplification",
+    "AI's impact on design and craft",
+    "early-stage product development",
+    "leadership and scaling",
+    "product taste and intuition",
+    "startup growth strategies",
+    "community building"
+  ],
+  "key_insights": [
+    "Intuition serves as a hypothesis generator that must be tested with data and debate",
+    "Ship products as fast as possible to get feedback - everything else about getting to market quickly is true",
+    "Quality, features, deadline - choose two when launching new products",
+    "The more you add to a product, the harder it becomes to maintain coherence (irreducible complexity)",
+    "Best product managers create frameworks with strategy and point of view that bring teams together",
+    "Simplification is everyone's responsibility: 'Keep the simple things simple, make the complex things possible'",
+    "When people give you advice, they're giving themselves advice in your shoes",
+    "Mentorship can come from anywhere - community, hires, people you mentor, even interns"
+  ],
+  "guest_background": {
+    "current_role": "CEO and Co-founder of Figma",
+    "expertise_areas": [
+      "product design",
+      "product management",
+      "startup leadership",
+      "design tools"
+    ],
+    "notable_companies": [
+      "Figma",
+      "LinkedIn (intern)"
+    ]
+  },
+  "topics_discussed": [
+    "AI's role in design and the importance of craft as differentiation",
+    "Product management function and its future",
+    "Simplification as core product philosophy",
+    "Early days of Figma development (3.5 years to launch)",
+    "Growth strategy using Twitter network analysis to find influential designers",
+    "The balance between shipping fast vs. maintaining quality",
+    "Leadership scaling from intern to 1000+ person company",
+    "WebGL and early technology trend spotting",
+    "Websim as example of generative UI innovation",
+    "Product taste development and customer feedback loops",
+    "Team dynamics between PMs, designers, and engineers",
+    "Figma community and responsibility to users",
+    "Pages feature as example of changing mind based on user feedback",
+    "Raccoon feet vs muffin hands philosophical question",
+    "Child acting background and career transition"
+  ],
+  "memorable_quotes": [
+    "Intuition is like a hypothesis generator and you're constantly generating these hypotheses and others are generating hypotheses as well.",
+    "The definition of design is art applied to problem solving.",
+    "Keep the simple things simple. Make the complex things possible."
+  ],
+  "frameworks_mentioned": [
+    "Quality, features, deadline - choose two framework",
+    "Irreducible complexity concept",
+    "Minimally awesome product (vs MVP)",
+    "Intuition as hypothesis generator methodology"
+  ],
+  "recommended_for": [
+    "product managers",
+    "startup founders",
+    "design leaders",
+    "early-stage entrepreneurs",
+    "product designers",
+    "engineering managers"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Dylan Field shares insights on building Figma from a 3.5-year development cycle to a 1000+ person company, covering product philosophy, the evolution of product management, and how AI is reshaping the importance of design craft. The conversation offers practical frameworks for simplification, shipping fast, and scaling leadership while maintaining product quality.",
+  "analyzed_at": "2026-01-14T15:49:08.749449+00:00",
+  "analyzer_version": "1.0.0"
+}

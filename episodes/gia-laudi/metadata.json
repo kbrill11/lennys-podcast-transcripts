@@ -1,0 +1,86 @@
+{
+  "episode_id": "gia-laudi",
+  "guest": "Gia Laudi",
+  "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+  "youtube_url": "https://www.youtube.com/watch?v=0FgZ1VVxEBo",
+  "duration": "1:06:48",
+  "duration_seconds": 4008.0,
+  "view_count": 8832,
+  "themes": [
+    "customer-led growth",
+    "jobs-to-be-done framework",
+    "customer journey mapping",
+    "product onboarding optimization",
+    "messaging and positioning",
+    "customer research methodology",
+    "product-market fit",
+    "SaaS growth strategies"
+  ],
+  "key_insights": [
+    "Focus on understanding your best customers (those who get value, pay, are happy, and remember life before your product) rather than trying to optimize for all users",
+    "Traditional funnels fail because they put businesses at the center instead of customers and don't account for post-acquisition retention and expansion",
+    "Map customer journeys through struggle, evaluation, and growth phases with measurable KPIs for each milestone",
+    "Better qualified customers from improved messaging can increase trial-to-paid conversion even without touching the product experience",
+    "Use customer research to identify which product features deliver the most value, then front-load those in onboarding",
+    "Jobs-to-be-done focuses on what customers are trying to accomplish rather than demographic data",
+    "Create proactive and reactive customer experiences to help users reach value milestones and catch them when they fall off",
+    "Voice-of-customer research can be done efficiently in 2-3 weeks with surveys, avoiding analysis paralysis"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder of Forget The Funnel consultancy",
+    "expertise_areas": [
+      "customer research",
+      "growth strategy",
+      "product marketing",
+      "SaaS optimization"
+    ],
+    "notable_companies": [
+      "Unbounce",
+      "Forget The Funnel"
+    ]
+  },
+  "topics_discussed": [
+    "Problems with traditional marketing funnels and pirate metrics",
+    "Customer-led growth methodology and process",
+    "Jobs-to-be-done framework application",
+    "Customer journey mapping from struggle to growth phases",
+    "Identifying and prioritizing ideal customer segments",
+    "Setting KPIs for customer journey milestones",
+    "Voice-of-customer research techniques",
+    "Messaging and positioning optimization",
+    "Product onboarding and activation strategies",
+    "SparkToro case study and results",
+    "Conversion rate optimization through better customer fit",
+    "Win-back and re-engagement strategies",
+    "Cross-functional alignment around customer understanding",
+    "Research methodology and survey design",
+    "Time management and productivity techniques"
+  ],
+  "memorable_quotes": [
+    "The problem with funnels and pirate metrics... is that nobody knows what those mean. It puts every customer in the same sort of buckets. It assumes that all customers and all products are the same.",
+    "You want to reflect them back to them. That is what is going to show them that you understand the problem that they have and that your product has exactly what it is that they need.",
+    "We often talk about it and describe it as the story of how I met and fell in love with your product."
+  ],
+  "frameworks_mentioned": [
+    "Jobs-to-be-Done (JTBD)",
+    "Customer Journey Mapping",
+    "Forget The Funnel methodology",
+    "Voice-of-Customer research",
+    "Three-phase customer journey (Struggle, Evaluation, Growth)",
+    "Time blocking and productivity systems"
+  ],
+  "recommended_for": [
+    "SaaS founders and executives",
+    "Product managers",
+    "Growth marketers",
+    "Customer success managers",
+    "Product marketing managers",
+    "UX researchers",
+    "Startup operators"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Georgiana Laudi shares her systematic approach to customer-led growth, demonstrating how deep customer research and journey mapping can unlock significant conversion improvements. She provides a practical framework for understanding your best customers and optimizing their experience from problem recognition through product adoption and expansion.",
+  "analyzed_at": "2026-01-14T15:58:52.637930+00:00",
+  "analyzer_version": "1.0.0"
+}

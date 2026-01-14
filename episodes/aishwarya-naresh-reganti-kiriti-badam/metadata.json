@@ -1,0 +1,90 @@
+{
+  "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+  "guest": "Aishwarya Naresh Reganti + Kiriti Badam",
+  "title": "Unknown",
+  "youtube_url": "",
+  "duration": "",
+  "duration_seconds": 0,
+  "view_count": 0,
+  "themes": [
+    "AI product development",
+    "Building AI agents",
+    "Product management for AI",
+    "Non-deterministic systems",
+    "Agency vs control trade-offs",
+    "AI evaluation strategies",
+    "Continuous calibration methodology",
+    "AI product lifecycle management",
+    "Enterprise AI adoption",
+    "Leadership in AI transformation"
+  ],
+  "key_insights": [
+    "AI products are fundamentally different from traditional software due to non-determinism on both input and output sides",
+    "Start with high control, low agency AI systems and gradually increase autonomy as trust is built",
+    "The agency-control trade-off is critical - every increase in AI decision-making capability requires relinquishing human control",
+    "Most AI product failures come from jumping directly to fully autonomous systems without proper calibration",
+    "Successful AI companies focus on understanding workflows deeply rather than being obsessed with the latest technology",
+    "Leaders must rebuild their intuitions and become hands-on learners to successfully guide AI transformations",
+    "Evaluation strategies should combine both structured evals and production monitoring - neither alone is sufficient",
+    "Pain is the new moat - companies that persist through the iteration cycles of AI development build competitive advantages"
+  ],
+  "guest_background": {
+    "current_role": "Aishwarya: AI consultant and course instructor; Kiriti: Works on Kodex at OpenAI",
+    "expertise_areas": [
+      "AI product development",
+      "machine learning infrastructure",
+      "AI agent deployment",
+      "enterprise AI transformation"
+    ],
+    "notable_companies": [
+      "OpenAI",
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Databricks",
+      "Kumo"
+    ]
+  },
+  "topics_discussed": [
+    "Non-deterministic nature of AI products",
+    "Agency vs control trade-offs in AI systems",
+    "Continuous Calibration Continuous Development (CCCD) framework",
+    "AI product evaluation strategies and evals debate",
+    "Customer support AI agent progression examples",
+    "Multi-agent systems misconceptions",
+    "AI product lifecycle management",
+    "Enterprise AI adoption challenges",
+    "Leadership requirements for AI transformation",
+    "Production monitoring vs evaluation datasets",
+    "Coding agents and their underutilization",
+    "Multimodal AI experiences",
+    "AI security and prompt injection risks",
+    "Building AI product flywheels",
+    "Subject matter expert involvement in AI development"
+  ],
+  "memorable_quotes": [
+    "You don't know how the user might behave with your product, and you also don't know how the LLM might respond to that.",
+    "Pain is the new moat - successful companies went through the pain of understanding what works and what doesn't work.",
+    "It's not about being the first company to have an agent among your competitors. It's about have you built the right flywheels in place so that you can improve over time."
+  ],
+  "frameworks_mentioned": [
+    "Continuous Calibration Continuous Development (CCCD)",
+    "Agency-Control Trade-off Framework",
+    "Problem-first approach",
+    "Three-stage AI agent progression (V1: suggestions, V2: drafts with human review, V3: autonomous execution)",
+    "Success triangle: great leaders, good culture, technical prowess"
+  ],
+  "recommended_for": [
+    "Product managers building AI products",
+    "AI engineers and developers",
+    "Startup founders exploring AI integration",
+    "Enterprise leaders driving AI transformation",
+    "Technical product leaders",
+    "AI consultants and strategists"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Aishwarya Reganti and Kiriti Badam share battle-tested frameworks for building successful AI products, emphasizing the importance of starting with high-control, low-agency systems and gradually increasing autonomy. They introduce their Continuous Calibration Continuous Development methodology to help teams avoid common pitfalls and build reliable AI products that don't erode customer trust.",
+  "analyzed_at": "2026-01-14T15:03:46.847664+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,85 @@
+{
+  "episode_id": "claire-butler",
+  "guest": "Claire Butler",
+  "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+  "youtube_url": "https://www.youtube.com/watch?v=UmirRfy-gzA",
+  "duration": "1:31:26",
+  "duration_seconds": 5486.0,
+  "view_count": 29014,
+  "themes": [
+    "Bottom-up go-to-market strategy",
+    "Product-led growth",
+    "Building user love and advocacy",
+    "Community-driven marketing",
+    "Early-stage startup execution",
+    "Scaling growth strategies",
+    "Designer tools and workflow",
+    "Pricing and packaging strategy",
+    "Customer obsession and feedback loops"
+  ],
+  "key_insights": [
+    "Bottom-up GTM requires two steps: get ICs to love your product, then help them spread it within organizations",
+    "Build credibility with technical audiences by having technical experts create content, not marketers",
+    "Designer advocates (technical experts without quotas) significantly improve sales conversion rates",
+    "Focus on one distribution channel initially - for Figma it was Twitter where the design community already existed",
+    "Turn your biggest adoption blocker into your biggest advantage - design systems became Figma's key enterprise feature",
+    "Pricing should enable viral spread: unlimited collaborators/viewers, only charge for editors",
+    "You can't optimize your way to product-market-fit in early stages - focus on signal over metrics",
+    "Transparency and authenticity become harder but more important as you scale"
+  ],
+  "guest_background": {
+    "current_role": "Go-to-market leader at Figma",
+    "expertise_areas": [
+      "Go-to-market strategy",
+      "Product marketing",
+      "Community building",
+      "Bottom-up growth"
+    ],
+    "notable_companies": [
+      "Figma"
+    ]
+  },
+  "topics_discussed": [
+    "Figma's early days and stealth launch decision",
+    "Bottom-up vs top-down go-to-market motions",
+    "Building credibility with technical audiences",
+    "Designer advocate role and 'Tom Factor'",
+    "Twitter strategy and influence mapping",
+    "Design systems as enterprise adoption driver",
+    "Freemium pricing strategy and packaging decisions",
+    "Config conference as scaling mechanism",
+    "Internal champion identification and nurturing",
+    "Microsoft adoption case study",
+    "Node graphs for tracking viral spread",
+    "Quality weeks and 'little big updates'",
+    "Transparency during Adobe acquisition announcement",
+    "Scaling community-driven growth",
+    "FigJam launch and expansion strategy"
+  ],
+  "memorable_quotes": [
+    "You can't optimize your way to product market fit. I don't care at the early stages if something's optimized by 5% from an email.",
+    "If I understood it, it was probably too basic, or if I could have written it myself, it was probably too basic.",
+    "They love you so much that they're willing to put their social capital and themselves on the line and spread the product throughout whatever their communities are."
+  ],
+  "frameworks_mentioned": [
+    "Two-step bottom-up go-to-market framework",
+    "Four pillars for building user love (credibility, building with users, distribution channels, transparency)",
+    "Four elements for organizational spread (easy sharing, advocates, operational unlock, champion nurturing)",
+    "Signal over metrics approach for early-stage",
+    "Node graph analysis for viral tracking"
+  ],
+  "recommended_for": [
+    "Early-stage startup founders",
+    "Product marketers",
+    "Go-to-market leaders",
+    "B2B SaaS professionals",
+    "Community builders",
+    "Product managers working on technical tools",
+    "Growth strategists"
+  ],
+  "sentiment": "conversational",
+  "difficulty_level": "intermediate",
+  "summary": "Claire Butler shares Figma's unique bottom-up go-to-market strategy, revealing how they built a multi-billion dollar business by first making individual contributors love the product, then helping them spread it within organizations through technical credibility, designer advocates, and community-driven growth.",
+  "analyzed_at": "2026-01-14T15:44:03.628541+00:00",
+  "analyzer_version": "1.0.0"
+}

@@ -1,0 +1,85 @@
+{
+  "episode_id": "claire-vo",
+  "guest": "Claire Vo",
+  "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+  "youtube_url": "https://www.youtube.com/watch?v=aXGo1o_baBo",
+  "duration": "1:27:45",
+  "duration_seconds": 5265.0,
+  "view_count": 29347,
+  "themes": [
+    "career advancement strategies",
+    "product management leadership",
+    "AI impact on product management",
+    "women in tech leadership",
+    "startup vs enterprise culture",
+    "organizational design",
+    "product-engineering integration",
+    "high-performance team building"
+  ],
+  "key_insights": [
+    "Know what you want in your career, be clear about it, and make it easy for your boss to help you get there by solving company problems",
+    "Set expectations one click faster - if something needs to be done this year, do it this half; this quarter, this month",
+    "The universe is bendable to your will - organizations are fluid and can be reorganized around talented, motivated individuals",
+    "Clear feedback is kind - conflict-avoidant cultures degrade talent bars and don't help people succeed",
+    "AI will likely replace lowercase 'c' communication (functional information trading) but not capital 'C' communication (influence, boldness, charisma)",
+    "CPTO roles combining product and engineering work when you have a leader who can optimize for the whole organization rather than individual functions",
+    "Focus on your zone of genius - where you're exceptional, where no one else can do the job as well, and where you derive joy"
+  ],
+  "guest_background": {
+    "current_role": "Chief Product Officer at LaunchDarkly",
+    "expertise_areas": [
+      "product management",
+      "engineering leadership",
+      "AI tools",
+      "organizational design",
+      "startup founding"
+    ],
+    "notable_companies": [
+      "LaunchDarkly",
+      "Color",
+      "Optimizely",
+      "Experiment Engine (founder)"
+    ]
+  },
+  "topics_discussed": [
+    "Career progression from APM to CPO",
+    "Asking for promotions and career growth",
+    "Creating fast-paced culture in larger companies",
+    "Setting high talent and product quality bars",
+    "Women in tech experiences and challenges",
+    "CPTO role combining product and engineering",
+    "ChatPRD development and monetization",
+    "AI impact on product management skills",
+    "Sales-led vs product-led organizations",
+    "Organizational design around talent",
+    "Zone of genius concept",
+    "Feedback culture and clear communication",
+    "Startup acquisition experience while pregnant",
+    "Building AI-powered products"
+  ],
+  "memorable_quotes": [
+    "The universe is bendable to your will - organizations are very fluid and I like to organize around talented motivated individuals",
+    "Clear is kind - conflict-avoidant, feedback-avoidant cultures degrade the talent bar",
+    "Fast beats right - when debating between noodling for a thousand years vs making a decision and executing, fast consistently wins"
+  ],
+  "frameworks_mentioned": [
+    "Zone of genius identification",
+    "One click faster pace setting",
+    "Energy audit for career decisions",
+    "CPTO organizational model",
+    "Clear feedback methodology"
+  ],
+  "recommended_for": [
+    "product managers seeking career advancement",
+    "senior product leaders",
+    "women in tech leadership roles",
+    "startup founders and executives",
+    "engineering managers transitioning to broader roles",
+    "professionals interested in AI's impact on PM work"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Claire Vo shares her journey from APM to CPO across multiple companies, offering tactical advice on career advancement, building high-performance teams, and navigating the changing landscape of product management with AI. She emphasizes taking agency over your career, bending organizations around talent, and maintaining both speed and quality in execution.",
+  "analyzed_at": "2026-01-14T15:44:24.623594+00:00",
+  "analyzer_version": "1.0.0"
+}

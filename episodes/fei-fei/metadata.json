@@ -1,0 +1,87 @@
+{
+  "episode_id": "fei-fei",
+  "guest": "Fei Fei",
+  "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+  "youtube_url": "https://www.youtube.com/watch?v=Ctjiatnd6Xk",
+  "duration": "1:19:34",
+  "duration_seconds": 4774.0,
+  "view_count": 139609,
+  "themes": [
+    "artificial intelligence history and evolution",
+    "world models and spatial intelligence",
+    "AI's impact on humanity and jobs",
+    "computer vision and visual intelligence",
+    "robotics and embodied AI",
+    "entrepreneurship in deep tech",
+    "human-centered AI development",
+    "career advancement in tech",
+    "responsible AI development"
+  ],
+  "key_insights": [
+    "AI was considered a 'dirty word' by tech companies as late as 2016, showing how rapidly perceptions can change",
+    "The combination of big data (ImageNet), neural networks, and GPUs created the foundation for modern AI",
+    "World models represent the next frontier in AI by enabling spatial intelligence and 3D world understanding",
+    "Robots need to understand 3D actions in 3D worlds, making them fundamentally different from language models",
+    "Being intellectually fearless and focusing on mission over every job dimension is crucial for career impact",
+    "AI development should prioritize human dignity and agency rather than just productivity gains",
+    "The 'bitter lesson' of AI (simple models with more data beat complex models) may not fully apply to robotics",
+    "Every person, regardless of profession, has a role to play in AI's development and governance"
+  ],
+  "guest_background": {
+    "current_role": "Co-founder and CEO of World Labs, Co-director of Stanford HAI",
+    "expertise_areas": [
+      "computer vision",
+      "artificial intelligence",
+      "spatial intelligence",
+      "robotics",
+      "human-centered AI"
+    ],
+    "notable_companies": [
+      "World Labs",
+      "Google Cloud",
+      "Stanford AI Lab",
+      "ImageNet"
+    ]
+  },
+  "topics_discussed": [
+    "History of AI from the 1950s to present",
+    "Creation and impact of ImageNet dataset",
+    "The AI winter and subsequent revival",
+    "World models vs. language models",
+    "Spatial intelligence and visual cognition",
+    "Robotics challenges and data requirements",
+    "Launch of Marble product and World Labs",
+    "Applications in VFX, gaming, and simulation",
+    "Competition for AI talent",
+    "Human-Centered AI Institute at Stanford",
+    "AI policy and governance",
+    "Career advice for technologists",
+    "AI's impact on various professions",
+    "The future of embodied AI and robotics"
+  ],
+  "memorable_quotes": [
+    "There's nothing artificial about AI. It's inspired by people, it's created by people, and most importantly, it impacts people.",
+    "We operate on about 20 watts. That's dimmer than any light bulb in the room I'm in right now. And yet we can do so much.",
+    "No technology should take away human dignity and the human dignity and agency should be at the heart of the development, the deployment, as well as the governance of every technology."
+  ],
+  "frameworks_mentioned": [
+    "The bitter lesson (simple models with more data beat complex models)",
+    "Three pillars of modern AI: big data, neural networks, and GPUs",
+    "Human-centered AI development framework",
+    "Spatial intelligence as complement to language models"
+  ],
+  "recommended_for": [
+    "AI researchers and engineers",
+    "Tech entrepreneurs and founders",
+    "Product managers in AI companies",
+    "Computer vision professionals",
+    "Robotics engineers",
+    "Technology policy makers",
+    "Anyone interested in AI's societal impact"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Dr. Fei-Fei Li, known as the 'godmother of AI,' shares the untold history of how ImageNet sparked the AI revolution and discusses her new frontier work in world models and spatial intelligence. She emphasizes the importance of human-centered AI development and provides career advice for technologists while showcasing World Labs' groundbreaking Marble product.",
+  "analyzed_at": "2026-01-14T15:56:37.229086+00:00",
+  "analyzer_version": "1.0.0"
+}

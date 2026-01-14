@@ -1,0 +1,83 @@
+{
+  "episode_id": "emily-kramer",
+  "guest": "Emily Kramer",
+  "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+  "youtube_url": "https://www.youtube.com/watch?v=gzs61z9Fekw",
+  "duration": "1:10:54",
+  "duration_seconds": 4254.0,
+  "view_count": 12766,
+  "themes": [
+    "marketing team building",
+    "startup growth strategies",
+    "product-marketing collaboration",
+    "hiring and team structure",
+    "go-to-market strategy",
+    "angel investing",
+    "marketing effectiveness measurement",
+    "business model optimization"
+  ],
+  "key_insights": [
+    "Think of marketing as fuel (content, messaging, positioning) and engine (distribution, channels, operations) - identify which constraint is bigger before hiring",
+    "Hire pie-shaped marketers with expertise in one area, proficiency in another, and ability to set strategy across all marketing functions",
+    "Product marketers should understand the product, audience, and market to communicate the right things at the right time",
+    "Marketing teams should focus on impact goals (conversion rates, qualified leads) rather than activity goals (number of blog posts)",
+    "Clear Areas of Responsibility (AOR) lists prevent confusion and improve cross-functional collaboration",
+    "Great marketing requires both strategic thinking and scrappy execution - avoid hiring senior people who only worked at large companies",
+    "Use frameworks like GACCS (Goals, Audience, Creative, Channels, Stakeholders) for marketing project planning"
+  ],
+  "guest_background": {
+    "current_role": "Angel investor and fund manager at Market 1 Capital",
+    "expertise_areas": [
+      "B2B marketing",
+      "team building",
+      "startup growth",
+      "angel investing"
+    ],
+    "notable_companies": [
+      "Asana",
+      "Carta",
+      "Ticketfly",
+      "Astro (acquired by Slack)"
+    ]
+  },
+  "topics_discussed": [
+    "Common mistakes in hiring first marketing person",
+    "Marketing archetypes: content, growth, and product marketing",
+    "Fuel vs engine framework for marketing functions",
+    "Business model impact on marketing strategy",
+    "Product-led growth vs traditional sales models",
+    "Cross-functional collaboration between product and marketing",
+    "Marketing effectiveness measurement and red flags",
+    "Interview techniques for marketing roles",
+    "When to hire your first marketer",
+    "Building marketing teams from scratch",
+    "Angel investing strategy for functional experts",
+    "Marketing operations and technology stack",
+    "Brand marketing vs other marketing functions",
+    "Growth PM vs marketing roles in PLG companies"
+  ],
+  "memorable_quotes": [
+    "Forget the product marketing content partner, demand and growth, forget all of it, and just think of marketing as you need a fuel and you need an engine.",
+    "Product led growth is a misnomer. I think people will do anything they can possibly do not call marketing marketing.",
+    "You shouldn't have activity goals, you should have impact goals."
+  ],
+  "frameworks_mentioned": [
+    "Fuel vs Engine marketing framework",
+    "Pie-shaped marketer model (vs T-shaped)",
+    "GACCS framework (Goals, Audience, Creative, Channels, Stakeholders)",
+    "Areas of Responsibility (AOR) lists",
+    "Three marketing archetypes: content/community, growth/demand gen, product marketing"
+  ],
+  "recommended_for": [
+    "Startup founders preparing to hire marketing talent",
+    "Product managers working with marketing teams",
+    "Early-stage marketing professionals",
+    "Functional experts considering angel investing",
+    "B2B startup operators and leaders"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Marketing expert Emily Kramer provides a comprehensive guide to building effective marketing teams at B2B startups, covering hiring strategies, team structures, and frameworks for product-marketing collaboration. She emphasizes the importance of understanding whether you need 'fuel' (content and messaging) or 'engine' (distribution and operations) before making your first marketing hire.",
+  "analyzed_at": "2026-01-14T15:52:42.394133+00:00",
+  "analyzer_version": "1.0.0"
+}

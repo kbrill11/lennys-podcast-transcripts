@@ -1,0 +1,91 @@
+{
+  "episode_id": "farhan-thawar",
+  "guest": "Farhan Thawar",
+  "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+  "youtube_url": "https://www.youtube.com/watch?v=C_lhMOjG7PE",
+  "duration": "1:40:03",
+  "duration_seconds": 6003.0,
+  "view_count": 23570,
+  "themes": [
+    "creating organizational intensity",
+    "choosing the harder path",
+    "hiring and talent acquisition",
+    "pair programming methodology",
+    "remote-first culture",
+    "engineering leadership",
+    "code simplification and deletion",
+    "platform thinking vs features",
+    "continuous feedback loops",
+    "first principles thinking"
+  ],
+  "key_insights": [
+    "Choose the harder path because even if you fail, you learn more and work with smarter people than taking the easy route",
+    "Pair programming is the most underutilized management tool in engineering - two people on one computer write better code faster",
+    "Create intensity through weekly updates (GSD), six-week reviews, and regular check-ins rather than expanding work hours",
+    "Delete code regularly - Shopify has a 'Delete Code Club' and routinely removes millions of lines to improve maintainability",
+    "Think platform-first: build infrastructure that enables anyone to build features in one hour rather than building point solutions",
+    "Hire through job trials and internships rather than traditional interviews - work product over resume evaluation",
+    "Micromanagement isn't bad if it means pairing on problems rather than just checking status",
+    "Everything you know might be wrong - maintain beginner's mind and experiment constantly"
+  ],
+  "guest_background": {
+    "current_role": "VP and Head of Engineering at Shopify",
+    "expertise_areas": [
+      "engineering leadership",
+      "mobile development",
+      "pair programming",
+      "hiring at scale",
+      "organizational design"
+    ],
+    "notable_companies": [
+      "Shopify",
+      "XtremeLabs",
+      "Pivotal",
+      "Microsoft"
+    ]
+  },
+  "topics_discussed": [
+    "The philosophy of choosing harder paths for better outcomes",
+    "Being comfortable with looking stupid and asking dumb questions",
+    "Working with visionary leaders (billionaires) each decade",
+    "Creating organizational intensity through systems and cadence",
+    "Pair programming as a management and development tool",
+    "Weekly GSD (Get Shit Done) updates and six-week review cycles",
+    "Meeting Armageddon - deleting all recurring meetings annually",
+    "Moving from Slack to Facebook Workplace for announcements",
+    "Code deletion culture and simplification practices",
+    "Platform thinking vs feature development",
+    "Hiring philosophy focused on job trials over interviews",
+    "Internship program scaling to 1000 hires in 2025",
+    "Remote-first culture with intentional in-person experiences",
+    "Managing 120 direct reports through systems not meetings",
+    "Career failures including React Native decision at Shopify"
+  ],
+  "memorable_quotes": [
+    "Not everyone can look stupid in public over and over, but I believe it's my superpower",
+    "If you do the hard path and it doesn't work, actually you still win because you've now done something hard",
+    "Everyone says, 'Oh yeah, work hard and do more hours when you're young, whatever.' I'm like, 'What if you just did more per minute?'"
+  ],
+  "frameworks_mentioned": [
+    "Trust battery concept",
+    "GSD (Get Shit Done) weekly updates",
+    "Six-week review cycles",
+    "OK1/OK2 approval process",
+    "Code Yellow incident response",
+    "Life story interview approach",
+    "Experiment vs Feature vs Infrastructure categorization"
+  ],
+  "recommended_for": [
+    "engineering leaders",
+    "CTOs and VPs of Engineering",
+    "startup founders",
+    "product managers working with engineering",
+    "anyone building remote-first organizations",
+    "leaders focused on organizational velocity"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Farhan Thawar shares Shopify's unique approach to building high-intensity engineering culture through pair programming, strategic meeting cadences, and choosing harder paths that lead to better long-term outcomes. He provides tactical advice on hiring, managing large teams, and creating systems that enable velocity without burning out people.",
+  "analyzed_at": "2026-01-14T15:56:16.931296+00:00",
+  "analyzer_version": "1.0.0"
+}

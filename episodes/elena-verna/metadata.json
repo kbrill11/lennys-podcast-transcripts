@@ -1,0 +1,90 @@
+{
+  "episode_id": "elena-verna",
+  "guest": "Elena Verna",
+  "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+  "youtube_url": "https://www.youtube.com/watch?v=IHwS2By9UKM",
+  "duration": "1:35:10",
+  "duration_seconds": 5710.0,
+  "view_count": 94594,
+  "themes": [
+    "growth strategy failures",
+    "hiring and team building",
+    "product-led growth",
+    "career development",
+    "experimentation and testing",
+    "competitive analysis",
+    "growth frameworks",
+    "channel strategy",
+    "startup scaling"
+  ],
+  "key_insights": [
+    "Don't hire a head of growth until you have solid product-market fit and significant data volume - founders should lead growth initially",
+    "If your business growth is declining, hiring a growth team won't fix the underlying product or market issues",
+    "Homepage redesigns and rebrands typically hurt performance initially and require 3-6 months of optimization to recover",
+    "Focus 20-25% of growth team time annually on building owned/earned channels rather than relying entirely on paid acquisition",
+    "Testing everything creates paralysis - use pre/post analysis for low-traffic areas and reserve A/B tests for high-impact, high-volume initiatives",
+    "Your growth problems aren't unique - talk to people who've solved similar issues rather than starting from scratch",
+    "Diversify growth models every 18 months and expect to need new major growth engines every 5 years",
+    "Career optionality should be the north star rather than chasing specific titles or roles"
+  ],
+  "guest_background": {
+    "current_role": "Growth advisor and consultant",
+    "expertise_areas": [
+      "B2B growth",
+      "product-led growth",
+      "growth team building",
+      "retention strategies"
+    ],
+    "notable_companies": [
+      "Miro",
+      "Amplitude",
+      "Dropbox",
+      "SurveyMonkey",
+      "Superhuman",
+      "MongoDB"
+    ]
+  },
+  "topics_discussed": [
+    "10 growth tactics that never work",
+    "When to hire your first head of growth",
+    "Why growth teams can't fix declining businesses",
+    "Problems with homepage redesigns and rebrands",
+    "Copying competition vs. using for inspiration",
+    "Building earned vs. paid acquisition channels",
+    "Overlaying multiple growth models",
+    "Over-experimentation and analysis paralysis",
+    "Color optimization and friction removal myths",
+    "Third-party auth and email marketing misconceptions",
+    "Growth loops framework",
+    "Race car growth framework",
+    "Adjacent user theory",
+    "Career optionality vs. title chasing",
+    "Alternative career paths beyond full-time employment"
+  ],
+  "memorable_quotes": [
+    "To figure out your product market fit and how to distribute it, it's not something that you can outsource to somebody.",
+    "Never ever once have I seen a rebrand or redesign, especially of a marketing site, produce good performance results.",
+    "Your problem is not unique. I am 99% sure of that. Your problem has been felt by somebody somewhere in probably many, many places."
+  ],
+  "frameworks_mentioned": [
+    "Growth loops framework",
+    "Race car framework (by Lenny Rachitsky)",
+    "Adjacent user theory (by Bengali)",
+    "Product-market fit assessment",
+    "Law of Shitty Clickthroughs"
+  ],
+  "recommended_for": [
+    "heads of growth",
+    "growth marketers",
+    "product managers working on growth",
+    "startup founders",
+    "growth team members",
+    "product-led growth practitioners",
+    "career-focused professionals"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Elena Verna shares 10 common growth tactics that consistently fail, from hiring growth teams too early to obsessing over homepage redesigns. She emphasizes building owned acquisition channels, avoiding over-experimentation, and viewing career development through the lens of optionality rather than titles.",
+  "analyzed_at": "2026-01-14T15:50:43.364080+00:00",
+  "analyzer_version": "1.0.0"
+}

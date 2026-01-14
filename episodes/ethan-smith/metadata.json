@@ -1,0 +1,88 @@
+{
+  "episode_id": "ethan-smith",
+  "guest": "Ethan Smith",
+  "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+  "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc",
+  "duration": "1:11:56",
+  "duration_seconds": 4316.0,
+  "view_count": 98036,
+  "themes": [
+    "answer engine optimization (AEO)",
+    "SEO evolution and AI impact",
+    "citation optimization strategies",
+    "content quality vs AI-generated content",
+    "growth channel diversification",
+    "experiment design and measurement",
+    "Reddit and community optimization",
+    "B2B vs consumer optimization differences"
+  ],
+  "key_insights": [
+    "AEO requires being mentioned frequently across citations rather than just ranking #1, unlike traditional SEO",
+    "Early-stage companies can win at AEO quickly through citations, whereas SEO typically requires established domain authority",
+    "LLM traffic converts 6x better than Google search traffic due to higher intent and conversational priming",
+    "Reddit optimization works best through authentic participation rather than spam - identify as yourself and provide genuine value",
+    "AI-generated content doesn't work for ranking - only 10-12% of top results are AI-generated despite 50%+ of web content being AI-created",
+    "The 'long tail' of questions is much larger in chat (25 words avg) vs search (6 words), creating new opportunities",
+    "Help center optimization is crucial for AEO since people ask specific feature/integration questions",
+    "Answer tracking requires measuring share of voice across multiple LLMs and question variants, not just single rankings"
+  ],
+  "guest_background": {
+    "current_role": "CEO of Graphite",
+    "expertise_areas": [
+      "SEO",
+      "Answer Engine Optimization",
+      "Growth",
+      "Programmatic SEO"
+    ],
+    "notable_companies": [
+      "Graphite",
+      "NexTag",
+      "Shopping.com",
+      "PriceGrabber"
+    ]
+  },
+  "topics_discussed": [
+    "Definition and differences between AEO and GEO",
+    "ChatGPT vs traditional Google search traffic quality",
+    "Seven-step AEO implementation framework",
+    "Citation optimization across YouTube, Reddit, affiliates",
+    "Answer tracking tools and measurement strategies",
+    "Experiment design with control groups for AEO",
+    "AI-generated content study results and effectiveness",
+    "Model collapse and wisdom of crowds in AI systems",
+    "Help center optimization for long-tail questions",
+    "B2B vs commerce optimization differences",
+    "Reddit community engagement strategies",
+    "Landing page creation for question targeting",
+    "Video content opportunities in B2B niches",
+    "Misinformation about Google search decline",
+    "Team structure and hiring for AEO success"
+  ],
+  "memorable_quotes": [
+    "You are playing the game whether you want to or not, so you might as well try to show up. If you just say, 'Don't look at any of my data,' then you cannot show up and your competitors will.",
+    "Early-stage companies can win, they can win quickly... You can have a Reddit thread, you can have a YouTube video... They could show up in an answer tomorrow.",
+    "There's more AI-generated content on the internet than human-generated content, which is disturbing."
+  ],
+  "frameworks_mentioned": [
+    "Seven-step AEO implementation process",
+    "Head vs tail optimization strategy",
+    "Citation categorization (onsite, video, UGC, affiliates, blogs)",
+    "Control group experiment design",
+    "Information gain and typicality content scoring",
+    "Topic-based keyword clustering",
+    "Share of voice measurement across LLMs"
+  ],
+  "recommended_for": [
+    "SEO professionals and agencies",
+    "Growth marketers and heads of growth",
+    "Content strategists and managers",
+    "B2B SaaS marketing teams",
+    "Startup founders focused on organic growth",
+    "Digital marketing consultants"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "intermediate",
+  "summary": "Ethan Smith provides a comprehensive guide to Answer Engine Optimization (AEO), explaining how to get products featured in ChatGPT and other AI responses through citation optimization, authentic community engagement, and strategic content creation. He debunks myths about AI-generated content while offering a practical 7-step framework for winning in this emerging channel.",
+  "analyzed_at": "2026-01-14T15:54:39.761641+00:00",
+  "analyzer_version": "1.0.0"
+}

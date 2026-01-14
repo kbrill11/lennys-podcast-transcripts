@@ -1,0 +1,88 @@
+{
+  "episode_id": "dan-hockenmaier",
+  "guest": "Dan Hockenmaier",
+  "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+  "youtube_url": "https://www.youtube.com/watch?v=AlTQ6O2qooI",
+  "duration": "1:04:06",
+  "duration_seconds": 3846.0,
+  "view_count": 32719,
+  "themes": [
+    "growth models",
+    "marketplace strategy",
+    "unit economics",
+    "customer retention",
+    "liquidity optimization",
+    "supply and demand dynamics",
+    "marketplace expansion",
+    "product-market fit",
+    "network effects"
+  ],
+  "key_insights": [
+    "50% of a growth model's value comes from building it - forces understanding of how business works",
+    "Retention is typically more impactful than acquisition but harder to move - focus on early user experience",
+    "Marketplaces require 'gardener' approach with light touch vs 'construction worker' approach of SaaS",
+    "Demand aggregation is ultimately what matters most - supply follows strong demand",
+    "Liquidity (reliability of marketplace) is the critical metric before anything else matters",
+    "Share of wallet indicates depth over breadth and creates defensibility through reduced multi-tenanting",
+    "Unbundling opportunities are rarer than thought - scale benefits usually outweigh UX improvements",
+    "Newer marketplaces charge higher commissions by doing more work in the value chain"
+  ],
+  "guest_background": {
+    "current_role": "Head of Strategy and Analytics at Faire",
+    "expertise_areas": [
+      "marketplace strategy",
+      "growth models",
+      "analytics",
+      "unit economics"
+    ],
+    "notable_companies": [
+      "Thumbtack",
+      "Faire",
+      "Basis One (consulting firm)"
+    ]
+  },
+  "topics_discussed": [
+    "Building growth models for different business types",
+    "Core components: acquisition, retention, monetization",
+    "Marketplace health metrics (GMV, unit economics, liquidity, share of wallet)",
+    "Supply vs demand prioritization strategies",
+    "Dual-sided ROI equations for marketplaces",
+    "Marketplace expansion strategies and prioritization",
+    "Vertical vs horizontal marketplace decisions",
+    "Adding SaaS components to marketplaces",
+    "Market fragmentation importance for B2B marketplaces",
+    "Future evolution of marketplaces toward higher commissions",
+    "When marketplaces evolve beyond marketplace model",
+    "Liquidity metrics and customer experience optimization",
+    "Network effects and cross-selling opportunities",
+    "Retention improvement through early user experience",
+    "Marketplace pricing complexity and second-order effects"
+  ],
+  "memorable_quotes": [
+    "If you think about running a marketplace, you're basically a gardener. You have to have a very light touch.",
+    "Demand is the currency. If you are successful at aggregating the demand in your industry, you will have the winning marketplace.",
+    "The more painful the process of building [a growth model] is, probably the more you're learning."
+  ],
+  "frameworks_mentioned": [
+    "Growth model building blocks (acquisition, retention, monetization)",
+    "Dual-sided ROI equations for marketplaces",
+    "Liquidity measurement framework",
+    "Share of wallet optimization",
+    "Marketplace evolution stages (1.0 aggregation, managed, heavily managed)",
+    "Market fragmentation analysis",
+    "Network effect expansion criteria"
+  ],
+  "recommended_for": [
+    "marketplace founders and operators",
+    "growth strategists",
+    "product managers at two-sided platforms",
+    "analysts working on marketplace businesses",
+    "investors evaluating marketplace opportunities",
+    "strategy consultants"
+  ],
+  "sentiment": "tactical",
+  "difficulty_level": "advanced",
+  "summary": "Dan Hockenmaier shares deep expertise on building growth models and scaling marketplaces, covering everything from core metrics and expansion strategies to the nuanced dynamics of supply-demand optimization. The conversation provides actionable frameworks for marketplace operators while exploring the strategic evolution of the marketplace business model.",
+  "analyzed_at": "2026-01-14T15:45:35.596546+00:00",
+  "analyzer_version": "1.0.0"
+}

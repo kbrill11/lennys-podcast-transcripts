@@ -1,0 +1,91 @@
+{
+  "episode_id": "hilary-gridley",
+  "guest": "Hilary Gridley",
+  "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+  "youtube_url": "https://www.youtube.com/watch?v=xm5QAzAlqEY",
+  "duration": "1:54:40",
+  "duration_seconds": 6880.0,
+  "view_count": 15779,
+  "themes": [
+    "product leadership",
+    "team resilience",
+    "dealing with adversity",
+    "AI adoption and learning",
+    "mental models and understanding others",
+    "habit formation",
+    "behavioral psychology",
+    "self care and work life balance",
+    "cognitive behavioral therapy techniques",
+    "organizational dynamics"
+  ],
+  "key_insights": [
+    "When facing criticism or setbacks, focus on actions that demonstrate the opposite of what you fear others think about you rather than trying to argue or explain",
+    "Understanding how key stakeholders think is more valuable than knowing what they think - build mental models of their decision making frameworks",
+    "Use 'magic questions' (statements ending with 'do you agree?' or 'is that right?') to quickly understand another person's mental model",
+    "Create habit formation through consistency, reduced friction, and powerful immediate emotional rewards",
+    "AI can dramatically accelerate learning by providing on demand feedback and unlimited practice opportunities",
+    "Product leaders should focus on operationalizing the CEO's vision rather than trying to impose their own",
+    "Behavioral activation (taking action to improve mood) is more effective than waiting to feel better before acting",
+    "Reward loops need to be powerful, immediate, and emotional to drive lasting behavior change"
+  ],
+  "guest_background": {
+    "current_role": "Head of Core Product at Whoop",
+    "expertise_areas": [
+      "product management",
+      "team leadership",
+      "AI adoption",
+      "behavioral psychology",
+      "health tech"
+    ],
+    "notable_companies": [
+      "Whoop",
+      "Big Health",
+      "Dropbox"
+    ]
+  },
+  "topics_discussed": [
+    "Building teams that can handle adversity and setbacks",
+    "Counter programming narratives when facing criticism",
+    "Understanding stakeholder mental models and decision making frameworks",
+    "Using AI for accelerated learning and skill development",
+    "Habit formation principles in product design and team management",
+    "Behavioral activation techniques from cognitive behavioral therapy",
+    "The relationship between product leaders and CEO vision",
+    "Creating space for creativity and self care as a leader",
+    "Whoop 5.0 product launch and new health features",
+    "Using reward loops to drive user behavior change",
+    "Magic questions technique for understanding others",
+    "Managing through uncertainty and ambiguity",
+    "Building AI powered learning tools and GPTs",
+    "Balancing obsession with responsibility in product work",
+    "The importance of fiction reading for developing empathy and perspective"
+  ],
+  "memorable_quotes": [
+    "Product leadership is the type of role where if you are not in control of the voices in your head, they will eat you alive.",
+    "What is the action that you can take to counter program the narrative that you are afraid that this other person has of you?",
+    "You're not special. In the story of work, you are probably not the protagonist."
+  ],
+  "frameworks_mentioned": [
+    "behavioral activation",
+    "cognitive behavioral therapy techniques",
+    "habit formation framework",
+    "mental model building",
+    "magic questions technique",
+    "counter programming strategy",
+    "reward loop design"
+  ],
+  "recommended_for": [
+    "product managers",
+    "engineering managers",
+    "startup founders",
+    "team leads",
+    "anyone managing teams through difficult challenges",
+    "professionals interested in AI adoption",
+    "health tech professionals"
+  ],
+  "sentiment": "inspiring",
+  "difficulty_level": "intermediate",
+  "summary": "Hilary Gridley shares practical frameworks for building resilient teams that can handle adversity, including techniques from behavioral psychology for 'taking punches' and bouncing back from setbacks. She emphasizes understanding stakeholder mental models, using AI for accelerated learning, and the importance of self care in sustaining high performance leadership.",
+  "analyzed_at": "2026-01-14T16:33:37.267750+00:00",
+  "analyzer_version": "1.0.0"
+}
