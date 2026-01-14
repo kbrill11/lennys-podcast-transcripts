@@ -1,0 +1,6 @@
+anthropic>=0.34.0
+pyyaml>=6.0
+wordcloud>=1.9.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+tqdm>=4.66.0
