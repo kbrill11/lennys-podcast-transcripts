@@ -86,5 +86,6 @@
   "difficulty_level": "intermediate",
   "summary": "Geoffrey Moore, author of 'Crossing the Chasm,' explains his seminal framework for helping B2B technology companies navigate the critical transition from early adopters to mainstream markets. The conversation provides tactical advice on target market selection, customer development, and go-to-market strategy for different phases of the technology adoption lifecycle.",
   "analyzed_at": "2026-01-14T15:58:06.295686+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2022-11-17"
 }

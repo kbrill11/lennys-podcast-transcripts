@@ -82,5 +82,6 @@
   "difficulty_level": "intermediate",
   "summary": "Alexander Embiricos shares how OpenAI built Codex into a 20x growing coding agent, revealing insights about AI product development, the future of software engineering, and how teams can dramatically accelerate productivity with AI coding tools. The conversation provides a rare inside look at OpenAI's bottom-up culture and practical advice for leveraging AI agents effectively.",
   "analyzed_at": "2026-01-14T15:26:15.681858+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2023-09-24"
 }

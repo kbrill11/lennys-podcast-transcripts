@@ -82,5 +82,6 @@
   "difficulty_level": "advanced",
   "summary": "Bob Baxley shares 35 years of product design wisdom from Apple, Pinterest, and other top companies, covering everything from organizational structure and team dynamics to the moral obligation of building great software. He provides counterintuitive insights on design leadership, including why design should report to engineering and why you should delay creating prototypes, while emphasizing that software is a powerful emotional medium that requires thoughtful stewardship.",
   "analyzed_at": "2026-01-14T15:34:57.247433+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-06-12"
 }

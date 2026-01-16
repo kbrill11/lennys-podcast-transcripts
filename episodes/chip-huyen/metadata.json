@@ -80,5 +80,6 @@
   "difficulty_level": "intermediate",
   "summary": "Chip Huyen breaks down the technical fundamentals of AI product development, emphasizing that success comes from focusing on users and data quality rather than chasing the latest models. She provides practical insights on evaluations, RAG systems, and organizational changes needed for effective AI adoption.",
   "analyzed_at": "2026-01-14T15:41:34.123098+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-02-09"
 }

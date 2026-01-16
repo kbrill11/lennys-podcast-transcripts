@@ -83,5 +83,6 @@
   "difficulty_level": "intermediate",
   "summary": "David Singleton shares Stripe's systematic approach to building exceptional products through user co-creation, engineering excellence, and operational discipline. The episode reveals specific frameworks like friction logging and engineer-cations that enable Stripe to maintain 99.999% uptime while deploying code 16+ times daily and building products that users love.",
   "analyzed_at": "2026-01-14T15:46:40.206023+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2023-05-04"
 }

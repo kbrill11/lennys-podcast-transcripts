@@ -80,5 +80,6 @@
   "difficulty_level": "intermediate",
   "summary": "Block's CTO Dhanji Prasanna shares how the company became one of the most AI-native enterprises through organizational restructuring, building the open-source Goose AI agent, and achieving 20-25% productivity gains. The conversation covers practical AI implementation strategies, leadership lessons, and the counterintuitive insight that code quality doesn't correlate with product success.",
   "analyzed_at": "2026-01-14T15:47:20.010986+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-10-26"
 }

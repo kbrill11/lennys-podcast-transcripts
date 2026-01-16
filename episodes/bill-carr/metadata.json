@@ -94,5 +94,6 @@
   "difficulty_level": "intermediate",
   "summary": "Bill Carr, former Amazon VP and co-author of 'Working Backwards,' shares detailed insights into Amazon's revolutionary business processes including single-threaded leadership, PR/FAQ product development, and input metrics. He provides tactical advice for implementing these practices at other companies while explaining the organizational design principles that enabled Amazon's sustained innovation and scale.",
   "analyzed_at": "2026-01-14T15:34:32.942577+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2023-11-02"
 }

@@ -79,5 +79,6 @@
   "difficulty_level": "intermediate",
   "summary": "Dylan Field shares insights on building Figma from a 3.5-year development cycle to a 1000+ person company, covering product philosophy, the evolution of product management, and how AI is reshaping the importance of design craft. The conversation offers practical frameworks for simplification, shipping fast, and scaling leadership while maintaining product quality.",
   "analyzed_at": "2026-01-14T15:49:08.749449+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-10-16"
 }

@@ -81,5 +81,6 @@
   "difficulty_level": "intermediate",
   "summary": "Garrett Lord shares how Handshake built a $50M ARR AI data labeling business in 4 months by leveraging their network of university students and experts to create high-quality training data for frontier AI models. The episode reveals the mechanics of AI model training, the shift from generalist to expert data work, and proven strategies for launching successful new businesses within existing companies.",
   "analyzed_at": "2026-01-14T15:56:59.799288+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-08-24"
 }

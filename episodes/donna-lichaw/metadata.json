@@ -21,5 +21,6 @@
   "difficulty_level": "unknown",
   "summary": "Analysis failed - please retry",
   "analyzed_at": "2026-01-14T15:48:27.032652+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2024-02-25"
 }

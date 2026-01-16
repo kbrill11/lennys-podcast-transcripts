@@ -83,5 +83,6 @@
   "difficulty_level": "intermediate",
   "summary": "Dr. Fei-Fei Li, known as the 'godmother of AI,' shares the untold history of how ImageNet sparked the AI revolution and discusses her new frontier work in world models and spatial intelligence. She emphasizes the importance of human-centered AI development and provides career advice for technologists while showcasing World Labs' groundbreaking Marble product.",
   "analyzed_at": "2026-01-14T15:56:37.229086+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-11-16"
 }

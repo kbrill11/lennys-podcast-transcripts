@@ -80,5 +80,6 @@
   "difficulty_level": "intermediate",
   "summary": "Eric Simons shares how StackBlitz's seven-year journey building browser-based development tools culminated in Bolt, an AI coding platform that grew from 0 to 40M ARR in five months. The conversation explores the technical breakthroughs, organizational strategies, and future implications of AI-first software development.",
   "analyzed_at": "2026-01-14T15:53:51.715331+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-03-13"
 }

@@ -1,0 +1,4387 @@
+{
+  "guest_categories": {
+    "big_tech": {
+      "total_episodes": 69,
+      "guests": [
+        {
+          "name": "Ada Chen Rekhi",
+          "companies": [
+            "SurveyMonkey",
+            "LinkedIn",
+            "Microsoft",
+            "Notejoy"
+          ],
+          "current_role": "Executive coach and co-founder of Notejoy",
+          "episode_id": "ada-chen-rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+          "themes_discussed": [
+            "career development",
+            "executive coaching",
+            "personal values and authenticity",
+            "curiosity loops and advice gathering",
+            "career development"
+          ]
+        },
+        {
+          "name": "Adam Fishman",
+          "companies": [
+            "Lyft",
+            "Patreon",
+            "Imperfect Foods",
+            "Wyzant"
+          ],
+          "current_role": "EIR at Reforge, Growth Advisor, Newsletter Writer",
+          "episode_id": "adam-fishman",
+          "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+          "themes_discussed": [
+            "growth strategies",
+            "hiring and evaluation frameworks",
+            "onboarding optimization",
+            "career development",
+            "product market fit for candidates"
+          ]
+        },
+        {
+          "name": "Adam Grenier",
+          "companies": [
+            "Uber",
+            "MasterClass",
+            "Lambda School",
+            "Hotel Tonight"
+          ],
+          "current_role": "Advisor and investor (Andreessen Scout fund)",
+          "episode_id": "adam-grenier",
+          "title": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+          "themes_discussed": [
+            "emerging acquisition channels",
+            "growth strategies",
+            "growth strategies",
+            "product marketing integration",
+            "work life balance"
+          ]
+        },
+        {
+          "name": "Adriel Frederick",
+          "companies": [
+            "Reddit",
+            "Lyft",
+            "Facebook",
+            "Intuit"
+          ],
+          "current_role": "VP of Product Management at Reddit X",
+          "episode_id": "adriel-frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "leadership development",
+            "diversity and inclusion",
+            "algorithmic product design"
+          ]
+        },
+        {
+          "name": "Aishwarya Naresh Reganti + Kiriti Badam",
+          "companies": [
+            "OpenAI",
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "Databricks",
+            "Kumo"
+          ],
+          "current_role": "Aishwarya: AI consultant and course instructor; Kiriti: Works on Kodex at OpenAI",
+          "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+          "title": "Unknown",
+          "themes_discussed": [
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development"
+          ]
+        },
+        {
+          "name": "Albert Cheng",
+          "companies": [
+            "Duolingo",
+            "Grammarly",
+            "Chess.com",
+            "YouTube",
+            "Google"
+          ],
+          "current_role": "Growth leader at Chess.com",
+          "episode_id": "albert-cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+          "themes_discussed": [
+            "growth strategies",
+            "consumer subscription products",
+            "experimentation",
+            "product led growth",
+            "habit formation and user retention"
+          ]
+        },
+        {
+          "name": "Alex Hardimen",
+          "companies": [
+            "The New York Times",
+            "Facebook",
+            "The Atlantic"
+          ],
+          "current_role": "Chief Product Officer at The New York Times",
+          "episode_id": "alex-hardimen",
+          "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+          "themes_discussed": [
+            "product management",
+            "mission driven product development",
+            "product management",
+            "subscription business strategy",
+            "cross functional collaboration with editorial teams"
+          ]
+        },
+        {
+          "name": "Alex Komoroske",
+          "companies": [
+            "Google",
+            "Stripe"
+          ],
+          "current_role": "Startup founder reimagining the web for the AI era",
+          "episode_id": "alex-komoroske",
+          "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+          "themes_discussed": [
+            "ai and llms impact on product development",
+            "gardening vs building mindset",
+            "organizational dynamics and kayfabe",
+            "systems thinking and emergence",
+            "product strategy and navigation"
+          ]
+        },
+        {
+          "name": "Alexander Embiricos",
+          "companies": [
+            "OpenAI",
+            "Dropbox",
+            "Previous screen-sharing startup"
+          ],
+          "current_role": "Product Lead for Codex at OpenAI",
+          "episode_id": "alexander-embiricos",
+          "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+          "themes_discussed": [
+            "ai coding agents",
+            "product development at openai",
+            "developer productivity",
+            "agent human collaboration",
+            "future of software engineering"
+          ]
+        },
+        {
+          "name": "Alisa Cohn",
+          "companies": [
+            "Etsy",
+            "Wirecutter",
+            "Venmo",
+            "DraftKings",
+            "Microsoft",
+            "Google",
+            "Pfizer",
+            "New York Times"
+          ],
+          "current_role": "Executive Coach",
+          "episode_id": "alisa-cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+          "themes_discussed": [
+            "difficult conversations",
+            "leadership development",
+            "executive coaching",
+            "performance management",
+            "founder relationships"
+          ]
+        },
+        {
+          "name": "Ami Vora",
+          "companies": [
+            "Facebook",
+            "Instagram",
+            "WhatsApp",
+            "Faire"
+          ],
+          "current_role": "Chief Product Officer at Faire",
+          "episode_id": "ami-vora",
+          "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+          "themes_discussed": [
+            "authentic leadership",
+            "curiosity driven disagreement",
+            "product management execution",
+            "using metaphors for communication",
+            "women in tech leadership"
+          ]
+        },
+        {
+          "name": "Andrew Wilkinson",
+          "companies": [
+            "Tiny",
+            "Metalab",
+            "Letterboxd",
+            "AeroPress",
+            "Dribbble",
+            "Serato"
+          ],
+          "current_role": "Co-founder and CEO of Tiny",
+          "episode_id": "andrew-wilkinson",
+          "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+          "themes_discussed": [
+            "startup idea generation",
+            "business model evaluation",
+            "ai automation and productivity",
+            "wealth and happiness",
+            "mental health and entrepreneurship"
+          ]
+        },
+        {
+          "name": "Andy Johns",
+          "companies": [
+            "Facebook",
+            "Twitter",
+            "Quora",
+            "Wealthfront"
+          ],
+          "current_role": "Mental health advocate and coach",
+          "episode_id": "andy-johns",
+          "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+          "themes_discussed": [
+            "mental health and burnout",
+            "personal transformation",
+            "career transition",
+            "childhood trauma and healing",
+            "self awareness and therapy"
+          ]
+        },
+        {
+          "name": "Andy Raskin",
+          "companies": [
+            "Gong",
+            "Dropbox",
+            "Uber",
+            "Salesforce",
+            "Square",
+            "IBM",
+            "Zuora"
+          ],
+          "current_role": "Strategic narrative consultant for CEOs",
+          "episode_id": "andy-raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "themes_discussed": [
+            "strategic narrative development",
+            "storytelling for business",
+            "pitch optimization",
+            "movement creation vs problem solving",
+            "enterprise sales strategy"
+          ]
+        },
+        {
+          "name": "Annie Pearl",
+          "companies": [
+            "Calendly",
+            "Glassdoor",
+            "Box"
+          ],
+          "current_role": "Chief Product Officer at Calendly",
+          "episode_id": "annie-pearl",
+          "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+          "themes_discussed": [
+            "product management career transition",
+            "product led growth",
+            "product strategy and prioritization",
+            "scaling product teams",
+            "growth strategies"
+          ]
+        },
+        {
+          "name": "Anuj Rathi",
+          "companies": [
+            "Jupiter Money",
+            "Swiggy",
+            "Flipkart",
+            "Snapdeal",
+            "Walmart Labs"
+          ],
+          "current_role": "Chief Product and Marketing Officer at Jupiter Money",
+          "episode_id": "anuj-rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+          "themes_discussed": [
+            "product management in india",
+            "full stack product management",
+            "user experience for new users",
+            "working backwards methodology",
+            "marketplace dynamics"
+          ]
+        },
+        {
+          "name": "April Dunford",
+          "companies": [
+            "Google",
+            "Epic Games",
+            "Help Scout",
+            "LevelJump"
+          ],
+          "current_role": "Author and positioning consultant",
+          "episode_id": "april-dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)",
+          "themes_discussed": [
+            "sales pitch frameworks",
+            "product positioning",
+            "b2b sales strategy",
+            "customer buying psychology",
+            "differentiated value proposition"
+          ]
+        },
+        {
+          "name": "Arielle Jackson",
+          "companies": [
+            "Google",
+            "Square",
+            "First Round Capital",
+            "Patreon",
+            "Loom",
+            "Front",
+            "Eero"
+          ],
+          "current_role": "Marketing Expert in Residence at First Round Capital",
+          "episode_id": "arielle-jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+          "themes_discussed": [
+            "brand development",
+            "product positioning",
+            "startup naming strategies",
+            "marketing fundamentals",
+            "customer targeting"
+          ]
+        },
+        {
+          "name": "Asha Sharma",
+          "companies": [
+            "Microsoft",
+            "Instacart",
+            "Meta",
+            "Home Depot (board)",
+            "Coupang (board)"
+          ],
+          "current_role": "Chief Vice President of Product for Microsoft's AI platform",
+          "episode_id": "asha-sharma",
+          "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+          "themes_discussed": [
+            "ai transformation and product development",
+            "agentic society and organizational change",
+            "product as organism vs artifact",
+            "post training and model fine tuning",
+            "future of work and team structures"
+          ]
+        },
+        {
+          "name": "Bangaly Kaba",
+          "companies": [
+            "Facebook",
+            "Instagram",
+            "Instacart",
+            "YouTube",
+            "Twitter"
+          ],
+          "current_role": "Director of Product Management at YouTube",
+          "episode_id": "bangaly-kaba",
+          "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+          "themes_discussed": [
+            "career development and choosing where to work",
+            "product management frameworks and methodologies",
+            "growth strategies and tactics",
+            "understand work vs execution balance",
+            "team leadership and coaching"
+          ]
+        },
+        {
+          "name": "Ben Williams",
+          "companies": [
+            "Snyk",
+            "CloudBees",
+            "IBM"
+          ],
+          "current_role": "VP of Product at Snyk",
+          "episode_id": "ben-williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+          "themes_discussed": [
+            "product led growth",
+            "developer focused marketing",
+            "freemium monetization",
+            "growth team structure",
+            "community led growth"
+          ]
+        },
+        {
+          "name": "Benjamin Lauzier",
+          "companies": [
+            "Lyft",
+            "Thumbtack"
+          ],
+          "current_role": "Founder and CEO of Nurra Health",
+          "episode_id": "benjamin-lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)",
+          "themes_discussed": [
+            "marketplace business models",
+            "product market fit",
+            "supply and demand dynamics",
+            "growth strategies",
+            "marketplace liquidity"
+          ]
+        },
+        {
+          "name": "Bill Carr",
+          "companies": [
+            "Amazon",
+            "OfferUp",
+            "Maveron"
+          ],
+          "current_role": "Founder of Working Backwards, LLC consulting firm",
+          "episode_id": "bill-carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+          "themes_discussed": [
+            "amazon's ways of working",
+            "process innovation at scale",
+            "working backwards methodology",
+            "single threaded leadership",
+            "decision making frameworks"
+          ]
+        },
+        {
+          "name": "Bob Baxley",
+          "companies": [
+            "Apple",
+            "Pinterest",
+            "Yahoo",
+            "ThoughtSpot",
+            "Disney"
+          ],
+          "current_role": "Design advisor and mentor (recently at ThoughtSpot)",
+          "episode_id": "bob-baxley",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "themes_discussed": [
+            "product design philosophy",
+            "software as a medium",
+            "design leadership and culture",
+            "team collaboration and structure",
+            "moral obligation in product building"
+          ]
+        },
+        {
+          "name": "Boz",
+          "companies": [
+            "Meta/Facebook"
+          ],
+          "current_role": "Chief Technology Officer at Meta",
+          "episode_id": "boz",
+          "title": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+          "themes_discussed": [
+            "early stage startup experiences",
+            "communication and leadership",
+            "product development and innovation",
+            "organizational management",
+            "career growth and learning"
+          ]
+        },
+        {
+          "name": "Brendan Foody",
+          "companies": [
+            "Mercor",
+            "xAI (customer)",
+            "OpenAI (customer)"
+          ],
+          "current_role": "CEO and Co-founder of Mercor",
+          "episode_id": "brendan-foody",
+          "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+          "themes_discussed": [
+            "ai evaluation and training",
+            "labor marketplaces and talent sourcing",
+            "hyper growth company building",
+            "product market fit discovery",
+            "future of work and ai displacement"
+          ]
+        },
+        {
+          "name": "Bret Taylor",
+          "companies": [
+            "Google",
+            "Facebook/Meta",
+            "Salesforce",
+            "OpenAI",
+            "Twitter"
+          ],
+          "current_role": "Co-founder and CEO of Sierra",
+          "episode_id": "bret-taylor",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+          "themes_discussed": [
+            "ai and agents",
+            "product management",
+            "leadership and career adaptability",
+            "entrepreneurship and company building",
+            "technology industry evolution"
+          ]
+        },
+        {
+          "name": "Brian Tolkin",
+          "companies": [
+            "Uber",
+            "Opendoor"
+          ],
+          "current_role": "Head of Product and Design at Opendoor",
+          "episode_id": "brian-tolkin",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+          "themes_discussed": [
+            "product and operations integration",
+            "scaling high touch businesses",
+            "product leadership",
+            "experimentation at low volume",
+            "jobs to be done framework"
+          ]
+        },
+        {
+          "name": "Cam Adams",
+          "companies": [
+            "Canva",
+            "Google"
+          ],
+          "current_role": "Co-founder and Chief Product Officer at Canva",
+          "episode_id": "cam-adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "company culture and coaching",
+            "freemium business models",
+            "ai integration"
+          ]
+        },
+        {
+          "name": "Camille Hearst",
+          "companies": [
+            "Spotify",
+            "Patreon",
+            "YouTube",
+            "Apple",
+            "Hailo"
+          ],
+          "current_role": "Head of Fan Monetization at Spotify",
+          "episode_id": "camille-hearst",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+          "themes_discussed": [
+            "creator economy",
+            "marketplace dynamics",
+            "product management",
+            "startup acquisition",
+            "supply side optimization"
+          ]
+        },
+        {
+          "name": "Carilu Dietrich",
+          "companies": [
+            "Atlassian",
+            "Segment",
+            "Miro",
+            "1Password",
+            "Bill.com",
+            "Productboard",
+            "Oracle"
+          ],
+          "current_role": "Advisor to hypergrowth B2B companies",
+          "episode_id": "carilu-dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+          "themes_discussed": [
+            "hypergrowth strategies",
+            "career development",
+            "product led growth",
+            "marketing leadership",
+            "executive decision making"
+          ]
+        },
+        {
+          "name": "Casey Winters",
+          "companies": [
+            "Pinterest",
+            "GrubHub",
+            "Greylock Partners",
+            "Airbnb",
+            "Tinder",
+            "Canva",
+            "Thumbtack"
+          ],
+          "current_role": "Chief Product Officer at Eventbrite",
+          "episode_id": "casey-winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "executive communication",
+            "product complexity management",
+            "team development"
+          ]
+        },
+        {
+          "name": "Chandra Janakiraman",
+          "companies": [
+            "VRChat",
+            "Meta",
+            "Headspace",
+            "Zynga",
+            "Amazon"
+          ],
+          "current_role": "Chief Product Officer and Executive Vice President at VRChat",
+          "episode_id": "chandra-janakiraman",
+          "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+          "themes_discussed": [
+            "product strategy development",
+            "strategic planning frameworks",
+            "cross functional collaboration",
+            "problem identification and prioritization",
+            "organizational alignment"
+          ]
+        },
+        {
+          "name": "Chip Huyen",
+          "companies": [
+            "NVIDIA",
+            "Netflix",
+            "Stanford University"
+          ],
+          "current_role": "AI researcher and author",
+          "episode_id": "chip-huyen",
+          "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+          "themes_discussed": [
+            "ai product development",
+            "machine learning engineering vs ai engineering",
+            "building successful ai applications",
+            "ai model training and evaluation",
+            "productivity and organizational change"
+          ]
+        },
+        {
+          "name": "Chris Hutchins",
+          "companies": [
+            "Google",
+            "Google Ventures",
+            "Wealthfront"
+          ],
+          "current_role": "Full-time creator and host of All the Hacks podcast",
+          "episode_id": "chris-hutchins",
+          "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+          "themes_discussed": [
+            "product management",
+            "podcasting strategy and growth",
+            "innovation within established companies",
+            "content creation and audience building",
+            "entrepreneurship and career development"
+          ]
+        },
+        {
+          "name": "Christina Wodtke",
+          "companies": [
+            "LinkedIn",
+            "MySpace",
+            "Zynga",
+            "Yahoo"
+          ],
+          "current_role": "Lecturer at Stanford, Author, and Product Management Consultant",
+          "episode_id": "christina-wodtke",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+          "themes_discussed": [
+            "okrs (objectives and key results)",
+            "product management",
+            "business focus and alignment",
+            "storytelling in business",
+            "learning and iteration"
+          ]
+        },
+        {
+          "name": "Claire Vo",
+          "companies": [
+            "LaunchDarkly",
+            "Color",
+            "Optimizely",
+            "Experiment Engine (founder)"
+          ],
+          "current_role": "Chief Product Officer at LaunchDarkly",
+          "episode_id": "claire-vo",
+          "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+          "themes_discussed": [
+            "career advancement strategies",
+            "product management",
+            "ai impact on product management",
+            "women in tech leadership",
+            "startup vs enterprise culture"
+          ]
+        },
+        {
+          "name": "Dan Shipper",
+          "companies": [
+            "Every",
+            "Lex (spun out)"
+          ],
+          "current_role": "Co-founder and CEO of Every",
+          "episode_id": "dan-shipper",
+          "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+          "themes_discussed": [
+            "ai first company operations",
+            "ai tool adoption and implementation",
+            "future of work and coding",
+            "product development with ai",
+            "generalists vs specialists"
+          ]
+        },
+        {
+          "name": "David Placek",
+          "companies": [
+            "Lexicon Branding",
+            "Various major corporations as clients including Microsoft, Intel, P&G"
+          ],
+          "current_role": "Founder of Lexicon Branding",
+          "episode_id": "david-placek",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "themes_discussed": [
+            "brand naming strategy",
+            "creative process and methodology",
+            "entrepreneurship and startups",
+            "linguistics and cognitive science",
+            "marketing psychology"
+          ]
+        },
+        {
+          "name": "David Singleton",
+          "companies": [
+            "Stripe",
+            "Google"
+          ],
+          "current_role": "Chief Technology Officer at Stripe",
+          "episode_id": "david-singleton",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "themes_discussed": [
+            "building product minded engineering culture",
+            "user centric product development",
+            "engineering excellence and reliability",
+            "hiring and talent development",
+            "operational excellence and craft"
+          ]
+        },
+        {
+          "name": "Deb Liu",
+          "companies": [
+            "Facebook",
+            "PayPal",
+            "eBay",
+            "Ancestry",
+            "Intuit"
+          ],
+          "current_role": "CEO of Ancestry",
+          "episode_id": "deb-liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu",
+          "themes_discussed": [
+            "career development strategy",
+            "product management",
+            "zero to one product development",
+            "introvert success in business",
+            "resilience and failure recovery"
+          ]
+        },
+        {
+          "name": "Dhanji R. Prasanna",
+          "companies": [
+            "Block/Square",
+            "Google",
+            "Cash App"
+          ],
+          "current_role": "Chief Technology Officer at Block",
+          "episode_id": "dhanji-r-prasanna",
+          "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+          "themes_discussed": [
+            "ai transformation and adoption",
+            "engineering productivity and automation",
+            "organizational structure and conway's law",
+            "open source strategy",
+            "technology leadership"
+          ]
+        },
+        {
+          "name": "Drew Houston",
+          "companies": [
+            "Dropbox",
+            "Y Combinator (alum)"
+          ],
+          "current_role": "CEO and Co-founder of Dropbox",
+          "episode_id": "drew-houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+          "themes_discussed": [
+            "founder journey and evolution",
+            "strategic inflection points",
+            "leadership development",
+            "competitive dynamics with big tech",
+            "company culture and scaling challenges"
+          ]
+        },
+        {
+          "name": "Dylan Field",
+          "companies": [
+            "Figma",
+            "LinkedIn (intern)"
+          ],
+          "current_role": "CEO and Co-founder of Figma",
+          "episode_id": "dylan-field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+          "themes_discussed": [
+            "product management",
+            "design philosophy and simplification",
+            "ai's impact on design and craft",
+            "early stage product development",
+            "leadership and scaling"
+          ]
+        },
+        {
+          "name": "Ebi Atawodi",
+          "companies": [
+            "YouTube/Google",
+            "Netflix",
+            "Uber"
+          ],
+          "current_role": "Director of Product Management at YouTube (Creator Experience)",
+          "episode_id": "ebi-atawodi",
+          "title": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)",
+          "themes_discussed": [
+            "product vision development",
+            "product management craft",
+            "company culture and product building",
+            "leadership and team dynamics",
+            "strategic planning frameworks"
+          ]
+        },
+        {
+          "name": "Edwin Chen",
+          "companies": [
+            "Google",
+            "Facebook",
+            "Twitter",
+            "Surge AI"
+          ],
+          "current_role": "Founder and CEO of Surge AI",
+          "episode_id": "edwin-chen",
+          "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+          "themes_discussed": [
+            "ai data quality and training",
+            "bootstrapped company building",
+            "contrarian silicon valley approaches",
+            "responsible agi development",
+            "human feedback in ai training"
+          ]
+        },
+        {
+          "name": "Elena Verna",
+          "companies": [
+            "Miro",
+            "Amplitude",
+            "Dropbox",
+            "SurveyMonkey",
+            "Superhuman",
+            "MongoDB"
+          ],
+          "current_role": "Growth advisor and consultant",
+          "episode_id": "elena-verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "themes_discussed": [
+            "growth strategy failures",
+            "team building and hiring",
+            "product led growth",
+            "career development",
+            "experimentation"
+          ]
+        },
+        {
+          "name": "Elena Verna 4.0",
+          "companies": [
+            "Lovable",
+            "Amplitude",
+            "Miro",
+            "Dropbox",
+            "SurveyMonkey",
+            "Netlify"
+          ],
+          "current_role": "Head of Growth at Lovable",
+          "episode_id": "elena-verna-40",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "themes_discussed": [
+            "ai company growth strategies",
+            "product market fit in ai era",
+            "minimum lovable product development",
+            "building in public and social marketing",
+            "team building and hiring in ai startups"
+          ]
+        },
+        {
+          "name": "Eli Schwartz",
+          "companies": [
+            "Quora",
+            "Coinbase",
+            "Tinder",
+            "LinkedIn",
+            "WordPress",
+            "Zapier",
+            "SurveyMonkey"
+          ],
+          "current_role": "SEO advisor and author",
+          "episode_id": "eli-schwartz",
+          "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+          "themes_discussed": [
+            "seo evolution with ai",
+            "product led seo strategy",
+            "ai overviews impact on search",
+            "user journey optimization",
+            "programmatic vs editorial seo"
+          ]
+        },
+        {
+          "name": "Elizabeth Stone",
+          "companies": [
+            "Netflix",
+            "Lyft",
+            "Nuna",
+            "Merrill Lynch",
+            "Analysis Group"
+          ],
+          "current_role": "CTO at Netflix",
+          "episode_id": "elizabeth-stone",
+          "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+          "themes_discussed": [
+            "netflix culture and organizational design",
+            "high talent density and performance standards",
+            "leadership development and career growth",
+            "economics background in tech leadership",
+            "data organization structure"
+          ]
+        },
+        {
+          "name": "Emilie Gerber",
+          "companies": [
+            "Uber",
+            "Box",
+            "Ramp",
+            "Perplexity",
+            "Gamma"
+          ],
+          "current_role": "Founder and CEO of Six Eastern PR agency",
+          "episode_id": "emilie-gerber",
+          "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+          "themes_discussed": [
+            "public relations strategy",
+            "media outreach tactics",
+            "startup press coverage",
+            "b2b vs b2c pr approaches",
+            "pitch writing and messaging"
+          ]
+        },
+        {
+          "name": "EOY Review",
+          "companies": [
+            "Facebook",
+            "Google",
+            "Stripe",
+            "Twitter",
+            "YouTube",
+            "Gojek",
+            "Amplitude",
+            "Miro",
+            "OpenAI",
+            "Coinbase",
+            "Notion"
+          ],
+          "current_role": "Various - Year-end review episode featuring multiple guests",
+          "episode_id": "eoy-review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "positioning and marketing",
+            "behavioral science",
+            "leadership and career development"
+          ]
+        },
+        {
+          "name": "Eric Ries",
+          "companies": [
+            "IMVU",
+            "Long-Term Stock Exchange",
+            "various startups as advisor"
+          ],
+          "current_role": "Founder and Executive Chairman of Long-Term Stock Exchange",
+          "episode_id": "eric-ries",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "themes_discussed": [
+            "lean startup methodology evolution",
+            "product development and mvp strategy",
+            "corporate governance and long term thinking",
+            "entrepreneurial pivoting and decision making",
+            "ai impact on business and society"
+          ]
+        },
+        {
+          "name": "Ethan Evans",
+          "companies": [
+            "Amazon",
+            "Prime Video",
+            "Twitch"
+          ],
+          "current_role": "Executive coach and course creator",
+          "episode_id": "ethan-evans",
+          "title": "Taking control of your career | Ethan Evans (Amazon)",
+          "themes_discussed": [
+            "career development",
+            "leadership development",
+            "failure recovery",
+            "systematic invention",
+            "management relationships"
+          ]
+        },
+        {
+          "name": "Ethan Smith",
+          "companies": [
+            "Graphite",
+            "NexTag",
+            "Shopping.com",
+            "PriceGrabber"
+          ],
+          "current_role": "CEO of Graphite",
+          "episode_id": "ethan-smith",
+          "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+          "themes_discussed": [
+            "answer engine optimization (aeo)",
+            "seo evolution and ai impact",
+            "citation optimization strategies",
+            "content quality vs ai generated content",
+            "growth channel diversification"
+          ]
+        },
+        {
+          "name": "Evan LaPointe",
+          "companies": [
+            "Satellite (acquired by Adobe)",
+            "Adobe"
+          ],
+          "current_role": "Founder of CORE Sciences",
+          "episode_id": "evan-lapointe",
+          "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe",
+          "themes_discussed": [
+            "neuroscience applications in business",
+            "team dynamics and collaboration",
+            "influence and persuasion",
+            "organizational culture and habitat design",
+            "focus and productivity optimization"
+          ]
+        },
+        {
+          "name": "Failure",
+          "companies": [
+            "Airbnb",
+            "Stripe",
+            "Intercom",
+            "Duolingo",
+            "Google",
+            "Facebook",
+            "Quibi",
+            "Pets.com"
+          ],
+          "current_role": "Compilation Episode - Multiple Guests",
+          "episode_id": "failure",
+          "title": "Failure",
+          "themes_discussed": [
+            "failure and learning from setbacks",
+            "leadership challenges and trust building",
+            "product management mistakes",
+            "career resilience and growth",
+            "experimentation and testing strategies"
+          ]
+        },
+        {
+          "name": "Fareed Mosavat",
+          "companies": [
+            "Reforge",
+            "Slack",
+            "Instacart",
+            "Pixar",
+            "Zynga",
+            "Runkeeper"
+          ],
+          "current_role": "Chief Development Officer at Reforge",
+          "episode_id": "fareed-mosavat",
+          "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+          "themes_discussed": [
+            "product management",
+            "leadership transition challenges",
+            "trust building and sponsorship",
+            "alternative career paths in tech",
+            "product management learning loops"
+          ]
+        },
+        {
+          "name": "Farhan Thawar",
+          "companies": [
+            "Shopify",
+            "XtremeLabs",
+            "Pivotal",
+            "Microsoft"
+          ],
+          "current_role": "VP and Head of Engineering at Shopify",
+          "episode_id": "farhan-thawar",
+          "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+          "themes_discussed": [
+            "creating organizational intensity",
+            "choosing the harder path",
+            "hiring and talent acquisition",
+            "pair programming methodology",
+            "remote first culture"
+          ]
+        },
+        {
+          "name": "Fei Fei",
+          "companies": [
+            "World Labs",
+            "Google Cloud",
+            "Stanford AI Lab",
+            "ImageNet"
+          ],
+          "current_role": "Co-founder and CEO of World Labs, Co-director of Stanford HAI",
+          "episode_id": "fei-fei",
+          "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+          "themes_discussed": [
+            "artificial intelligence history and evolution",
+            "world models and spatial intelligence",
+            "ai's impact on humanity and jobs",
+            "computer vision and visual intelligence",
+            "robotics and embodied ai"
+          ]
+        },
+        {
+          "name": "Gaurav Misra",
+          "companies": [
+            "Snap",
+            "Microsoft",
+            "Captions"
+          ],
+          "current_role": "Co-founder and CEO of Captions",
+          "episode_id": "gaurav-misra",
+          "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+          "themes_discussed": [
+            "ai powered product development",
+            "high velocity shipping methodologies",
+            "consumer social app strategy",
+            "technical debt management",
+            "product team structure and operations"
+          ]
+        },
+        {
+          "name": "Gergely",
+          "companies": [
+            "Uber",
+            "Skyscanner",
+            "Skype/Microsoft",
+            "JPMorgan"
+          ],
+          "current_role": "Newsletter writer and creator at The Pragmatic Engineer",
+          "episode_id": "gergely",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+          "themes_discussed": [
+            "newsletter business model",
+            "transitioning from tech to creator economy",
+            "entrepreneurship and self employment",
+            "content creation strategies",
+            "work life balance in solo businesses"
+          ]
+        },
+        {
+          "name": "Gibson Biddle",
+          "companies": [
+            "Netflix",
+            "Chegg",
+            "Electronic Arts",
+            "Disney"
+          ],
+          "current_role": "Independent product strategy teacher and consultant",
+          "episode_id": "gibson-biddle",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "themes_discussed": [
+            "product strategy frameworks",
+            "netflix product decisions and case studies",
+            "product prioritization methodologies",
+            "career advancement in product management",
+            "customer delight vs business metrics"
+          ]
+        },
+        {
+          "name": "Gokul Rajaram",
+          "companies": [
+            "Google",
+            "Facebook",
+            "Square",
+            "DoorDash",
+            "Coinbase (board)",
+            "Pinterest (board)"
+          ],
+          "current_role": "Senior executive at DoorDash",
+          "episode_id": "gokul-rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+          "themes_discussed": [
+            "product management",
+            "team building and hiring",
+            "angel investing strategies",
+            "company culture",
+            "product development processes"
+          ]
+        },
+        {
+          "name": "Gustav Söderström",
+          "companies": [
+            "Spotify",
+            "Yahoo"
+          ],
+          "current_role": "Co-President, Chief Product and Technology Officer at Spotify",
+          "episode_id": "gustav-söderström",
+          "title": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström",
+          "themes_discussed": [
+            "product strategy",
+            "artificial intelligence",
+            "organizational design",
+            "big product bets",
+            "team structure evolution"
+          ]
+        },
+        {
+          "name": "Hamilton Helmer",
+          "companies": [
+            "Netflix",
+            "various Silicon Valley startups"
+          ],
+          "current_role": "Author of 7 Powers and strategy consultant",
+          "episode_id": "hamilton-helmer",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+          "themes_discussed": [
+            "competitive strategy",
+            "business moats",
+            "startup power dynamics",
+            "product market fit",
+            "strategic thinking"
+          ]
+        },
+        {
+          "name": "Hari Srinivasan",
+          "companies": [
+            "LinkedIn",
+            "Ford Motor Company"
+          ],
+          "current_role": "VP of Product, Talent Solutions at LinkedIn",
+          "episode_id": "hari-srinivasan",
+          "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+          "themes_discussed": [
+            "product management",
+            "hiring marketplace dynamics",
+            "complex systems design",
+            "skills first hiring",
+            "linkedin product evolution"
+          ]
+        },
+        {
+          "name": "Heidi Helfand",
+          "companies": [
+            "Expertcity",
+            "AppFolio",
+            "Procore"
+          ],
+          "current_role": "Consultant and workshop facilitator on team reorganization",
+          "episode_id": "heidi-helfand",
+          "title": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)",
+          "themes_discussed": [
+            "team reorganization",
+            "organizational change management",
+            "dynamic team structures",
+            "startup scaling",
+            "leadership transitions"
+          ]
+        },
+        {
+          "name": "Hilary Gridley",
+          "companies": [
+            "Whoop",
+            "Big Health",
+            "Dropbox"
+          ],
+          "current_role": "Head of Core Product at Whoop",
+          "episode_id": "hilary-gridley",
+          "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+          "themes_discussed": [
+            "product leadership",
+            "team resilience",
+            "dealing with adversity",
+            "ai adoption and learning",
+            "mental models and understanding others"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "product management": 18,
+        "growth strategies": 13,
+        "ai product development": 12,
+        "career development": 6,
+        "work life balance": 6,
+        "leadership development": 6,
+        "startup scaling": 6,
+        "product led growth": 5,
+        "experimentation": 4,
+        "cross functional collaboration": 4,
+        "company culture": 4,
+        "product development processes": 4,
+        "organizational design": 4,
+        "team building and hiring": 3,
+        "product positioning": 3
+      },
+      "top_themes": [
+        "product management",
+        "growth strategies",
+        "ai product development",
+        "career development",
+        "work life balance"
+      ]
+    },
+    "founder": {
+      "total_episodes": 37,
+      "guests": [
+        {
+          "name": "Ada Chen Rekhi",
+          "companies": [
+            "SurveyMonkey",
+            "LinkedIn",
+            "Microsoft",
+            "Notejoy"
+          ],
+          "current_role": "Executive coach and co-founder of Notejoy",
+          "episode_id": "ada-chen-rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+          "themes_discussed": [
+            "career development",
+            "executive coaching",
+            "personal values and authenticity",
+            "curiosity loops and advice gathering",
+            "career development"
+          ]
+        },
+        {
+          "name": "Alex Komoroske",
+          "companies": [
+            "Google",
+            "Stripe"
+          ],
+          "current_role": "Startup founder reimagining the web for the AI era",
+          "episode_id": "alex-komoroske",
+          "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+          "themes_discussed": [
+            "ai and llms impact on product development",
+            "gardening vs building mindset",
+            "organizational dynamics and kayfabe",
+            "systems thinking and emergence",
+            "product strategy and navigation"
+          ]
+        },
+        {
+          "name": "Andrew Wilkinson",
+          "companies": [
+            "Tiny",
+            "Metalab",
+            "Letterboxd",
+            "AeroPress",
+            "Dribbble",
+            "Serato"
+          ],
+          "current_role": "Co-founder and CEO of Tiny",
+          "episode_id": "andrew-wilkinson",
+          "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+          "themes_discussed": [
+            "startup idea generation",
+            "business model evaluation",
+            "ai automation and productivity",
+            "wealth and happiness",
+            "mental health and entrepreneurship"
+          ]
+        },
+        {
+          "name": "Andy Raskin",
+          "companies": [
+            "Gong",
+            "Dropbox",
+            "Uber",
+            "Salesforce",
+            "Square",
+            "IBM",
+            "Zuora"
+          ],
+          "current_role": "Strategic narrative consultant for CEOs",
+          "episode_id": "andy-raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "themes_discussed": [
+            "strategic narrative development",
+            "storytelling for business",
+            "pitch optimization",
+            "movement creation vs problem solving",
+            "enterprise sales strategy"
+          ]
+        },
+        {
+          "name": "Anton Osika",
+          "companies": [
+            "Lovable",
+            "Summer Labs",
+            "YC startup (as CTO)"
+          ],
+          "current_role": "CEO and co-founder of Lovable",
+          "episode_id": "anton-osika",
+          "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+          "themes_discussed": [
+            "ai product development",
+            "product market fit and rapid scaling",
+            "building lean high performance teams",
+            "future of programming and engineering roles",
+            "european startup ecosystem"
+          ]
+        },
+        {
+          "name": "Barbra Gago",
+          "companies": [
+            "Miro",
+            "Greenhouse",
+            "CultureAmp"
+          ],
+          "current_role": "Founder/CEO at Pando (employee progression platform)",
+          "episode_id": "barbra-gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+          "themes_discussed": [
+            "category creation",
+            "brand building and rebranding",
+            "go to market strategy",
+            "opinionated software design",
+            "b2b saas marketing"
+          ]
+        },
+        {
+          "name": "Ben Horowitz",
+          "companies": [
+            "Netscape",
+            "LoudCloud",
+            "Opsware",
+            "Andreessen Horowitz"
+          ],
+          "current_role": "Co-founder and General Partner at Andreessen Horowitz (a16z)",
+          "episode_id": "ben-horowitz",
+          "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+          "themes_discussed": [
+            "venture capital and investing",
+            "ceo leadership and decision making",
+            "startup struggles and failure",
+            "product management",
+            "ai industry and opportunities"
+          ]
+        },
+        {
+          "name": "Benjamin Lauzier",
+          "companies": [
+            "Lyft",
+            "Thumbtack"
+          ],
+          "current_role": "Founder and CEO of Nurra Health",
+          "episode_id": "benjamin-lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)",
+          "themes_discussed": [
+            "marketplace business models",
+            "product market fit",
+            "supply and demand dynamics",
+            "growth strategies",
+            "marketplace liquidity"
+          ]
+        },
+        {
+          "name": "Bill Carr",
+          "companies": [
+            "Amazon",
+            "OfferUp",
+            "Maveron"
+          ],
+          "current_role": "Founder of Working Backwards, LLC consulting firm",
+          "episode_id": "bill-carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+          "themes_discussed": [
+            "amazon's ways of working",
+            "process innovation at scale",
+            "working backwards methodology",
+            "single threaded leadership",
+            "decision making frameworks"
+          ]
+        },
+        {
+          "name": "Bob Moesta",
+          "companies": [
+            "Ford Motor Company",
+            "Basecamp",
+            "Intercom",
+            "Southern New Hampshire University"
+          ],
+          "current_role": "Co-founder and CEO of The Rewired Group",
+          "episode_id": "bob-moesta",
+          "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+          "themes_discussed": [
+            "jobs to be done framework",
+            "customer research methodology",
+            "product development strategy",
+            "innovation and entrepreneurship",
+            "user behavior analysis"
+          ]
+        },
+        {
+          "name": "Brendan Foody",
+          "companies": [
+            "Mercor",
+            "xAI (customer)",
+            "OpenAI (customer)"
+          ],
+          "current_role": "CEO and Co-founder of Mercor",
+          "episode_id": "brendan-foody",
+          "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+          "themes_discussed": [
+            "ai evaluation and training",
+            "labor marketplaces and talent sourcing",
+            "hyper growth company building",
+            "product market fit discovery",
+            "future of work and ai displacement"
+          ]
+        },
+        {
+          "name": "Bret Taylor",
+          "companies": [
+            "Google",
+            "Facebook/Meta",
+            "Salesforce",
+            "OpenAI",
+            "Twitter"
+          ],
+          "current_role": "Co-founder and CEO of Sierra",
+          "episode_id": "bret-taylor",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+          "themes_discussed": [
+            "ai and agents",
+            "product management",
+            "leadership and career adaptability",
+            "entrepreneurship and company building",
+            "technology industry evolution"
+          ]
+        },
+        {
+          "name": "Brian Balfour",
+          "companies": [
+            "HubSpot",
+            "Reforge"
+          ],
+          "current_role": "Founder and CEO of Reforge",
+          "episode_id": "brian-balfour",
+          "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour",
+          "themes_discussed": [
+            "distribution platforms and growth channels",
+            "ai technology transformation",
+            "startup vs incumbent competition dynamics",
+            "platform lifecycle and monetization",
+            "product development strategy"
+          ]
+        },
+        {
+          "name": "Brian Chesky",
+          "companies": [
+            "Airbnb"
+          ],
+          "current_role": "CEO and Co-founder of Airbnb",
+          "episode_id": "brian-chesky",
+          "title": "Brian Chesky’s new playbook",
+          "themes_discussed": [
+            "product management transformation",
+            "organizational structure and functional vs divisional models",
+            "leadership philosophy and being in the details",
+            "product development and launches",
+            "company culture"
+          ]
+        },
+        {
+          "name": "Cam Adams",
+          "companies": [
+            "Canva",
+            "Google"
+          ],
+          "current_role": "Co-founder and Chief Product Officer at Canva",
+          "episode_id": "cam-adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "company culture and coaching",
+            "freemium business models",
+            "ai integration"
+          ]
+        },
+        {
+          "name": "Carole Robin",
+          "companies": [
+            "Stanford Graduate School of Business",
+            "Leaders in Tech"
+          ],
+          "current_role": "Founder of Leaders in Tech nonprofit",
+          "episode_id": "carole-robin",
+          "title": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)",
+          "themes_discussed": [
+            "interpersonal relationships",
+            "leadership development",
+            "vulnerability and disclosure",
+            "feedback and communication",
+            "mental models and self awareness"
+          ]
+        },
+        {
+          "name": "Chip Conley",
+          "companies": [
+            "Airbnb",
+            "Joie de Vivre Hotels",
+            "Burning Man Board",
+            "Esalen Institute"
+          ],
+          "current_role": "Founder of Modern Elder Academy (MEA)",
+          "episode_id": "chip-conley",
+          "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+          "themes_discussed": [
+            "ageism in tech",
+            "intergenerational collaboration",
+            "working for founders",
+            "culture building",
+            "midlife transitions"
+          ]
+        },
+        {
+          "name": "Dan Shipper",
+          "companies": [
+            "Every",
+            "Lex (spun out)"
+          ],
+          "current_role": "Co-founder and CEO of Every",
+          "episode_id": "dan-shipper",
+          "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+          "themes_discussed": [
+            "ai first company operations",
+            "ai tool adoption and implementation",
+            "future of work and coding",
+            "product development with ai",
+            "generalists vs specialists"
+          ]
+        },
+        {
+          "name": "David Placek",
+          "companies": [
+            "Lexicon Branding",
+            "Various major corporations as clients including Microsoft, Intel, P&G"
+          ],
+          "current_role": "Founder of Lexicon Branding",
+          "episode_id": "david-placek",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "themes_discussed": [
+            "brand naming strategy",
+            "creative process and methodology",
+            "entrepreneurship and startups",
+            "linguistics and cognitive science",
+            "marketing psychology"
+          ]
+        },
+        {
+          "name": "Deb Liu",
+          "companies": [
+            "Facebook",
+            "PayPal",
+            "eBay",
+            "Ancestry",
+            "Intuit"
+          ],
+          "current_role": "CEO of Ancestry",
+          "episode_id": "deb-liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu",
+          "themes_discussed": [
+            "career development strategy",
+            "product management",
+            "zero to one product development",
+            "introvert success in business",
+            "resilience and failure recovery"
+          ]
+        },
+        {
+          "name": "Dharmesh Shah",
+          "companies": [
+            "HubSpot"
+          ],
+          "current_role": "Co-founder and CTO of HubSpot",
+          "episode_id": "dharmesh-shah",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+          "themes_discussed": [
+            "contrarian company building",
+            "growth strategies",
+            "organizational culture development",
+            "public speaking and humor",
+            "decision making frameworks"
+          ]
+        },
+        {
+          "name": "Drew Houston",
+          "companies": [
+            "Dropbox",
+            "Y Combinator (alum)"
+          ],
+          "current_role": "CEO and Co-founder of Dropbox",
+          "episode_id": "drew-houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+          "themes_discussed": [
+            "founder journey and evolution",
+            "strategic inflection points",
+            "leadership development",
+            "competitive dynamics with big tech",
+            "company culture and scaling challenges"
+          ]
+        },
+        {
+          "name": "Dylan Field",
+          "companies": [
+            "Figma",
+            "LinkedIn (intern)"
+          ],
+          "current_role": "CEO and Co-founder of Figma",
+          "episode_id": "dylan-field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+          "themes_discussed": [
+            "product management",
+            "design philosophy and simplification",
+            "ai's impact on design and craft",
+            "early stage product development",
+            "leadership and scaling"
+          ]
+        },
+        {
+          "name": "Edwin Chen",
+          "companies": [
+            "Google",
+            "Facebook",
+            "Twitter",
+            "Surge AI"
+          ],
+          "current_role": "Founder and CEO of Surge AI",
+          "episode_id": "edwin-chen",
+          "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+          "themes_discussed": [
+            "ai data quality and training",
+            "bootstrapped company building",
+            "contrarian silicon valley approaches",
+            "responsible agi development",
+            "human feedback in ai training"
+          ]
+        },
+        {
+          "name": "Emilie Gerber",
+          "companies": [
+            "Uber",
+            "Box",
+            "Ramp",
+            "Perplexity",
+            "Gamma"
+          ],
+          "current_role": "Founder and CEO of Six Eastern PR agency",
+          "episode_id": "emilie-gerber",
+          "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+          "themes_discussed": [
+            "public relations strategy",
+            "media outreach tactics",
+            "startup press coverage",
+            "b2b vs b2c pr approaches",
+            "pitch writing and messaging"
+          ]
+        },
+        {
+          "name": "Eric Ries",
+          "companies": [
+            "IMVU",
+            "Long-Term Stock Exchange",
+            "various startups as advisor"
+          ],
+          "current_role": "Founder and Executive Chairman of Long-Term Stock Exchange",
+          "episode_id": "eric-ries",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "themes_discussed": [
+            "lean startup methodology evolution",
+            "product development and mvp strategy",
+            "corporate governance and long term thinking",
+            "entrepreneurial pivoting and decision making",
+            "ai impact on business and society"
+          ]
+        },
+        {
+          "name": "Eric Simons",
+          "companies": [
+            "StackBlitz",
+            "Bolt"
+          ],
+          "current_role": "Co-founder and CEO of StackBlitz",
+          "episode_id": "eric-simons",
+          "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+          "themes_discussed": [
+            "ai product development",
+            "rapid startup growth and scaling",
+            "product market fit discovery",
+            "team building and organizational structure",
+            "technology first product development"
+          ]
+        },
+        {
+          "name": "Ethan Smith",
+          "companies": [
+            "Graphite",
+            "NexTag",
+            "Shopping.com",
+            "PriceGrabber"
+          ],
+          "current_role": "CEO of Graphite",
+          "episode_id": "ethan-smith",
+          "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+          "themes_discussed": [
+            "answer engine optimization (aeo)",
+            "seo evolution and ai impact",
+            "citation optimization strategies",
+            "content quality vs ai generated content",
+            "growth channel diversification"
+          ]
+        },
+        {
+          "name": "Evan LaPointe",
+          "companies": [
+            "Satellite (acquired by Adobe)",
+            "Adobe"
+          ],
+          "current_role": "Founder of CORE Sciences",
+          "episode_id": "evan-lapointe",
+          "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe",
+          "themes_discussed": [
+            "neuroscience applications in business",
+            "team dynamics and collaboration",
+            "influence and persuasion",
+            "organizational culture and habitat design",
+            "focus and productivity optimization"
+          ]
+        },
+        {
+          "name": "Fei Fei",
+          "companies": [
+            "World Labs",
+            "Google Cloud",
+            "Stanford AI Lab",
+            "ImageNet"
+          ],
+          "current_role": "Co-founder and CEO of World Labs, Co-director of Stanford HAI",
+          "episode_id": "fei-fei",
+          "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+          "themes_discussed": [
+            "artificial intelligence history and evolution",
+            "world models and spatial intelligence",
+            "ai's impact on humanity and jobs",
+            "computer vision and visual intelligence",
+            "robotics and embodied ai"
+          ]
+        },
+        {
+          "name": "Garrett Lord",
+          "companies": [
+            "Handshake",
+            "Palantir (intern)"
+          ],
+          "current_role": "Co-founder and CEO of Handshake",
+          "episode_id": "garrett-lord",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+          "themes_discussed": [
+            "ai data labeling and model training",
+            "building new businesses within existing companies",
+            "expert networks and marketplaces",
+            "ai disruption and opportunity",
+            "scaling high growth startups"
+          ]
+        },
+        {
+          "name": "Gaurav Misra",
+          "companies": [
+            "Snap",
+            "Microsoft",
+            "Captions"
+          ],
+          "current_role": "Co-founder and CEO of Captions",
+          "episode_id": "gaurav-misra",
+          "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+          "themes_discussed": [
+            "ai powered product development",
+            "high velocity shipping methodologies",
+            "consumer social app strategy",
+            "technical debt management",
+            "product team structure and operations"
+          ]
+        },
+        {
+          "name": "Gia Laudi",
+          "companies": [
+            "Unbounce",
+            "Forget The Funnel"
+          ],
+          "current_role": "Co-founder of Forget The Funnel consultancy",
+          "episode_id": "gia-laudi",
+          "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+          "themes_discussed": [
+            "customer led growth",
+            "jobs to be done framework",
+            "customer journey mapping",
+            "product onboarding optimization",
+            "messaging and positioning"
+          ]
+        },
+        {
+          "name": "Gina Gotthilf",
+          "companies": [
+            "Duolingo",
+            "Tumblr",
+            "Bloomberg Presidential Campaign"
+          ],
+          "current_role": "Co-founder and COO of Latitud",
+          "episode_id": "gina-gotthilf",
+          "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf",
+          "themes_discussed": [
+            "organic growth strategies",
+            "consumer subscription business models",
+            "international market expansion",
+            "brand building and pr",
+            "latin american tech ecosystem"
+          ]
+        },
+        {
+          "name": "Graham Weaver",
+          "companies": [
+            "Alpine Investors",
+            "Stanford Graduate School of Business"
+          ],
+          "current_role": "Founder and CEO of Alpine Investors (private equity) and Professor at Stanford Graduate School of Business",
+          "episode_id": "graham-weaver",
+          "title": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)",
+          "themes_discussed": [
+            "life purpose and career direction",
+            "breaking out of autopilot mode",
+            "overcoming limiting beliefs",
+            "personal accountability and goal setting",
+            "internal vs external scorecard"
+          ]
+        },
+        {
+          "name": "Grant Lee",
+          "companies": [
+            "Gamma",
+            "Optimizely"
+          ],
+          "current_role": "CEO and co-founder of Gamma",
+          "episode_id": "grant-lee",
+          "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)",
+          "themes_discussed": [
+            "product market fit",
+            "growth strategies",
+            "influencer marketing",
+            "founder led marketing",
+            "ai startup scaling"
+          ]
+        },
+        {
+          "name": "Howie Liu",
+          "companies": [
+            "Airtable"
+          ],
+          "current_role": "Co-founder and CEO of Airtable",
+          "episode_id": "howie-liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+          "themes_discussed": [
+            "ai transformation",
+            "organizational restructuring",
+            "founder leadership evolution",
+            "product development strategy",
+            "startup growth challenges"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "product management": 6,
+        "growth strategies": 5,
+        "product market fit": 4,
+        "leadership development": 3,
+        "decision making frameworks": 3,
+        "product development strategy": 3,
+        "career development": 2,
+        "work life balance": 2,
+        "product positioning": 2,
+        "ai product development": 2,
+        "startup scaling": 2,
+        "jobs to be done framework": 2,
+        "customer research methodology": 2,
+        "product market fit discovery": 2,
+        "company culture": 2
+      },
+      "top_themes": [
+        "product management",
+        "growth strategies",
+        "product market fit",
+        "leadership development",
+        "decision making frameworks"
+      ]
+    },
+    "consulting": {
+      "total_episodes": 23,
+      "guests": [
+        {
+          "name": "Ada Chen Rekhi",
+          "companies": [
+            "SurveyMonkey",
+            "LinkedIn",
+            "Microsoft",
+            "Notejoy"
+          ],
+          "current_role": "Executive coach and co-founder of Notejoy",
+          "episode_id": "ada-chen-rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+          "themes_discussed": [
+            "career development",
+            "executive coaching",
+            "personal values and authenticity",
+            "curiosity loops and advice gathering",
+            "career development"
+          ]
+        },
+        {
+          "name": "Adam Fishman",
+          "companies": [
+            "Lyft",
+            "Patreon",
+            "Imperfect Foods",
+            "Wyzant"
+          ],
+          "current_role": "EIR at Reforge, Growth Advisor, Newsletter Writer",
+          "episode_id": "adam-fishman",
+          "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+          "themes_discussed": [
+            "growth strategies",
+            "hiring and evaluation frameworks",
+            "onboarding optimization",
+            "career development",
+            "product market fit for candidates"
+          ]
+        },
+        {
+          "name": "Adam Grenier",
+          "companies": [
+            "Uber",
+            "MasterClass",
+            "Lambda School",
+            "Hotel Tonight"
+          ],
+          "current_role": "Advisor and investor (Andreessen Scout fund)",
+          "episode_id": "adam-grenier",
+          "title": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+          "themes_discussed": [
+            "emerging acquisition channels",
+            "growth strategies",
+            "growth strategies",
+            "product marketing integration",
+            "work life balance"
+          ]
+        },
+        {
+          "name": "Aishwarya Naresh Reganti + Kiriti Badam",
+          "companies": [
+            "OpenAI",
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "Databricks",
+            "Kumo"
+          ],
+          "current_role": "Aishwarya: AI consultant and course instructor; Kiriti: Works on Kodex at OpenAI",
+          "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+          "title": "Unknown",
+          "themes_discussed": [
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development"
+          ]
+        },
+        {
+          "name": "Alisa Cohn",
+          "companies": [
+            "Etsy",
+            "Wirecutter",
+            "Venmo",
+            "DraftKings",
+            "Microsoft",
+            "Google",
+            "Pfizer",
+            "New York Times"
+          ],
+          "current_role": "Executive Coach",
+          "episode_id": "alisa-cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+          "themes_discussed": [
+            "difficult conversations",
+            "leadership development",
+            "executive coaching",
+            "performance management",
+            "founder relationships"
+          ]
+        },
+        {
+          "name": "Andy Johns",
+          "companies": [
+            "Facebook",
+            "Twitter",
+            "Quora",
+            "Wealthfront"
+          ],
+          "current_role": "Mental health advocate and coach",
+          "episode_id": "andy-johns",
+          "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+          "themes_discussed": [
+            "mental health and burnout",
+            "personal transformation",
+            "career transition",
+            "childhood trauma and healing",
+            "self awareness and therapy"
+          ]
+        },
+        {
+          "name": "Andy Raskin",
+          "companies": [
+            "Gong",
+            "Dropbox",
+            "Uber",
+            "Salesforce",
+            "Square",
+            "IBM",
+            "Zuora"
+          ],
+          "current_role": "Strategic narrative consultant for CEOs",
+          "episode_id": "andy-raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "themes_discussed": [
+            "strategic narrative development",
+            "storytelling for business",
+            "pitch optimization",
+            "movement creation vs problem solving",
+            "enterprise sales strategy"
+          ]
+        },
+        {
+          "name": "Annie Duke",
+          "companies": [
+            "First Round Capital",
+            "Renegade Partners",
+            "World Series of Poker"
+          ],
+          "current_role": "Special Partner at First Round Capital, Decision-making consultant",
+          "episode_id": "annie-duke",
+          "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+          "themes_discussed": [
+            "decision making frameworks",
+            "organizational behavior",
+            "venture capital and investing",
+            "cognitive biases and psychology",
+            "leadership and management"
+          ]
+        },
+        {
+          "name": "April Dunford",
+          "companies": [
+            "Google",
+            "Epic Games",
+            "Help Scout",
+            "LevelJump"
+          ],
+          "current_role": "Author and positioning consultant",
+          "episode_id": "april-dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)",
+          "themes_discussed": [
+            "sales pitch frameworks",
+            "product positioning",
+            "b2b sales strategy",
+            "customer buying psychology",
+            "differentiated value proposition"
+          ]
+        },
+        {
+          "name": "Bob Baxley",
+          "companies": [
+            "Apple",
+            "Pinterest",
+            "Yahoo",
+            "ThoughtSpot",
+            "Disney"
+          ],
+          "current_role": "Design advisor and mentor (recently at ThoughtSpot)",
+          "episode_id": "bob-baxley",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "themes_discussed": [
+            "product design philosophy",
+            "software as a medium",
+            "design leadership and culture",
+            "team collaboration and structure",
+            "moral obligation in product building"
+          ]
+        },
+        {
+          "name": "Camille Fournier",
+          "companies": [
+            "Rent The Runway",
+            "Goldman Sachs",
+            "JP Morgan Chase",
+            "Two Sigma"
+          ],
+          "current_role": "Technology executive and author",
+          "episode_id": "camille-fournier",
+          "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+          "themes_discussed": [
+            "product management and engineering relationships",
+            "engineering leadership and management transitions",
+            "platform engineering and internal tooling",
+            "work life balance and productivity optimization",
+            "technical decision making and system rewrites"
+          ]
+        },
+        {
+          "name": "Carilu Dietrich",
+          "companies": [
+            "Atlassian",
+            "Segment",
+            "Miro",
+            "1Password",
+            "Bill.com",
+            "Productboard",
+            "Oracle"
+          ],
+          "current_role": "Advisor to hypergrowth B2B companies",
+          "episode_id": "carilu-dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+          "themes_discussed": [
+            "hypergrowth strategies",
+            "career development",
+            "product led growth",
+            "marketing leadership",
+            "executive decision making"
+          ]
+        },
+        {
+          "name": "Chip Huyen",
+          "companies": [
+            "NVIDIA",
+            "Netflix",
+            "Stanford University"
+          ],
+          "current_role": "AI researcher and author",
+          "episode_id": "chip-huyen",
+          "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+          "themes_discussed": [
+            "ai product development",
+            "machine learning engineering vs ai engineering",
+            "building successful ai applications",
+            "ai model training and evaluation",
+            "productivity and organizational change"
+          ]
+        },
+        {
+          "name": "Christina Wodtke",
+          "companies": [
+            "LinkedIn",
+            "MySpace",
+            "Zynga",
+            "Yahoo"
+          ],
+          "current_role": "Lecturer at Stanford, Author, and Product Management Consultant",
+          "episode_id": "christina-wodtke",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+          "themes_discussed": [
+            "okrs (objectives and key results)",
+            "product management",
+            "business focus and alignment",
+            "storytelling in business",
+            "learning and iteration"
+          ]
+        },
+        {
+          "name": "Christopher Lochhead",
+          "companies": [
+            "Three-time public company CMO",
+            "Advisor to 50+ venture-backed startups",
+            "Co-creator of Category Pirates Substack"
+          ],
+          "current_role": "Category design expert, author, and advisor",
+          "episode_id": "christopher-lochhead",
+          "title": "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)",
+          "themes_discussed": [
+            "category design",
+            "differentiation and positioning",
+            "entrepreneurship strategy",
+            "marketing fundamentals",
+            "business strategy"
+          ]
+        },
+        {
+          "name": "Elena Verna",
+          "companies": [
+            "Miro",
+            "Amplitude",
+            "Dropbox",
+            "SurveyMonkey",
+            "Superhuman",
+            "MongoDB"
+          ],
+          "current_role": "Growth advisor and consultant",
+          "episode_id": "elena-verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "themes_discussed": [
+            "growth strategy failures",
+            "team building and hiring",
+            "product led growth",
+            "career development",
+            "experimentation"
+          ]
+        },
+        {
+          "name": "Eli Schwartz",
+          "companies": [
+            "Quora",
+            "Coinbase",
+            "Tinder",
+            "LinkedIn",
+            "WordPress",
+            "Zapier",
+            "SurveyMonkey"
+          ],
+          "current_role": "SEO advisor and author",
+          "episode_id": "eli-schwartz",
+          "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+          "themes_discussed": [
+            "seo evolution with ai",
+            "product led seo strategy",
+            "ai overviews impact on search",
+            "user journey optimization",
+            "programmatic vs editorial seo"
+          ]
+        },
+        {
+          "name": "Ethan Evans",
+          "companies": [
+            "Amazon",
+            "Prime Video",
+            "Twitch"
+          ],
+          "current_role": "Executive coach and course creator",
+          "episode_id": "ethan-evans",
+          "title": "Taking control of your career | Ethan Evans (Amazon)",
+          "themes_discussed": [
+            "career development",
+            "leadership development",
+            "failure recovery",
+            "systematic invention",
+            "management relationships"
+          ]
+        },
+        {
+          "name": "Geoffrey Moore",
+          "companies": [
+            "Regis McKenna (marketing agency)",
+            "Various tech startups as advisor"
+          ],
+          "current_role": "Author and business consultant",
+          "episode_id": "geoffrey-moore",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+          "themes_discussed": [
+            "crossing the chasm",
+            "go to market strategy",
+            "technology adoption lifecycle",
+            "target market segmentation",
+            "b2b sales and marketing"
+          ]
+        },
+        {
+          "name": "Gibson Biddle",
+          "companies": [
+            "Netflix",
+            "Chegg",
+            "Electronic Arts",
+            "Disney"
+          ],
+          "current_role": "Independent product strategy teacher and consultant",
+          "episode_id": "gibson-biddle",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "themes_discussed": [
+            "product strategy frameworks",
+            "netflix product decisions and case studies",
+            "product prioritization methodologies",
+            "career advancement in product management",
+            "customer delight vs business metrics"
+          ]
+        },
+        {
+          "name": "Hamilton Helmer",
+          "companies": [
+            "Netflix",
+            "various Silicon Valley startups"
+          ],
+          "current_role": "Author of 7 Powers and strategy consultant",
+          "episode_id": "hamilton-helmer",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+          "themes_discussed": [
+            "competitive strategy",
+            "business moats",
+            "startup power dynamics",
+            "product market fit",
+            "strategic thinking"
+          ]
+        },
+        {
+          "name": "Heidi Helfand",
+          "companies": [
+            "Expertcity",
+            "AppFolio",
+            "Procore"
+          ],
+          "current_role": "Consultant and workshop facilitator on team reorganization",
+          "episode_id": "heidi-helfand",
+          "title": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)",
+          "themes_discussed": [
+            "team reorganization",
+            "organizational change management",
+            "dynamic team structures",
+            "startup scaling",
+            "leadership transitions"
+          ]
+        },
+        {
+          "name": "Hila Qu",
+          "companies": [
+            "GitLab",
+            "Reforge",
+            "Acorns"
+          ],
+          "current_role": "Growth Advisor and Former Head of Growth at GitLab",
+          "episode_id": "hila-qu",
+          "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+          "themes_discussed": [
+            "product led growth",
+            "data driven growth",
+            "activation optimization",
+            "conversion optimization",
+            "customer funnel analysis"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "ai product development": 11,
+        "career development": 6,
+        "work life balance": 5,
+        "growth strategies": 5,
+        "leadership development": 4,
+        "product led growth": 3,
+        "startup scaling": 3,
+        "executive coaching": 2,
+        "experimentation": 2,
+        "company culture": 2,
+        "product positioning": 2,
+        "go to market strategy": 2,
+        "product market fit": 2,
+        "personal values and authenticity": 1,
+        "curiosity loops and advice gathering": 1
+      },
+      "top_themes": [
+        "ai product development",
+        "career development",
+        "work life balance",
+        "growth strategies",
+        "leadership development"
+      ]
+    },
+    "vc_investor": {
+      "total_episodes": 13,
+      "guests": [
+        {
+          "name": "Adam Grenier",
+          "companies": [
+            "Uber",
+            "MasterClass",
+            "Lambda School",
+            "Hotel Tonight"
+          ],
+          "current_role": "Advisor and investor (Andreessen Scout fund)",
+          "episode_id": "adam-grenier",
+          "title": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+          "themes_discussed": [
+            "emerging acquisition channels",
+            "growth strategies",
+            "growth strategies",
+            "product marketing integration",
+            "work life balance"
+          ]
+        },
+        {
+          "name": "Annie Duke",
+          "companies": [
+            "First Round Capital",
+            "Renegade Partners",
+            "World Series of Poker"
+          ],
+          "current_role": "Special Partner at First Round Capital, Decision-making consultant",
+          "episode_id": "annie-duke",
+          "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+          "themes_discussed": [
+            "decision making frameworks",
+            "organizational behavior",
+            "venture capital and investing",
+            "cognitive biases and psychology",
+            "leadership and management"
+          ]
+        },
+        {
+          "name": "Anton Osika",
+          "companies": [
+            "Lovable",
+            "Summer Labs",
+            "YC startup (as CTO)"
+          ],
+          "current_role": "CEO and co-founder of Lovable",
+          "episode_id": "anton-osika",
+          "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+          "themes_discussed": [
+            "ai product development",
+            "product market fit and rapid scaling",
+            "building lean high performance teams",
+            "future of programming and engineering roles",
+            "european startup ecosystem"
+          ]
+        },
+        {
+          "name": "Arielle Jackson",
+          "companies": [
+            "Google",
+            "Square",
+            "First Round Capital",
+            "Patreon",
+            "Loom",
+            "Front",
+            "Eero"
+          ],
+          "current_role": "Marketing Expert in Residence at First Round Capital",
+          "episode_id": "arielle-jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+          "themes_discussed": [
+            "brand development",
+            "product positioning",
+            "startup naming strategies",
+            "marketing fundamentals",
+            "customer targeting"
+          ]
+        },
+        {
+          "name": "Ben Horowitz",
+          "companies": [
+            "Netscape",
+            "LoudCloud",
+            "Opsware",
+            "Andreessen Horowitz"
+          ],
+          "current_role": "Co-founder and General Partner at Andreessen Horowitz (a16z)",
+          "episode_id": "ben-horowitz",
+          "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+          "themes_discussed": [
+            "venture capital and investing",
+            "ceo leadership and decision making",
+            "startup struggles and failure",
+            "product management",
+            "ai industry and opportunities"
+          ]
+        },
+        {
+          "name": "Camille Ricketts",
+          "companies": [
+            "Notion",
+            "First Round Capital",
+            "Tesla",
+            "Wall Street Journal"
+          ],
+          "current_role": "Recently departed from Notion (first marketing hire), currently on sabbatical",
+          "episode_id": "camille-ricketts",
+          "title": "How Notion leveraged community to build a $10B business | Camille Ricketts",
+          "themes_discussed": [
+            "community led growth",
+            "content marketing",
+            "startup marketing strategies",
+            "product market fit",
+            "brand building"
+          ]
+        },
+        {
+          "name": "Casey Winters",
+          "companies": [
+            "Pinterest",
+            "GrubHub",
+            "Greylock Partners",
+            "Airbnb",
+            "Tinder",
+            "Canva",
+            "Thumbtack"
+          ],
+          "current_role": "Chief Product Officer at Eventbrite",
+          "episode_id": "casey-winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "executive communication",
+            "product complexity management",
+            "team development"
+          ]
+        },
+        {
+          "name": "Christian Idiodi",
+          "companies": [
+            "Silicon Valley Product Group",
+            "Snag (staffing company)",
+            "Various African startups"
+          ],
+          "current_role": "Partner at Silicon Valley Product Group (SVPG)",
+          "episode_id": "christian-idiodi",
+          "title": "The essence of product management | Christian Idiodi (SVPG)",
+          "themes_discussed": [
+            "product management",
+            "building trust and credibility",
+            "discovery and validation methods",
+            "coaching and leadership development",
+            "reference customer strategy"
+          ]
+        },
+        {
+          "name": "Dalton Caldwell",
+          "companies": [
+            "Y Combinator",
+            "imeem (acquired by MySpace)",
+            "App.net",
+            "PicPlz"
+          ],
+          "current_role": "Managing Director and Group Partner at Y Combinator",
+          "episode_id": "dalton-caldwell",
+          "title": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)",
+          "themes_discussed": [
+            "startup resilience and survival",
+            "customer validation and discovery",
+            "pivoting strategies",
+            "avoiding common startup pitfalls",
+            "fundraising and investor relations"
+          ]
+        },
+        {
+          "name": "Drew Houston",
+          "companies": [
+            "Dropbox",
+            "Y Combinator (alum)"
+          ],
+          "current_role": "CEO and Co-founder of Dropbox",
+          "episode_id": "drew-houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+          "themes_discussed": [
+            "founder journey and evolution",
+            "strategic inflection points",
+            "leadership development",
+            "competitive dynamics with big tech",
+            "company culture and scaling challenges"
+          ]
+        },
+        {
+          "name": "Emily Kramer",
+          "companies": [
+            "Asana",
+            "Carta",
+            "Ticketfly",
+            "Astro (acquired by Slack)"
+          ],
+          "current_role": "Angel investor and fund manager at Market 1 Capital",
+          "episode_id": "emily-kramer",
+          "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+          "themes_discussed": [
+            "marketing team building",
+            "growth strategies",
+            "product marketing collaboration",
+            "hiring and team structure",
+            "go to market strategy"
+          ]
+        },
+        {
+          "name": "Graham Weaver",
+          "companies": [
+            "Alpine Investors",
+            "Stanford Graduate School of Business"
+          ],
+          "current_role": "Founder and CEO of Alpine Investors (private equity) and Professor at Stanford Graduate School of Business",
+          "episode_id": "graham-weaver",
+          "title": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)",
+          "themes_discussed": [
+            "life purpose and career direction",
+            "breaking out of autopilot mode",
+            "overcoming limiting beliefs",
+            "personal accountability and goal setting",
+            "internal vs external scorecard"
+          ]
+        },
+        {
+          "name": "Gustaf Alstromer",
+          "companies": [
+            "Y Combinator",
+            "Airbnb"
+          ],
+          "current_role": "Group Partner at Y Combinator",
+          "episode_id": "gustaf-alstromer",
+          "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+          "themes_discussed": [
+            "startup fundamentals",
+            "y combinator insights",
+            "customer discovery",
+            "founder attributes",
+            "climate tech investment"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "growth strategies": 4,
+        "product management": 3,
+        "work life balance": 2,
+        "venture capital and investing": 2,
+        "product market fit": 2,
+        "emerging acquisition channels": 1,
+        "product marketing integration": 1,
+        "experimentation": 1,
+        "startup growth challenges": 1,
+        "decision making frameworks": 1,
+        "organizational behavior": 1,
+        "cognitive biases and psychology": 1,
+        "leadership and management": 1,
+        "quitting and pivoting strategies": 1,
+        "parenting and life lessons": 1
+      },
+      "top_themes": [
+        "growth strategies",
+        "product management",
+        "work life balance",
+        "venture capital and investing",
+        "product market fit"
+      ]
+    },
+    "unicorn": {
+      "total_episodes": 37,
+      "guests": [
+        {
+          "name": "Aishwarya Naresh Reganti + Kiriti Badam",
+          "companies": [
+            "OpenAI",
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "Databricks",
+            "Kumo"
+          ],
+          "current_role": "Aishwarya: AI consultant and course instructor; Kiriti: Works on Kodex at OpenAI",
+          "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+          "title": "Unknown",
+          "themes_discussed": [
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development",
+            "ai product development"
+          ]
+        },
+        {
+          "name": "Alex Komoroske",
+          "companies": [
+            "Google",
+            "Stripe"
+          ],
+          "current_role": "Startup founder reimagining the web for the AI era",
+          "episode_id": "alex-komoroske",
+          "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+          "themes_discussed": [
+            "ai and llms impact on product development",
+            "gardening vs building mindset",
+            "organizational dynamics and kayfabe",
+            "systems thinking and emergence",
+            "product strategy and navigation"
+          ]
+        },
+        {
+          "name": "Alexander Embiricos",
+          "companies": [
+            "OpenAI",
+            "Dropbox",
+            "Previous screen-sharing startup"
+          ],
+          "current_role": "Product Lead for Codex at OpenAI",
+          "episode_id": "alexander-embiricos",
+          "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+          "themes_discussed": [
+            "ai coding agents",
+            "product development at openai",
+            "developer productivity",
+            "agent human collaboration",
+            "future of software engineering"
+          ]
+        },
+        {
+          "name": "Andy Raskin",
+          "companies": [
+            "Gong",
+            "Dropbox",
+            "Uber",
+            "Salesforce",
+            "Square",
+            "IBM",
+            "Zuora"
+          ],
+          "current_role": "Strategic narrative consultant for CEOs",
+          "episode_id": "andy-raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "themes_discussed": [
+            "strategic narrative development",
+            "storytelling for business",
+            "pitch optimization",
+            "movement creation vs problem solving",
+            "enterprise sales strategy"
+          ]
+        },
+        {
+          "name": "Arielle Jackson",
+          "companies": [
+            "Google",
+            "Square",
+            "First Round Capital",
+            "Patreon",
+            "Loom",
+            "Front",
+            "Eero"
+          ],
+          "current_role": "Marketing Expert in Residence at First Round Capital",
+          "episode_id": "arielle-jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+          "themes_discussed": [
+            "brand development",
+            "product positioning",
+            "startup naming strategies",
+            "marketing fundamentals",
+            "customer targeting"
+          ]
+        },
+        {
+          "name": "Asha Sharma",
+          "companies": [
+            "Microsoft",
+            "Instacart",
+            "Meta",
+            "Home Depot (board)",
+            "Coupang (board)"
+          ],
+          "current_role": "Chief Vice President of Product for Microsoft's AI platform",
+          "episode_id": "asha-sharma",
+          "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+          "themes_discussed": [
+            "ai transformation and product development",
+            "agentic society and organizational change",
+            "product as organism vs artifact",
+            "post training and model fine tuning",
+            "future of work and team structures"
+          ]
+        },
+        {
+          "name": "Austin Hay",
+          "companies": [
+            "Ramp",
+            "Runway",
+            "mParticle",
+            "Branch Metrics",
+            "Notion",
+            "Airbnb",
+            "Postmates"
+          ],
+          "current_role": "Head of Marketing Technology at Ramp",
+          "episode_id": "austin-hay",
+          "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+          "themes_discussed": [
+            "marketing technology (martech)",
+            "growth infrastructure and systems",
+            "data architecture and attribution",
+            "tool selection and vendor management",
+            "cross functional collaboration"
+          ]
+        },
+        {
+          "name": "Ayo Omojola",
+          "companies": [
+            "Square/Cash App",
+            "Carbon Health",
+            "Pinwheel"
+          ],
+          "current_role": "Chief Product Officer at Carbon Health",
+          "episode_id": "ayo-omojola",
+          "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+          "themes_discussed": [
+            "product differentiation",
+            "team building and hiring",
+            "first principles thinking",
+            "consumer product development",
+            "regulated industry navigation"
+          ]
+        },
+        {
+          "name": "Bangaly Kaba",
+          "companies": [
+            "Facebook",
+            "Instagram",
+            "Instacart",
+            "YouTube",
+            "Twitter"
+          ],
+          "current_role": "Director of Product Management at YouTube",
+          "episode_id": "bangaly-kaba",
+          "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+          "themes_discussed": [
+            "career development and choosing where to work",
+            "product management frameworks and methodologies",
+            "growth strategies and tactics",
+            "understand work vs execution balance",
+            "team leadership and coaching"
+          ]
+        },
+        {
+          "name": "Barbra Gago",
+          "companies": [
+            "Miro",
+            "Greenhouse",
+            "CultureAmp"
+          ],
+          "current_role": "Founder/CEO at Pando (employee progression platform)",
+          "episode_id": "barbra-gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+          "themes_discussed": [
+            "category creation",
+            "brand building and rebranding",
+            "go to market strategy",
+            "opinionated software design",
+            "b2b saas marketing"
+          ]
+        },
+        {
+          "name": "Brian Balfour",
+          "companies": [
+            "HubSpot",
+            "Reforge"
+          ],
+          "current_role": "Founder and CEO of Reforge",
+          "episode_id": "brian-balfour",
+          "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour",
+          "themes_discussed": [
+            "distribution platforms and growth channels",
+            "ai technology transformation",
+            "startup vs incumbent competition dynamics",
+            "platform lifecycle and monetization",
+            "product development strategy"
+          ]
+        },
+        {
+          "name": "Brian Chesky",
+          "companies": [
+            "Airbnb"
+          ],
+          "current_role": "CEO and Co-founder of Airbnb",
+          "episode_id": "brian-chesky",
+          "title": "Brian Chesky’s new playbook",
+          "themes_discussed": [
+            "product management transformation",
+            "organizational structure and functional vs divisional models",
+            "leadership philosophy and being in the details",
+            "product development and launches",
+            "company culture"
+          ]
+        },
+        {
+          "name": "Brian Tolkin",
+          "companies": [
+            "Uber",
+            "Opendoor"
+          ],
+          "current_role": "Head of Product and Design at Opendoor",
+          "episode_id": "brian-tolkin",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+          "themes_discussed": [
+            "product and operations integration",
+            "scaling high touch businesses",
+            "product leadership",
+            "experimentation at low volume",
+            "jobs to be done framework"
+          ]
+        },
+        {
+          "name": "Cam Adams",
+          "companies": [
+            "Canva",
+            "Google"
+          ],
+          "current_role": "Co-founder and Chief Product Officer at Canva",
+          "episode_id": "cam-adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "company culture and coaching",
+            "freemium business models",
+            "ai integration"
+          ]
+        },
+        {
+          "name": "Camille Ricketts",
+          "companies": [
+            "Notion",
+            "First Round Capital",
+            "Tesla",
+            "Wall Street Journal"
+          ],
+          "current_role": "Recently departed from Notion (first marketing hire), currently on sabbatical",
+          "episode_id": "camille-ricketts",
+          "title": "How Notion leveraged community to build a $10B business | Camille Ricketts",
+          "themes_discussed": [
+            "community led growth",
+            "content marketing",
+            "startup marketing strategies",
+            "product market fit",
+            "brand building"
+          ]
+        },
+        {
+          "name": "Carilu Dietrich",
+          "companies": [
+            "Atlassian",
+            "Segment",
+            "Miro",
+            "1Password",
+            "Bill.com",
+            "Productboard",
+            "Oracle"
+          ],
+          "current_role": "Advisor to hypergrowth B2B companies",
+          "episode_id": "carilu-dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+          "themes_discussed": [
+            "hypergrowth strategies",
+            "career development",
+            "product led growth",
+            "marketing leadership",
+            "executive decision making"
+          ]
+        },
+        {
+          "name": "Casey Winters",
+          "companies": [
+            "Pinterest",
+            "GrubHub",
+            "Greylock Partners",
+            "Airbnb",
+            "Tinder",
+            "Canva",
+            "Thumbtack"
+          ],
+          "current_role": "Chief Product Officer at Eventbrite",
+          "episode_id": "casey-winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "executive communication",
+            "product complexity management",
+            "team development"
+          ]
+        },
+        {
+          "name": "Chip Conley",
+          "companies": [
+            "Airbnb",
+            "Joie de Vivre Hotels",
+            "Burning Man Board",
+            "Esalen Institute"
+          ],
+          "current_role": "Founder of Modern Elder Academy (MEA)",
+          "episode_id": "chip-conley",
+          "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+          "themes_discussed": [
+            "ageism in tech",
+            "intergenerational collaboration",
+            "working for founders",
+            "culture building",
+            "midlife transitions"
+          ]
+        },
+        {
+          "name": "Christopher Miller",
+          "companies": [
+            "HubSpot",
+            "fitness technology company",
+            "B2B2C product company"
+          ],
+          "current_role": "VP of Product for Growth and AI at HubSpot",
+          "episode_id": "christopher-miller",
+          "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller",
+          "themes_discussed": [
+            "product led growth (plg)",
+            "product management",
+            "hubspot's growth strategy",
+            "customer obsession and data driven decisions",
+            "ai and growth team integration"
+          ]
+        },
+        {
+          "name": "Claire Butler",
+          "companies": [
+            "Figma"
+          ],
+          "current_role": "Go-to-market leader at Figma",
+          "episode_id": "claire-butler",
+          "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+          "themes_discussed": [
+            "bottom up go to market strategy",
+            "product led growth",
+            "building user love and advocacy",
+            "community driven marketing",
+            "early stage startup execution"
+          ]
+        },
+        {
+          "name": "David Singleton",
+          "companies": [
+            "Stripe",
+            "Google"
+          ],
+          "current_role": "Chief Technology Officer at Stripe",
+          "episode_id": "david-singleton",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "themes_discussed": [
+            "building product minded engineering culture",
+            "user centric product development",
+            "engineering excellence and reliability",
+            "hiring and talent development",
+            "operational excellence and craft"
+          ]
+        },
+        {
+          "name": "Dhanji R. Prasanna",
+          "companies": [
+            "Block/Square",
+            "Google",
+            "Cash App"
+          ],
+          "current_role": "Chief Technology Officer at Block",
+          "episode_id": "dhanji-r-prasanna",
+          "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+          "themes_discussed": [
+            "ai transformation and adoption",
+            "engineering productivity and automation",
+            "organizational structure and conway's law",
+            "open source strategy",
+            "technology leadership"
+          ]
+        },
+        {
+          "name": "Dharmesh Shah",
+          "companies": [
+            "HubSpot"
+          ],
+          "current_role": "Co-founder and CTO of HubSpot",
+          "episode_id": "dharmesh-shah",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+          "themes_discussed": [
+            "contrarian company building",
+            "growth strategies",
+            "organizational culture development",
+            "public speaking and humor",
+            "decision making frameworks"
+          ]
+        },
+        {
+          "name": "Drew Houston",
+          "companies": [
+            "Dropbox",
+            "Y Combinator (alum)"
+          ],
+          "current_role": "CEO and Co-founder of Dropbox",
+          "episode_id": "drew-houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+          "themes_discussed": [
+            "founder journey and evolution",
+            "strategic inflection points",
+            "leadership development",
+            "competitive dynamics with big tech",
+            "company culture and scaling challenges"
+          ]
+        },
+        {
+          "name": "Dylan Field",
+          "companies": [
+            "Figma",
+            "LinkedIn (intern)"
+          ],
+          "current_role": "CEO and Co-founder of Figma",
+          "episode_id": "dylan-field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+          "themes_discussed": [
+            "product management",
+            "design philosophy and simplification",
+            "ai's impact on design and craft",
+            "early stage product development",
+            "leadership and scaling"
+          ]
+        },
+        {
+          "name": "Eeke de Milliano",
+          "companies": [
+            "Retool",
+            "Stripe"
+          ],
+          "current_role": "Head of Product at Retool",
+          "episode_id": "eeke-de-milliano",
+          "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+          "themes_discussed": [
+            "fostering innovation and big thinking",
+            "product management at high growth companies",
+            "company culture and operating principles",
+            "process vs creativity balance",
+            "customer centric product development"
+          ]
+        },
+        {
+          "name": "Elena Verna",
+          "companies": [
+            "Miro",
+            "Amplitude",
+            "Dropbox",
+            "SurveyMonkey",
+            "Superhuman",
+            "MongoDB"
+          ],
+          "current_role": "Growth advisor and consultant",
+          "episode_id": "elena-verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "themes_discussed": [
+            "growth strategy failures",
+            "team building and hiring",
+            "product led growth",
+            "career development",
+            "experimentation"
+          ]
+        },
+        {
+          "name": "Elena Verna 4.0",
+          "companies": [
+            "Lovable",
+            "Amplitude",
+            "Miro",
+            "Dropbox",
+            "SurveyMonkey",
+            "Netlify"
+          ],
+          "current_role": "Head of Growth at Lovable",
+          "episode_id": "elena-verna-40",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "themes_discussed": [
+            "ai company growth strategies",
+            "product market fit in ai era",
+            "minimum lovable product development",
+            "building in public and social marketing",
+            "team building and hiring in ai startups"
+          ]
+        },
+        {
+          "name": "Eli Schwartz",
+          "companies": [
+            "Quora",
+            "Coinbase",
+            "Tinder",
+            "LinkedIn",
+            "WordPress",
+            "Zapier",
+            "SurveyMonkey"
+          ],
+          "current_role": "SEO advisor and author",
+          "episode_id": "eli-schwartz",
+          "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+          "themes_discussed": [
+            "seo evolution with ai",
+            "product led seo strategy",
+            "ai overviews impact on search",
+            "user journey optimization",
+            "programmatic vs editorial seo"
+          ]
+        },
+        {
+          "name": "Emily Kramer",
+          "companies": [
+            "Asana",
+            "Carta",
+            "Ticketfly",
+            "Astro (acquired by Slack)"
+          ],
+          "current_role": "Angel investor and fund manager at Market 1 Capital",
+          "episode_id": "emily-kramer",
+          "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+          "themes_discussed": [
+            "marketing team building",
+            "growth strategies",
+            "product marketing collaboration",
+            "hiring and team structure",
+            "go to market strategy"
+          ]
+        },
+        {
+          "name": "EOY Review",
+          "companies": [
+            "Facebook",
+            "Google",
+            "Stripe",
+            "Twitter",
+            "YouTube",
+            "Gojek",
+            "Amplitude",
+            "Miro",
+            "OpenAI",
+            "Coinbase",
+            "Notion"
+          ],
+          "current_role": "Various - Year-end review episode featuring multiple guests",
+          "episode_id": "eoy-review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "positioning and marketing",
+            "behavioral science",
+            "leadership and career development"
+          ]
+        },
+        {
+          "name": "Failure",
+          "companies": [
+            "Airbnb",
+            "Stripe",
+            "Intercom",
+            "Duolingo",
+            "Google",
+            "Facebook",
+            "Quibi",
+            "Pets.com"
+          ],
+          "current_role": "Compilation Episode - Multiple Guests",
+          "episode_id": "failure",
+          "title": "Failure",
+          "themes_discussed": [
+            "failure and learning from setbacks",
+            "leadership challenges and trust building",
+            "product management mistakes",
+            "career resilience and growth",
+            "experimentation and testing strategies"
+          ]
+        },
+        {
+          "name": "Fareed Mosavat",
+          "companies": [
+            "Reforge",
+            "Slack",
+            "Instacart",
+            "Pixar",
+            "Zynga",
+            "Runkeeper"
+          ],
+          "current_role": "Chief Development Officer at Reforge",
+          "episode_id": "fareed-mosavat",
+          "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+          "themes_discussed": [
+            "product management",
+            "leadership transition challenges",
+            "trust building and sponsorship",
+            "alternative career paths in tech",
+            "product management learning loops"
+          ]
+        },
+        {
+          "name": "Gokul Rajaram",
+          "companies": [
+            "Google",
+            "Facebook",
+            "Square",
+            "DoorDash",
+            "Coinbase (board)",
+            "Pinterest (board)"
+          ],
+          "current_role": "Senior executive at DoorDash",
+          "episode_id": "gokul-rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+          "themes_discussed": [
+            "product management",
+            "team building and hiring",
+            "angel investing strategies",
+            "company culture",
+            "product development processes"
+          ]
+        },
+        {
+          "name": "Gustaf Alstromer",
+          "companies": [
+            "Y Combinator",
+            "Airbnb"
+          ],
+          "current_role": "Group Partner at Y Combinator",
+          "episode_id": "gustaf-alstromer",
+          "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+          "themes_discussed": [
+            "startup fundamentals",
+            "y combinator insights",
+            "customer discovery",
+            "founder attributes",
+            "climate tech investment"
+          ]
+        },
+        {
+          "name": "Hilary Gridley",
+          "companies": [
+            "Whoop",
+            "Big Health",
+            "Dropbox"
+          ],
+          "current_role": "Head of Core Product at Whoop",
+          "episode_id": "hilary-gridley",
+          "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+          "themes_discussed": [
+            "product leadership",
+            "team resilience",
+            "dealing with adversity",
+            "ai adoption and learning",
+            "mental models and understanding others"
+          ]
+        },
+        {
+          "name": "Howie Liu",
+          "companies": [
+            "Airtable"
+          ],
+          "current_role": "Co-founder and CEO of Airtable",
+          "episode_id": "howie-liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+          "themes_discussed": [
+            "ai transformation",
+            "organizational restructuring",
+            "founder leadership evolution",
+            "product development strategy",
+            "startup growth challenges"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "ai product development": 10,
+        "product management": 8,
+        "growth strategies": 6,
+        "product positioning": 3,
+        "team building and hiring": 3,
+        "startup scaling": 3,
+        "product market fit": 3,
+        "product led growth": 3,
+        "first principles thinking": 2,
+        "go to market strategy": 2,
+        "product development strategy": 2,
+        "company culture": 2,
+        "product leadership": 2,
+        "freemium business models": 2,
+        "career development": 2
+      },
+      "top_themes": [
+        "ai product development",
+        "product management",
+        "growth strategies",
+        "product positioning",
+        "team building and hiring"
+      ]
+    },
+    "fintech": {
+      "total_episodes": 16,
+      "guests": [
+        {
+          "name": "Alex Komoroske",
+          "companies": [
+            "Google",
+            "Stripe"
+          ],
+          "current_role": "Startup founder reimagining the web for the AI era",
+          "episode_id": "alex-komoroske",
+          "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+          "themes_discussed": [
+            "ai and llms impact on product development",
+            "gardening vs building mindset",
+            "organizational dynamics and kayfabe",
+            "systems thinking and emergence",
+            "product strategy and navigation"
+          ]
+        },
+        {
+          "name": "Andy Raskin",
+          "companies": [
+            "Gong",
+            "Dropbox",
+            "Uber",
+            "Salesforce",
+            "Square",
+            "IBM",
+            "Zuora"
+          ],
+          "current_role": "Strategic narrative consultant for CEOs",
+          "episode_id": "andy-raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "themes_discussed": [
+            "strategic narrative development",
+            "storytelling for business",
+            "pitch optimization",
+            "movement creation vs problem solving",
+            "enterprise sales strategy"
+          ]
+        },
+        {
+          "name": "Anneka Gupta",
+          "companies": [
+            "Rubrik",
+            "LiveRamp",
+            "Stanford University"
+          ],
+          "current_role": "Chief Product Officer at Rubrik",
+          "episode_id": "anneka-gupta",
+          "title": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta",
+          "themes_discussed": [
+            "product management",
+            "leadership mindset and approach",
+            "giving and receiving feedback",
+            "navigating difficult personalities",
+            "founder mode operations"
+          ]
+        },
+        {
+          "name": "Arielle Jackson",
+          "companies": [
+            "Google",
+            "Square",
+            "First Round Capital",
+            "Patreon",
+            "Loom",
+            "Front",
+            "Eero"
+          ],
+          "current_role": "Marketing Expert in Residence at First Round Capital",
+          "episode_id": "arielle-jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+          "themes_discussed": [
+            "brand development",
+            "product positioning",
+            "startup naming strategies",
+            "marketing fundamentals",
+            "customer targeting"
+          ]
+        },
+        {
+          "name": "Austin Hay",
+          "companies": [
+            "Ramp",
+            "Runway",
+            "mParticle",
+            "Branch Metrics",
+            "Notion",
+            "Airbnb",
+            "Postmates"
+          ],
+          "current_role": "Head of Marketing Technology at Ramp",
+          "episode_id": "austin-hay",
+          "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+          "themes_discussed": [
+            "marketing technology (martech)",
+            "growth infrastructure and systems",
+            "data architecture and attribution",
+            "tool selection and vendor management",
+            "cross functional collaboration"
+          ]
+        },
+        {
+          "name": "Ayo Omojola",
+          "companies": [
+            "Square/Cash App",
+            "Carbon Health",
+            "Pinwheel"
+          ],
+          "current_role": "Chief Product Officer at Carbon Health",
+          "episode_id": "ayo-omojola",
+          "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+          "themes_discussed": [
+            "product differentiation",
+            "team building and hiring",
+            "first principles thinking",
+            "consumer product development",
+            "regulated industry navigation"
+          ]
+        },
+        {
+          "name": "David Singleton",
+          "companies": [
+            "Stripe",
+            "Google"
+          ],
+          "current_role": "Chief Technology Officer at Stripe",
+          "episode_id": "david-singleton",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "themes_discussed": [
+            "building product minded engineering culture",
+            "user centric product development",
+            "engineering excellence and reliability",
+            "hiring and talent development",
+            "operational excellence and craft"
+          ]
+        },
+        {
+          "name": "Deb Liu",
+          "companies": [
+            "Facebook",
+            "PayPal",
+            "eBay",
+            "Ancestry",
+            "Intuit"
+          ],
+          "current_role": "CEO of Ancestry",
+          "episode_id": "deb-liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu",
+          "themes_discussed": [
+            "career development strategy",
+            "product management",
+            "zero to one product development",
+            "introvert success in business",
+            "resilience and failure recovery"
+          ]
+        },
+        {
+          "name": "Dhanji R. Prasanna",
+          "companies": [
+            "Block/Square",
+            "Google",
+            "Cash App"
+          ],
+          "current_role": "Chief Technology Officer at Block",
+          "episode_id": "dhanji-r-prasanna",
+          "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+          "themes_discussed": [
+            "ai transformation and adoption",
+            "engineering productivity and automation",
+            "organizational structure and conway's law",
+            "open source strategy",
+            "technology leadership"
+          ]
+        },
+        {
+          "name": "Eeke de Milliano",
+          "companies": [
+            "Retool",
+            "Stripe"
+          ],
+          "current_role": "Head of Product at Retool",
+          "episode_id": "eeke-de-milliano",
+          "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+          "themes_discussed": [
+            "fostering innovation and big thinking",
+            "product management at high growth companies",
+            "company culture and operating principles",
+            "process vs creativity balance",
+            "customer centric product development"
+          ]
+        },
+        {
+          "name": "Eli Schwartz",
+          "companies": [
+            "Quora",
+            "Coinbase",
+            "Tinder",
+            "LinkedIn",
+            "WordPress",
+            "Zapier",
+            "SurveyMonkey"
+          ],
+          "current_role": "SEO advisor and author",
+          "episode_id": "eli-schwartz",
+          "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+          "themes_discussed": [
+            "seo evolution with ai",
+            "product led seo strategy",
+            "ai overviews impact on search",
+            "user journey optimization",
+            "programmatic vs editorial seo"
+          ]
+        },
+        {
+          "name": "Emilie Gerber",
+          "companies": [
+            "Uber",
+            "Box",
+            "Ramp",
+            "Perplexity",
+            "Gamma"
+          ],
+          "current_role": "Founder and CEO of Six Eastern PR agency",
+          "episode_id": "emilie-gerber",
+          "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+          "themes_discussed": [
+            "public relations strategy",
+            "media outreach tactics",
+            "startup press coverage",
+            "b2b vs b2c pr approaches",
+            "pitch writing and messaging"
+          ]
+        },
+        {
+          "name": "EOY Review",
+          "companies": [
+            "Facebook",
+            "Google",
+            "Stripe",
+            "Twitter",
+            "YouTube",
+            "Gojek",
+            "Amplitude",
+            "Miro",
+            "OpenAI",
+            "Coinbase",
+            "Notion"
+          ],
+          "current_role": "Various - Year-end review episode featuring multiple guests",
+          "episode_id": "eoy-review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "themes_discussed": [
+            "product management",
+            "growth strategies",
+            "positioning and marketing",
+            "behavioral science",
+            "leadership and career development"
+          ]
+        },
+        {
+          "name": "Failure",
+          "companies": [
+            "Airbnb",
+            "Stripe",
+            "Intercom",
+            "Duolingo",
+            "Google",
+            "Facebook",
+            "Quibi",
+            "Pets.com"
+          ],
+          "current_role": "Compilation Episode - Multiple Guests",
+          "episode_id": "failure",
+          "title": "Failure",
+          "themes_discussed": [
+            "failure and learning from setbacks",
+            "leadership challenges and trust building",
+            "product management mistakes",
+            "career resilience and growth",
+            "experimentation and testing strategies"
+          ]
+        },
+        {
+          "name": "Geoff Charles",
+          "companies": [
+            "Ramp"
+          ],
+          "current_role": "VP of Product at Ramp",
+          "episode_id": "geoff-charles",
+          "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+          "themes_discussed": [
+            "velocity and speed in product development",
+            "empowering product teams",
+            "hiring and building a plus teams",
+            "first principles thinking",
+            "product strategy and planning"
+          ]
+        },
+        {
+          "name": "Gokul Rajaram",
+          "companies": [
+            "Google",
+            "Facebook",
+            "Square",
+            "DoorDash",
+            "Coinbase (board)",
+            "Pinterest (board)"
+          ],
+          "current_role": "Senior executive at DoorDash",
+          "episode_id": "gokul-rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+          "themes_discussed": [
+            "product management",
+            "team building and hiring",
+            "angel investing strategies",
+            "company culture",
+            "product development processes"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "product management": 4,
+        "first principles thinking": 3,
+        "product positioning": 2,
+        "team building and hiring": 2,
+        "ai and llms impact on product development": 1,
+        "gardening vs building mindset": 1,
+        "organizational dynamics and kayfabe": 1,
+        "systems thinking and emergence": 1,
+        "product strategy and navigation": 1,
+        "personal productivity and reflection": 1,
+        "community building and strategy salons": 1,
+        "the adjacent possible and incremental progress": 1,
+        "taste and differentiation in the ai era": 1,
+        "strategic narrative development": 1,
+        "storytelling for business": 1
+      },
+      "top_themes": [
+        "product management",
+        "first principles thinking",
+        "product positioning",
+        "team building and hiring",
+        "ai and llms impact on product development"
+      ]
+    },
+    "other": {
+      "total_episodes": 8,
+      "guests": [
+        {
+          "name": "Archie Abrams",
+          "companies": [
+            "Shopify",
+            "Udemy"
+          ],
+          "current_role": "VP of Product and Head of Growth at Shopify",
+          "episode_id": "archie-abrams",
+          "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+          "themes_discussed": [
+            "growth strategy",
+            "long term thinking vs short term metrics",
+            "experimentation and holdout testing",
+            "product led growth",
+            "organizational structure"
+          ]
+        },
+        {
+          "name": "Brandon Chu",
+          "companies": [
+            "Shopify",
+            "FreshBooks",
+            "Tunezy",
+            "Kraft Foods"
+          ],
+          "current_role": "VP of Product at Shopify (Product Acceleration team)",
+          "episode_id": "brandon-chu",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+          "themes_discussed": [
+            "product management",
+            "remote work culture",
+            "platform product management",
+            "decision making frameworks",
+            "writing for career growth"
+          ]
+        },
+        {
+          "name": "Christine Itwaru",
+          "companies": [
+            "Pendo"
+          ],
+          "current_role": "Product Operations Leader at Pendo",
+          "episode_id": "christine-itwaru",
+          "title": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+          "themes_discussed": [
+            "product operations",
+            "product management",
+            "cross functional alignment",
+            "voice of customer management",
+            "team efficiency and scaling"
+          ]
+        },
+        {
+          "name": "Crystal W",
+          "companies": [
+            "Gojek",
+            "Kumu",
+            "Generation Girl (founder)"
+          ],
+          "current_role": "Chief Product Officer at Kumu",
+          "episode_id": "crystal-w",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+          "themes_discussed": [
+            "growth strategies",
+            "consumer product growth",
+            "southeast asian startup ecosystem",
+            "data analytics and instrumentation",
+            "growth strategies"
+          ]
+        },
+        {
+          "name": "Dan Hockenmaier",
+          "companies": [
+            "Thumbtack",
+            "Faire",
+            "Basis One (consulting firm)"
+          ],
+          "current_role": "Head of Strategy and Analytics at Faire",
+          "episode_id": "dan-hockenmaier",
+          "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+          "themes_discussed": [
+            "growth models",
+            "marketplace strategy",
+            "unit economics",
+            "customer retention",
+            "liquidity optimization"
+          ]
+        },
+        {
+          "name": "Dmitry Zlokazov",
+          "companies": [
+            "Revolut"
+          ],
+          "current_role": "Global Head of Product at Revolut",
+          "episode_id": "dmitry-zlokazov",
+          "title": "Unknown",
+          "themes_discussed": [
+            "product management excellence",
+            "hiring and developing talent",
+            "building lovable products",
+            "ownership and autonomy",
+            "scaling product organizations"
+          ]
+        },
+        {
+          "name": "Donna Lichaw",
+          "companies": [],
+          "current_role": "Unknown",
+          "episode_id": "donna-lichaw",
+          "title": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw",
+          "themes_discussed": []
+        },
+        {
+          "name": "Hamel+Shreya",
+          "companies": [
+            "Maven",
+            "major AI labs",
+            "various AI startups"
+          ],
+          "current_role": "AI Evaluation Course Instructors at Maven",
+          "episode_id": "hamelshreya",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+          "themes_discussed": [
+            "ai product development",
+            "evaluation methodologies",
+            "product management",
+            "error analysis",
+            "data science for ai"
+          ]
+        }
+      ],
+      "aggregate_themes": {
+        "product management": 3,
+        "product led growth": 2,
+        "scaling product organizations": 2,
+        "growth strategies": 2,
+        "product market fit": 2,
+        "growth strategy": 1,
+        "long term thinking vs short term metrics": 1,
+        "experimentation and holdout testing": 1,
+        "organizational structure": 1,
+        "metrics and measurement": 1,
+        "founder mode leadership": 1,
+        "churn optimization": 1,
+        "team collaboration": 1,
+        "remote work culture": 1,
+        "platform product management": 1
+      },
+      "top_themes": [
+        "product management",
+        "product led growth",
+        "scaling product organizations",
+        "growth strategies",
+        "product market fit"
+      ]
+    }
+  },
+  "expertise_to_topics": {
+    "growth": {
+      "total_episodes": 34,
+      "common_themes": [
+        "growth strategies",
+        "product led growth",
+        "work life balance",
+        "product management",
+        "career development",
+        "experimentation",
+        "startup scaling",
+        "product market fit"
+      ],
+      "theme_counts": {
+        "growth strategies": 14,
+        "product led growth": 9,
+        "work life balance": 6,
+        "product management": 6,
+        "career development": 5,
+        "experimentation": 5,
+        "startup scaling": 5,
+        "product market fit": 5,
+        "leadership development": 4,
+        "cross functional collaboration": 4
+      },
+      "common_frameworks": [
+        "curiosity loops",
+        "explore and exploit (career strategy)",
+        "values-based decision making",
+        "inner vs outer scorecard",
+        "eating your vegetables (skill development)"
+      ]
+    },
+    "ai_ml": {
+      "total_episodes": 29,
+      "common_themes": [
+        "ai product development",
+        "product management",
+        "product market fit discovery",
+        "product development strategy",
+        "organizational design",
+        "future of work and coding",
+        "company culture change",
+        "growth strategies"
+      ],
+      "theme_counts": {
+        "ai product development": 14,
+        "product management": 6,
+        "product market fit discovery": 2,
+        "product development strategy": 2,
+        "organizational design": 2,
+        "future of work and coding": 2,
+        "company culture change": 2,
+        "growth strategies": 2,
+        "leadership philosophy": 2,
+        "product market fit": 2
+      },
+      "common_frameworks": [
+        "model context protocol (mcp)",
+        "jobs to be done",
+        "continuous calibration continuous development (cccd)",
+        "agency-control trade-off framework",
+        "problem-first approach"
+      ]
+    },
+    "product": {
+      "total_episodes": 16,
+      "common_themes": [
+        "product management",
+        "decision making frameworks",
+        "team building and hiring",
+        "jobs to be done framework",
+        "scaling product organizations",
+        "team dynamics and collaboration",
+        "company culture",
+        "product development processes"
+      ],
+      "theme_counts": {
+        "product management": 9,
+        "decision making frameworks": 3,
+        "team building and hiring": 2,
+        "jobs to be done framework": 2,
+        "scaling product organizations": 2,
+        "team dynamics and collaboration": 2,
+        "company culture": 2,
+        "product development processes": 2,
+        "mission driven product development": 1,
+        "subscription business strategy": 1
+      },
+      "common_frameworks": [
+        "jobs-to-be-done framework",
+        "solar system product strategy (news as the sun, other products as planets)",
+        "cross-functional mission structure (consumer, monetization, platform)",
+        "wartime vs. peacetime product management",
+        "art and science blend for editorial products"
+      ]
+    },
+    "leadership": {
+      "total_episodes": 6,
+      "common_themes": [
+        "leadership development",
+        "conflict resolution",
+        "emotional intelligence",
+        "difficult conversations",
+        "executive coaching",
+        "performance management",
+        "founder relationships",
+        "meeting effectiveness"
+      ],
+      "theme_counts": {
+        "leadership development": 3,
+        "conflict resolution": 2,
+        "emotional intelligence": 2,
+        "difficult conversations": 1,
+        "executive coaching": 1,
+        "performance management": 1,
+        "founder relationships": 1,
+        "meeting effectiveness": 1,
+        "feedback delivery": 1,
+        "company culture": 1
+      },
+      "common_frameworks": [
+        "three meeting-ending questions framework",
+        "co-founder prenup questionnaire",
+        "personal operating manual",
+        "observable facts approach to feedback",
+        "values clarification exercise"
+      ]
+    },
+    "general": {
+      "total_episodes": 5,
+      "common_themes": [
+        "product market fit",
+        "strategic narrative development",
+        "storytelling for business",
+        "pitch optimization",
+        "movement creation vs problem solving",
+        "enterprise sales strategy",
+        "product positioning",
+        "category design alternatives"
+      ],
+      "theme_counts": {
+        "product market fit": 2,
+        "strategic narrative development": 1,
+        "storytelling for business": 1,
+        "pitch optimization": 1,
+        "movement creation vs problem solving": 1,
+        "enterprise sales strategy": 1,
+        "product positioning": 1,
+        "category design alternatives": 1,
+        "organizational alignment": 1,
+        "b2b marketing strategy": 1
+      },
+      "common_frameworks": [
+        "strategic narrative five-step framework",
+        "old game to new game structure",
+        "the arrogant doctor pitch model",
+        "hero's journey (referenced but not recommended)",
+        "movement creation methodology"
+      ]
+    },
+    "marketing": {
+      "total_episodes": 7,
+      "common_themes": [
+        "product positioning",
+        "go to market strategy",
+        "sales pitch frameworks",
+        "b2b sales strategy",
+        "customer buying psychology",
+        "differentiated value proposition",
+        "sales enablement",
+        "competitive positioning"
+      ],
+      "theme_counts": {
+        "product positioning": 3,
+        "go to market strategy": 2,
+        "sales pitch frameworks": 1,
+        "b2b sales strategy": 1,
+        "customer buying psychology": 1,
+        "differentiated value proposition": 1,
+        "sales enablement": 1,
+        "competitive positioning": 1,
+        "customer decision making": 1,
+        "brand development": 1
+      },
+      "common_frameworks": [
+        "jobs to be done framework",
+        "april dunford's sales pitch framework (setup + follow-through)",
+        "bowling pin strategy (geoffrey moore)",
+        "the jolt effect methodology",
+        "challenger sale approach"
+      ]
+    },
+    "design": {
+      "total_episodes": 9,
+      "common_themes": [
+        "product management",
+        "decision making frameworks",
+        "growth strategies",
+        "amazon's ways of working",
+        "process innovation at scale",
+        "working backwards methodology",
+        "single threaded leadership",
+        "product development processes"
+      ],
+      "theme_counts": {
+        "product management": 3,
+        "decision making frameworks": 2,
+        "growth strategies": 2,
+        "amazon's ways of working": 1,
+        "process innovation at scale": 1,
+        "working backwards methodology": 1,
+        "single threaded leadership": 1,
+        "product development processes": 1,
+        "organizational design": 1,
+        "input vs output metrics": 1
+      },
+      "common_frameworks": [
+        "working backwards methodology",
+        "pr/faq process",
+        "single-threaded leadership",
+        "input vs output metrics",
+        "disagree and commit"
+      ]
+    },
+    "engineering": {
+      "total_episodes": 4,
+      "common_themes": [
+        "product management and engineering relationships",
+        "engineering leadership and management transitions",
+        "platform engineering and internal tooling",
+        "work life balance and productivity optimization",
+        "technical decision making and system rewrites",
+        "team culture and stakeholder management",
+        "career development in tech",
+        "delegation and focus strategies"
+      ],
+      "theme_counts": {
+        "product management and engineering relationships": 1,
+        "engineering leadership and management transitions": 1,
+        "platform engineering and internal tooling": 1,
+        "work life balance and productivity optimization": 1,
+        "technical decision making and system rewrites": 1,
+        "team culture and stakeholder management": 1,
+        "career development in tech": 1,
+        "delegation and focus strategies": 1,
+        "building product minded engineering culture": 1,
+        "user centric product development": 1
+      },
+      "common_frameworks": [
+        "dora framework (mentioned by sponsor)",
+        "space framework (mentioned by sponsor)",
+        "okr/goal-setting methodologies",
+        "agile project management principles",
+        "servant leadership concepts"
+      ]
+    }
+  },
+  "cross_category_analysis": {
+    "founders_vs_big_tech": {
+      "founder_unique": [
+        "product market fit",
+        "decision making frameworks",
+        "product development strategy",
+        "product market fit discovery",
+        "jobs to be done framework"
+      ],
+      "big_tech_unique": [
+        "product management",
+        "ai product development",
+        "career development",
+        "work life balance",
+        "startup scaling"
+      ],
+      "shared": [
+        "growth strategies",
+        "leadership development",
+        "company culture",
+        "product positioning"
+      ]
+    },
+    "consultants_vs_operators": {
+      "consultant_unique": [
+        "ai product development",
+        "career development",
+        "work life balance",
+        "leadership development",
+        "product led growth"
+      ],
+      "operator_unique": [
+        "product management",
+        "product development processes",
+        "cross functional collaboration",
+        "organizational design"
+      ],
+      "shared": [
+        "growth strategies",
+        "startup scaling",
+        "company culture",
+        "experimentation"
+      ]
+    },
+    "unicorn_vs_big_tech": {
+      "unicorn_unique": [
+        "ai product development",
+        "product market fit",
+        "team building and hiring",
+        "product positioning",
+        "product leadership"
+      ],
+      "big_tech_unique": [
+        "career development",
+        "leadership development",
+        "work life balance",
+        "product development processes",
+        "experimentation"
+      ],
+      "shared": [
+        "product management",
+        "growth strategies",
+        "startup scaling",
+        "product led growth",
+        "company culture"
+      ]
+    }
+  },
+  "metadata": {
+    "total_episodes": 110,
+    "company_type_distribution": {
+      "big_tech": 69,
+      "founder": 37,
+      "consulting": 23,
+      "vc_investor": 13,
+      "unicorn": 37,
+      "fintech": 16,
+      "other": 8
+    },
+    "expertise_distribution": {
+      "growth": 34,
+      "ai_ml": 29,
+      "product": 16,
+      "leadership": 6,
+      "general": 5,
+      "marketing": 7,
+      "design": 9,
+      "engineering": 4
+    },
+    "generated_at": "2026-01-16T16:44:49.992887"
+  }
+}

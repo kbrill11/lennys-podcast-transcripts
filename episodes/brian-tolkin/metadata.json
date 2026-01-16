@@ -80,5 +80,6 @@
   "difficulty_level": "intermediate",
   "summary": "Brian Tolkin shares lessons from scaling Uber and Opendoor, emphasizing how product and operations teams can work together effectively. He covers practical topics like running product reviews, implementing jobs-to-be-done, and managing experimentation with low sample sizes.",
   "analyzed_at": "2026-01-14T15:37:50.188563+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2024-08-04"
 }

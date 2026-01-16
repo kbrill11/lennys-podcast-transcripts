@@ -1,0 +1,2928 @@
+{
+  "timeline": [
+    {
+      "period": "2022-Q3",
+      "start_date": "2022-07-01",
+      "end_date": "2022-09-30",
+      "episode_count": 4,
+      "top_themes": [
+        {
+          "theme": "growth strategies",
+          "count": 3,
+          "percentage": 75.0
+        },
+        {
+          "theme": "work life balance",
+          "count": 2,
+          "percentage": 50.0
+        },
+        {
+          "theme": "emerging acquisition channels",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "product marketing integration",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "experimentation",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "startup growth challenges",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "brand development",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "product positioning",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "startup naming strategies",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "theme": "marketing fundamentals",
+          "count": 1,
+          "percentage": 25.0
+        }
+      ],
+      "episodes": [
+        {
+          "id": "adam-grenier",
+          "guest": "Adam Grenier",
+          "title": "When to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+          "date": "2022-09-15"
+        },
+        {
+          "id": "arielle-jackson",
+          "guest": "Arielle Jackson",
+          "title": "The art of building legendary brands | Arielle Jackson (Google, Square, First Round Capital)",
+          "date": "2022-08-18"
+        },
+        {
+          "id": "emily-kramer",
+          "guest": "Emily Kramer",
+          "title": "How to build a powerful marketing machine | Emily Kramer (Asana, Carta, MKT1)",
+          "date": "2022-09-11"
+        },
+        {
+          "id": "gia-laudi",
+          "guest": "Gia Laudi",
+          "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+          "date": "2022-09-29"
+        }
+      ]
+    },
+    {
+      "period": "2022-Q4",
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-31",
+      "episode_count": 11,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 5,
+          "percentage": 45.5
+        },
+        {
+          "theme": "growth strategies",
+          "count": 4,
+          "percentage": 36.4
+        },
+        {
+          "theme": "startup scaling",
+          "count": 4,
+          "percentage": 36.4
+        },
+        {
+          "theme": "product market fit",
+          "count": 3,
+          "percentage": 27.3
+        },
+        {
+          "theme": "go to market strategy",
+          "count": 2,
+          "percentage": 18.2
+        },
+        {
+          "theme": "community led growth",
+          "count": 2,
+          "percentage": 18.2
+        },
+        {
+          "theme": "hiring and evaluation frameworks",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "theme": "onboarding optimization",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "theme": "career development",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "theme": "product market fit for candidates",
+          "count": 1,
+          "percentage": 9.1
+        }
+      ],
+      "episodes": [
+        {
+          "id": "adam-fishman",
+          "guest": "Adam Fishman",
+          "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+          "date": "2022-10-13"
+        },
+        {
+          "id": "adriel-frederick",
+          "guest": "Adriel Frederick",
+          "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+          "date": "2022-10-20"
+        },
+        {
+          "id": "alex-hardimen",
+          "guest": "Alex Hardimen",
+          "title": "An inside look at how the New York Times builds product | Alex Hardiman (CPO, the New York Times)",
+          "date": "2022-11-13"
+        },
+        {
+          "id": "barbra-gago",
+          "guest": "Barbra Gago",
+          "title": "Category creation and brand building | Barbra Gago (Pando, Miro, Greenhouse, Culture Amp)",
+          "date": "2022-10-27"
+        },
+        {
+          "id": "ben-williams",
+          "guest": "Ben Williams",
+          "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+          "date": "2022-11-06"
+        },
+        {
+          "id": "camille-ricketts",
+          "guest": "Camille Ricketts",
+          "title": "How Notion leveraged community to build a $10B business | Camille Ricketts",
+          "date": "2022-12-11"
+        },
+        {
+          "id": "chris-hutchins",
+          "guest": "Chris Hutchins",
+          "title": "Launching and growing a podcast | Chris Hutchins (All the Hacks, Wealthfront, Google)",
+          "date": "2022-12-18"
+        },
+        {
+          "id": "dan-hockenmaier",
+          "guest": "Dan Hockenmaier",
+          "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier",
+          "date": "2022-10-09"
+        },
+        {
+          "id": "fareed-mosavat",
+          "guest": "Fareed Mosavat",
+          "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Pixar)",
+          "date": "2022-10-23"
+        },
+        {
+          "id": "geoffrey-moore",
+          "guest": "Geoffrey Moore",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+          "date": "2022-11-17"
+        },
+        {
+          "id": "gergely",
+          "guest": "Gergely",
+          "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+          "date": "2022-11-17"
+        }
+      ]
+    },
+    {
+      "period": "2023-Q1",
+      "start_date": "2023-01-01",
+      "end_date": "2023-03-31",
+      "episode_count": 7,
+      "top_themes": [
+        {
+          "theme": "growth strategies",
+          "count": 3,
+          "percentage": 42.9
+        },
+        {
+          "theme": "product led growth",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "theme": "product development processes",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "theme": "product management",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "theme": "product market fit",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "theme": "product management career transition",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "product strategy and prioritization",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "scaling product teams",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "product sales alignment",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "company culture and focus",
+          "count": 1,
+          "percentage": 14.3
+        }
+      ],
+      "episodes": [
+        {
+          "id": "annie-pearl",
+          "guest": "Annie Pearl",
+          "title": "Behind the scenes of Calendly’s rapid growth | Annie Pearl (CPO)",
+          "date": "2023-02-26"
+        },
+        {
+          "id": "christina-wodtke",
+          "guest": "Christina Wodtke",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+          "date": "2023-03-16"
+        },
+        {
+          "id": "christine-itwaru",
+          "guest": "Christine Itwaru",
+          "title": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+          "date": "2023-02-16"
+        },
+        {
+          "id": "crystal-w",
+          "guest": "Crystal W",
+          "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+          "date": "2023-03-16"
+        },
+        {
+          "id": "eeke-de-milliano",
+          "guest": "Eeke de Milliano",
+          "title": "How to foster innovation and big thinking | Eeke de Milliano (Retool, Stripe)",
+          "date": "2023-02-02"
+        },
+        {
+          "id": "gaurav-misra",
+          "guest": "Gaurav Misra",
+          "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+          "date": "2023-02-12"
+        },
+        {
+          "id": "gustaf-alstromer",
+          "guest": "Gustaf Alstromer",
+          "title": "Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)",
+          "date": "2023-03-02"
+        }
+      ]
+    },
+    {
+      "period": "2023-Q2",
+      "start_date": "2023-04-01",
+      "end_date": "2023-06-30",
+      "episode_count": 9,
+      "top_themes": [
+        {
+          "theme": "career development",
+          "count": 3,
+          "percentage": 33.3
+        },
+        {
+          "theme": "work life balance",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "leadership development",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "product led growth",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "executive coaching",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "personal values and authenticity",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "curiosity loops and advice gathering",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "women in silicon valley",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "entrepreneurship and founding companies",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "networking and professional growth",
+          "count": 1,
+          "percentage": 11.1
+        }
+      ],
+      "episodes": [
+        {
+          "id": "ada-chen-rekhi",
+          "guest": "Ada Chen Rekhi",
+          "title": "Feeling stuck? Here's how to know when it's time to leave your job | Ada Chen Rekhi",
+          "date": "2023-04-21"
+        },
+        {
+          "id": "andy-raskin",
+          "guest": "Andy Raskin",
+          "title": "The power of strategic narrative | Andy Raskin",
+          "date": "2023-05-28"
+        },
+        {
+          "id": "ayo-omojola",
+          "guest": "Ayo Omojola",
+          "title": "Frameworks for product differentiation, team building, and first principles thinking | Ayo Omojola",
+          "date": "2023-05-14"
+        },
+        {
+          "id": "carilu-dietrich",
+          "guest": "Carilu Dietrich",
+          "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian)",
+          "date": "2023-04-30"
+        },
+        {
+          "id": "casey-winters",
+          "guest": "Casey Winters",
+          "title": "Why most product managers are unprepared for the demands of a real startup | Casey Winters",
+          "date": "2023-04-14"
+        },
+        {
+          "id": "david-placek",
+          "guest": "David Placek",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "date": "2023-05-04"
+        },
+        {
+          "id": "david-singleton",
+          "guest": "David Singleton",
+          "title": "Building a culture of excellence | David Singleton (CTO of Stripe)",
+          "date": "2023-05-04"
+        },
+        {
+          "id": "gustav-söderström",
+          "guest": "Gustav Söderström",
+          "title": "The science of product, big bets, and how AI is impacting the future of music | Gustav Söderström",
+          "date": "2023-05-21"
+        },
+        {
+          "id": "hila-qu",
+          "guest": "Hila Qu",
+          "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+          "date": "2023-04-02"
+        }
+      ]
+    },
+    {
+      "period": "2023-Q3",
+      "start_date": "2023-07-01",
+      "end_date": "2023-09-30",
+      "episode_count": 10,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 3,
+          "percentage": 30.0
+        },
+        {
+          "theme": "entrepreneurship",
+          "count": 2,
+          "percentage": 20.0
+        },
+        {
+          "theme": "ai coding agents",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "product development at openai",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "developer productivity",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "agent human collaboration",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "future of software engineering",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "building ai products",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "startup acceleration with ai",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "product management in ai companies",
+          "count": 1,
+          "percentage": 10.0
+        }
+      ],
+      "episodes": [
+        {
+          "id": "alexander-embiricos",
+          "guest": "Alexander Embiricos",
+          "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+          "date": "2023-09-24"
+        },
+        {
+          "id": "andy-johns",
+          "guest": "Andy Johns",
+          "title": "When enough is enough | Andy Johns (ex-FB, Twitter, Quora)",
+          "date": "2023-09-10"
+        },
+        {
+          "id": "austin-hay",
+          "guest": "Austin Hay",
+          "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+          "date": "2023-08-13"
+        },
+        {
+          "id": "camille-hearst",
+          "guest": "Camille Hearst",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+          "date": "2023-08-20"
+        },
+        {
+          "id": "christopher-lochhead",
+          "guest": "Christopher Lochhead",
+          "title": "How to become a category pirate | Christopher Lochhead (Author of Play Bigger, Niche Down, more)",
+          "date": "2023-09-17"
+        },
+        {
+          "id": "christopher-miller",
+          "guest": "Christopher Miller",
+          "title": "Relentless curiosity, radical accountability, and HubSpot’s winning growth formula | Chris Miller",
+          "date": "2023-08-10"
+        },
+        {
+          "id": "claire-butler",
+          "guest": "Claire Butler",
+          "title": "An inside look at Figma’s unique GTM motion | Claire Butler (first GTM hire)",
+          "date": "2023-09-07"
+        },
+        {
+          "id": "geoff-charles",
+          "guest": "Geoff Charles",
+          "title": "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles",
+          "date": "2023-08-06"
+        },
+        {
+          "id": "hamilton-helmer",
+          "guest": "Hamilton Helmer",
+          "title": "Monetizing passions, scaling marketplaces, and stories from a creator economy vet | Camille Hearst",
+          "date": "2023-08-20"
+        },
+        {
+          "id": "hari-srinivasan",
+          "guest": "Hari Srinivasan",
+          "title": "LinkedIn’s product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn)",
+          "date": "2023-07-16"
+        }
+      ]
+    },
+    {
+      "period": "2023-Q4",
+      "start_date": "2023-10-01",
+      "end_date": "2023-12-31",
+      "episode_count": 12,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 3,
+          "percentage": 25.0
+        },
+        {
+          "theme": "working backwards methodology",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "theme": "organizational design",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "theme": "product development processes",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "theme": "company culture",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "theme": "product management in india",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "theme": "full stack product management",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "theme": "user experience for new users",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "theme": "marketplace dynamics",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "theme": "product strategy frameworks",
+          "count": 1,
+          "percentage": 8.3
+        }
+      ],
+      "episodes": [
+        {
+          "id": "anuj-rathi",
+          "guest": "Anuj Rathi",
+          "title": "The full-stack PM | Anuj Rathi (Swiggy, Jupiter Money, Flipkart)",
+          "date": "2023-12-07"
+        },
+        {
+          "id": "april-dunford",
+          "guest": "April Dunford",
+          "title": "A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Sales Pitch)",
+          "date": "2023-10-22"
+        },
+        {
+          "id": "bill-carr",
+          "guest": "Bill Carr",
+          "title": "Unpacking Amazon’s unique ways of working | Bill Carr (author of Working Backwards)",
+          "date": "2023-11-02"
+        },
+        {
+          "id": "brian-chesky",
+          "guest": "Brian Chesky",
+          "title": "Brian Chesky’s new playbook",
+          "date": "2023-11-12"
+        },
+        {
+          "id": "chip-conley",
+          "guest": "Chip Conley",
+          "title": "Mastering product strategy and growing as a PM | Maggie Crowley (Toast, Drift, TripAdvisor)",
+          "date": "2023-11-05"
+        },
+        {
+          "id": "christian-idiodi",
+          "guest": "Christian Idiodi",
+          "title": "The essence of product management | Christian Idiodi (SVPG)",
+          "date": "2023-12-21"
+        },
+        {
+          "id": "ebi-atawodi",
+          "guest": "Ebi Atawodi",
+          "title": "Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)",
+          "date": "2023-12-03"
+        },
+        {
+          "id": "eoy-review",
+          "guest": "EOY Review",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "date": "2023-10-29"
+        },
+        {
+          "id": "eric-ries",
+          "guest": "Eric Ries",
+          "title": "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)",
+          "date": "2023-10-29"
+        },
+        {
+          "id": "failure",
+          "guest": "Failure",
+          "title": "Failure",
+          "date": "2023-12-13"
+        },
+        {
+          "id": "gina-gotthilf",
+          "guest": "Gina Gotthilf",
+          "title": "Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf",
+          "date": "2023-10-19"
+        },
+        {
+          "id": "gokul-rajaram",
+          "guest": "Gokul Rajaram",
+          "title": "What AI means for your product strategy | Paul Adams (CPO of Intercom)",
+          "date": "2023-10-26"
+        }
+      ]
+    },
+    {
+      "period": "2024-Q1",
+      "start_date": "2024-01-01",
+      "end_date": "2024-03-31",
+      "episode_count": 7,
+      "top_themes": [
+        {
+          "theme": "growth strategy",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "long term thinking vs short term metrics",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "experimentation and holdout testing",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "product led growth",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "organizational structure",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "metrics and measurement",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "founder mode leadership",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "churn optimization",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "team collaboration",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "theme": "early stage startup experiences",
+          "count": 1,
+          "percentage": 14.3
+        }
+      ],
+      "episodes": [
+        {
+          "id": "archie-abrams",
+          "guest": "Archie Abrams",
+          "title": "How to speak more confidently and persuasively | Matt Abrahams (professor, speaker, author)",
+          "date": "2024-03-31"
+        },
+        {
+          "id": "boz",
+          "guest": "Boz",
+          "title": "Making Meta | Andrew ‘Boz’ Bosworth (CTO)",
+          "date": "2024-03-03"
+        },
+        {
+          "id": "donna-lichaw",
+          "guest": "Donna Lichaw",
+          "title": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw",
+          "date": "2024-02-25"
+        },
+        {
+          "id": "elizabeth-stone",
+          "guest": "Elizabeth Stone",
+          "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+          "date": "2024-02-22"
+        },
+        {
+          "id": "emilie-gerber",
+          "guest": "Emilie Gerber",
+          "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+          "date": "2024-03-21"
+        },
+        {
+          "id": "ethan-evans",
+          "guest": "Ethan Evans",
+          "title": "Taking control of your career | Ethan Evans (Amazon)",
+          "date": "2024-01-14"
+        },
+        {
+          "id": "heidi-helfand",
+          "guest": "Heidi Helfand",
+          "title": "The art and wisdom of changing teams | Heidi Helfand (Author of Dynamic Reteaming)",
+          "date": "2024-01-18"
+        }
+      ]
+    },
+    {
+      "period": "2024-Q2",
+      "start_date": "2024-04-01",
+      "end_date": "2024-06-30",
+      "episode_count": 9,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 3,
+          "percentage": 33.3
+        },
+        {
+          "theme": "women in tech leadership",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "decision making frameworks",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "growth strategies",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "theme": "authentic leadership",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "curiosity driven disagreement",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "product management execution",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "using metaphors for communication",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "strategy vs execution balance",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "cross functional team alignment",
+          "count": 1,
+          "percentage": 11.1
+        }
+      ],
+      "episodes": [
+        {
+          "id": "ami-vora",
+          "guest": "Ami Vora",
+          "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+          "date": "2024-06-23"
+        },
+        {
+          "id": "annie-duke",
+          "guest": "Annie Duke",
+          "title": "This will make you a better decision maker | Annie Duke (Thinking In Bets, former pro poker player)",
+          "date": "2024-05-02"
+        },
+        {
+          "id": "bangaly-kaba",
+          "guest": "Bangaly Kaba",
+          "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YT, IG, FB)",
+          "date": "2024-05-26"
+        },
+        {
+          "id": "cam-adams",
+          "guest": "Cam Adams",
+          "title": "Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams",
+          "date": "2024-06-02"
+        },
+        {
+          "id": "carole-robin",
+          "guest": "Carole Robin",
+          "title": "How to build deeper, more robust relationships | Carole Robin (Stanford professor, “Touchy Feely”)",
+          "date": "2024-04-25"
+        },
+        {
+          "id": "claire-vo",
+          "guest": "Claire Vo",
+          "title": "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)",
+          "date": "2024-04-07"
+        },
+        {
+          "id": "dalton-caldwell",
+          "guest": "Dalton Caldwell",
+          "title": "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)",
+          "date": "2024-04-18"
+        },
+        {
+          "id": "dharmesh-shah",
+          "guest": "Dharmesh Shah",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+          "date": "2024-04-04"
+        },
+        {
+          "id": "hamelshreya",
+          "guest": "Hamel+Shreya",
+          "title": "Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO)",
+          "date": "2024-04-04"
+        }
+      ]
+    },
+    {
+      "period": "2024-Q3",
+      "start_date": "2024-07-01",
+      "end_date": "2024-09-30",
+      "episode_count": 8,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 3,
+          "percentage": 37.5
+        },
+        {
+          "theme": "decision making frameworks",
+          "count": 2,
+          "percentage": 25.0
+        },
+        {
+          "theme": "marketplace business models",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "product market fit",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "supply and demand dynamics",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "growth strategies",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "marketplace liquidity",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "quality management",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "european vs us tech culture",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "theme": "healthcare innovation",
+          "count": 1,
+          "percentage": 12.5
+        }
+      ],
+      "episodes": [
+        {
+          "id": "benjamin-lauzier",
+          "guest": "Benjamin Lauzier",
+          "title": "How marketplaces win: Liquidity, growth levers, quality, more | Benjamin Lauzier (Lyft, Thumbtack)",
+          "date": "2024-09-29"
+        },
+        {
+          "id": "brandon-chu",
+          "guest": "Brandon Chu",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+          "date": "2024-08-04"
+        },
+        {
+          "id": "brian-tolkin",
+          "guest": "Brian Tolkin",
+          "title": "Lessons from scaling Uber and Opendoor | Brian Tolkin (Head of Product at Opendoor, ex-Uber)",
+          "date": "2024-08-04"
+        },
+        {
+          "id": "camille-fournier",
+          "guest": "Camille Fournier",
+          "title": "The things engineers are desperate for PMs to understand | Camille Fournier (“The Manager’s Path”)",
+          "date": "2024-09-15"
+        },
+        {
+          "id": "deb-liu",
+          "guest": "Deb Liu",
+          "title": "Succeeding as an introvert, building zero-to-one, and PM’ing your career like a product | Deb Liu",
+          "date": "2024-08-22"
+        },
+        {
+          "id": "drew-houston",
+          "guest": "Drew Houston",
+          "title": "How embracing your emotions will accelerate your career | Joe Hudson (Art of Accomplishment)",
+          "date": "2024-08-08"
+        },
+        {
+          "id": "eli-schwartz",
+          "guest": "Eli Schwartz",
+          "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+          "date": "2024-09-19"
+        },
+        {
+          "id": "evan-lapointe",
+          "guest": "Evan LaPointe",
+          "title": "Improve strategy, influence, and decision-making by understanding your brain | Evan LaPointe",
+          "date": "2024-08-11"
+        }
+      ]
+    },
+    {
+      "period": "2024-Q4",
+      "start_date": "2024-10-01",
+      "end_date": "2024-12-31",
+      "episode_count": 3,
+      "top_themes": [
+        {
+          "theme": "ai and llms impact on product development",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "gardening vs building mindset",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "organizational dynamics and kayfabe",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "systems thinking and emergence",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "product strategy and navigation",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "personal productivity and reflection",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "community building and strategy salons",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "the adjacent possible and incremental progress",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "taste and differentiation in the ai era",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "product management",
+          "count": 1,
+          "percentage": 33.3
+        }
+      ],
+      "episodes": [
+        {
+          "id": "alex-komoroske",
+          "guest": "Alex Komoroske",
+          "title": "Thinking like a gardener, slime mold, the adjacent possible: Product advice from Alex Komoroske",
+          "date": "2024-10-03"
+        },
+        {
+          "id": "anneka-gupta",
+          "guest": "Anneka Gupta",
+          "title": "Becoming more strategic, navigating difficult colleagues, founder mode, more | Anneka Gupta",
+          "date": "2024-10-17"
+        },
+        {
+          "id": "farhan-thawar",
+          "guest": "Farhan Thawar",
+          "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+          "date": "2024-12-19"
+        }
+      ]
+    },
+    {
+      "period": "2025-Q1",
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-31",
+      "episode_count": 9,
+      "top_themes": [
+        {
+          "theme": "ai product development",
+          "count": 3,
+          "percentage": 33.3
+        },
+        {
+          "theme": "difficult conversations",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "leadership development",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "executive coaching",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "performance management",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "founder relationships",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "meeting effectiveness",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "feedback delivery",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "company culture",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "theme": "conflict resolution",
+          "count": 1,
+          "percentage": 11.1
+        }
+      ],
+      "episodes": [
+        {
+          "id": "alisa-cohn",
+          "guest": "Alisa Cohn",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+          "date": "2025-01-05"
+        },
+        {
+          "id": "anton-osika",
+          "guest": "Anton Osika",
+          "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+          "date": "2025-03-09"
+        },
+        {
+          "id": "bob-moesta",
+          "guest": "Bob Moesta",
+          "title": "How to find work you love | Bob Moesta (Jobs-to-be-Done co-creator, author of \"Job Moves”)",
+          "date": "2025-02-23"
+        },
+        {
+          "id": "chandra-janakiraman",
+          "guest": "Chandra Janakiraman",
+          "title": "An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace)",
+          "date": "2025-01-26"
+        },
+        {
+          "id": "chip-huyen",
+          "guest": "Chip Huyen",
+          "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen",
+          "date": "2025-02-09"
+        },
+        {
+          "id": "elena-verna",
+          "guest": "Elena Verna",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "date": "2025-01-19"
+        },
+        {
+          "id": "elena-verna-40",
+          "guest": "Elena Verna 4.0",
+          "title": "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)",
+          "date": "2025-01-19"
+        },
+        {
+          "id": "eric-simons",
+          "guest": "Eric Simons",
+          "title": "Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons",
+          "date": "2025-03-13"
+        },
+        {
+          "id": "graham-weaver",
+          "guest": "Graham Weaver",
+          "title": "How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor)",
+          "date": "2025-01-16"
+        }
+      ]
+    },
+    {
+      "period": "2025-Q2",
+      "start_date": "2025-04-01",
+      "end_date": "2025-06-30",
+      "episode_count": 3,
+      "top_themes": [
+        {
+          "theme": "product design philosophy",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "software as a medium",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "design leadership and culture",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "team collaboration and structure",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "moral obligation in product building",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "design thinking and decision making",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "career transitions and culture fit",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "apollo program lessons for product teams",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "product strategy frameworks",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "theme": "netflix product decisions and case studies",
+          "count": 1,
+          "percentage": 33.3
+        }
+      ],
+      "episodes": [
+        {
+          "id": "bob-baxley",
+          "guest": "Bob Baxley",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "date": "2025-06-12"
+        },
+        {
+          "id": "gibson-biddle",
+          "guest": "Gibson Biddle",
+          "title": "35 years of product design wisdom from Apple, Disney, Pinterest and beyond | Bob Baxley",
+          "date": "2025-06-12"
+        },
+        {
+          "id": "hilary-gridley",
+          "guest": "Hilary Gridley",
+          "title": "How to build a team that can “take a punch” | Hilary Gridley (Head of Core Product, Whoop)",
+          "date": "2025-06-15"
+        }
+      ]
+    },
+    {
+      "period": "2025-Q3",
+      "start_date": "2025-07-01",
+      "end_date": "2025-09-30",
+      "episode_count": 10,
+      "top_themes": [
+        {
+          "theme": "product management",
+          "count": 3,
+          "percentage": 30.0
+        },
+        {
+          "theme": "product development strategy",
+          "count": 2,
+          "percentage": 20.0
+        },
+        {
+          "theme": "startup idea generation",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "business model evaluation",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "ai automation and productivity",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "wealth and happiness",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "mental health and entrepreneurship",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "hiring and people management",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "bootstrap vs venture backed businesses",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "theme": "competitive moats and defensibility",
+          "count": 1,
+          "percentage": 10.0
+        }
+      ],
+      "episodes": [
+        {
+          "id": "andrew-wilkinson",
+          "guest": "Andrew Wilkinson",
+          "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson",
+          "date": "2025-07-03"
+        },
+        {
+          "id": "asha-sharma",
+          "guest": "Asha Sharma",
+          "title": "How 80,000 companies build with AI: Products as organisms and the death of org charts | Asha Sharma",
+          "date": "2025-08-28"
+        },
+        {
+          "id": "ben-horowitz",
+          "guest": "Ben Horowitz",
+          "title": "$46B of hard truths: Why founders fail and why you need to run toward fear | Ben Horowitz (a16z)",
+          "date": "2025-09-11"
+        },
+        {
+          "id": "brendan-foody",
+          "guest": "Brendan Foody",
+          "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+          "date": "2025-09-18"
+        },
+        {
+          "id": "bret-taylor",
+          "guest": "Bret Taylor",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+          "date": "2025-08-24"
+        },
+        {
+          "id": "brian-balfour",
+          "guest": "Brian Balfour",
+          "title": "Why ChatGPT will be the next big growth channel (and how to capitalize on it) | Brian Balfour",
+          "date": "2025-08-17"
+        },
+        {
+          "id": "dan-shipper",
+          "guest": "Dan Shipper",
+          "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+          "date": "2025-07-17"
+        },
+        {
+          "id": "ethan-smith",
+          "guest": "Ethan Smith",
+          "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+          "date": "2025-09-14"
+        },
+        {
+          "id": "garrett-lord",
+          "guest": "Garrett Lord",
+          "title": "Inside the expert network training every frontier AI model | Garrett Lord",
+          "date": "2025-08-24"
+        },
+        {
+          "id": "howie-liu",
+          "guest": "Howie Liu",
+          "title": "How we restructured Airtable's entire org for AI | Howie Liu (co-founder and CEO)",
+          "date": "2025-08-31"
+        }
+      ]
+    },
+    {
+      "period": "2025-Q4",
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "episode_count": 6,
+      "top_themes": [
+        {
+          "theme": "growth strategies",
+          "count": 3,
+          "percentage": 50.0
+        },
+        {
+          "theme": "consumer subscription products",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "experimentation",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "product led growth",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "habit formation and user retention",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "team building and hiring",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "ai product development",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "freemium business models",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "cross functional collaboration",
+          "count": 1,
+          "percentage": 16.7
+        },
+        {
+          "theme": "ai transformation and adoption",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ],
+      "episodes": [
+        {
+          "id": "albert-cheng",
+          "guest": "Albert Cheng",
+          "title": "Finding hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+          "date": "2025-10-05"
+        },
+        {
+          "id": "dhanji-r-prasanna",
+          "guest": "Dhanji R. Prasanna",
+          "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+          "date": "2025-10-26"
+        },
+        {
+          "id": "dylan-field",
+          "guest": "Dylan Field",
+          "title": "Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups | Dylan Field",
+          "date": "2025-10-16"
+        },
+        {
+          "id": "edwin-chen",
+          "guest": "Edwin Chen",
+          "title": "The $1B Al company training ChatGPT, Claude & Gemini on the path to responsible AGI | Edwin Chen",
+          "date": "2025-12-07"
+        },
+        {
+          "id": "fei-fei",
+          "guest": "Fei Fei",
+          "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
+          "date": "2025-11-16"
+        },
+        {
+          "id": "grant-lee",
+          "guest": "Grant Lee",
+          "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (co-founder)",
+          "date": "2025-11-13"
+        }
+      ]
+    }
+  ],
+  "theme_trajectories": {
+    "product management": {
+      "first_appearance": "2022-Q4",
+      "total_count": 25,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 4,
+          "percentage": 36.4
+        },
+        {
+          "period": "2023-Q1",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 3,
+          "percentage": 30.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 3,
+          "percentage": 25.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 3,
+          "percentage": 33.3
+        },
+        {
+          "period": "2024-Q3",
+          "count": 3,
+          "percentage": 37.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 3,
+          "percentage": 30.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "growth strategies": {
+      "first_appearance": "2022-Q3",
+      "total_count": 18,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 2,
+          "percentage": 50.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 2,
+          "percentage": 18.2
+        },
+        {
+          "period": "2023-Q1",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 3,
+          "percentage": 50.0
+        }
+      ]
+    },
+    "product market fit": {
+      "first_appearance": "2022-Q3",
+      "total_count": 10,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 3,
+          "percentage": 27.3
+        },
+        {
+          "period": "2023-Q1",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "product led growth": {
+      "first_appearance": "2022-Q4",
+      "total_count": 10,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "period": "2023-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "startup scaling": {
+      "first_appearance": "2022-Q4",
+      "total_count": 8,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 4,
+          "percentage": 36.4
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "leadership development": {
+      "first_appearance": "2022-Q4",
+      "total_count": 7,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2024-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "decision making frameworks": {
+      "first_appearance": "2023-Q3",
+      "total_count": 7,
+      "trajectory": [
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2024-Q3",
+          "count": 2,
+          "percentage": 25.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "work life balance": {
+      "first_appearance": "2022-Q3",
+      "total_count": 6,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "career development": {
+      "first_appearance": "2022-Q4",
+      "total_count": 6,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 2,
+          "percentage": 22.2
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "experimentation": {
+      "first_appearance": "2022-Q3",
+      "total_count": 5,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "cross functional collaboration": {
+      "first_appearance": "2022-Q4",
+      "total_count": 5,
+      "trajectory": [
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "company culture": {
+      "first_appearance": "2023-Q1",
+      "total_count": 5,
+      "trajectory": [
+        {
+          "period": "2023-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "ai product development": {
+      "first_appearance": "2024-Q2",
+      "total_count": 5,
+      "trajectory": [
+        {
+          "period": "2024-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 3,
+          "percentage": 33.3
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "product positioning": {
+      "first_appearance": "2022-Q3",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 1,
+          "percentage": 9.1
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "go to market strategy": {
+      "first_appearance": "2022-Q3",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 2,
+          "percentage": 18.2
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "product development processes": {
+      "first_appearance": "2023-Q1",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2023-Q1",
+          "count": 2,
+          "percentage": 28.6
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "first principles thinking": {
+      "first_appearance": "2023-Q1",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2023-Q1",
+          "count": 1,
+          "percentage": 14.3
+        },
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 1,
+          "percentage": 10.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 1,
+          "percentage": 33.3
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "team building and hiring": {
+      "first_appearance": "2023-Q2",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 1,
+          "percentage": 8.3
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 1,
+          "percentage": 16.7
+        }
+      ]
+    },
+    "organizational design": {
+      "first_appearance": "2023-Q2",
+      "total_count": 4,
+      "trajectory": [
+        {
+          "period": "2023-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 2,
+          "percentage": 16.7
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2024-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    "jobs to be done framework": {
+      "first_appearance": "2022-Q3",
+      "total_count": 3,
+      "trajectory": [
+        {
+          "period": "2022-Q3",
+          "count": 1,
+          "percentage": 25.0
+        },
+        {
+          "period": "2022-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2023-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q1",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2024-Q3",
+          "count": 1,
+          "percentage": 12.5
+        },
+        {
+          "period": "2024-Q4",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q1",
+          "count": 1,
+          "percentage": 11.1
+        },
+        {
+          "period": "2025-Q2",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q3",
+          "count": 0,
+          "percentage": 0.0
+        },
+        {
+          "period": "2025-Q4",
+          "count": 0,
+          "percentage": 0.0
+        }
+      ]
+    }
+  },
+  "notable_shifts": [
+    {
+      "theme": "ai product development",
+      "shift_type": "emergence",
+      "description": "'ai product development' is a newer topic, first appearing in 2024-Q2 with 5 total episodes"
+    },
+    {
+      "theme": "product market fit",
+      "shift_type": "decline",
+      "description": "'product market fit' has declined: 7 episodes in first half → 3 in second half"
+    },
+    {
+      "theme": "product led growth",
+      "shift_type": "decline",
+      "description": "'product led growth' has declined: 8 episodes in first half → 2 in second half"
+    },
+    {
+      "theme": "startup scaling",
+      "shift_type": "decline",
+      "description": "'startup scaling' has declined: 6 episodes in first half → 2 in second half"
+    },
+    {
+      "theme": "decision making frameworks",
+      "shift_type": "decline",
+      "description": "'decision making frameworks' has declined: 6 episodes in first half → 1 in second half"
+    },
+    {
+      "theme": "work life balance",
+      "shift_type": "decline",
+      "description": "'work life balance' has declined: 4 episodes in first half → 1 in second half"
+    },
+    {
+      "theme": "career development",
+      "shift_type": "decline",
+      "description": "'career development' has declined: 4 episodes in first half → 1 in second half"
+    },
+    {
+      "theme": "company culture",
+      "shift_type": "decline",
+      "description": "'company culture' has declined: 4 episodes in first half → 1 in second half"
+    },
+    {
+      "theme": "first principles thinking",
+      "shift_type": "decline",
+      "description": "'first principles thinking' has declined: 3 episodes in first half → 1 in second half"
+    },
+    {
+      "theme": "product management",
+      "shift_type": "consistent",
+      "description": "'product management' is a consistent topic, appearing in 10/13 quarters (25 total episodes)"
+    }
+  ],
+  "metadata": {
+    "total_episodes": 110,
+    "episodes_with_dates": 108,
+    "quarters_covered": 14,
+    "date_range": "2022-Q3 to 2025-Q4",
+    "generated_at": "2026-01-16T16:44:49.978409"
+  }
+}

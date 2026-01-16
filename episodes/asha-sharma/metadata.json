@@ -82,5 +82,6 @@
   "difficulty_level": "advanced",
   "summary": "Asha Sharma shares unique insights on AI's transformation of product development, from static artifacts to living organisms, and predicts the emergence of an agentic society that will reshape organizational structures. She provides tactical guidance on post-training strategies, planning methodologies, and the evolution toward code-native interfaces while drawing from her experience overseeing Microsoft's AI platform serving 15,000 customers.",
   "analyzed_at": "2026-01-14T15:31:24.416994+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2025-08-28"
 }

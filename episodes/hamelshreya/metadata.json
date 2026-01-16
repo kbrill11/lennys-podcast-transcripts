@@ -83,5 +83,6 @@
   "difficulty_level": "intermediate",
   "summary": "Hamel and Shreya provide a comprehensive, step-by-step guide to building effective evaluations for AI products, emphasizing the critical importance of error analysis and systematic data review. They demonstrate practical techniques for identifying failure modes, building automated evaluators, and continuously improving AI applications through structured measurement approaches.",
   "analyzed_at": "2026-01-14T16:31:42.613617+00:00",
-  "analyzer_version": "1.0.0"
+  "analyzer_version": "1.0.0",
+  "publish_date": "2024-04-04"
 }
